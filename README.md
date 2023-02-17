@@ -45,6 +45,10 @@
 
 https://refactoring.guru/design-patterns/rust
 
+<br>
+
+<hr>
+
 # Rust Mind Map
 
 https://github.com/ItFlyingStart/Rust
