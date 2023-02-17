@@ -40,6 +40,10 @@
 
 <br>
 
+# Design-Patterns (Rustlang)
+
+https://refactoring.guru/design-patterns/rust
+
 # Rust Mind Map
 
 https://github.com/ItFlyingStart/Rust
