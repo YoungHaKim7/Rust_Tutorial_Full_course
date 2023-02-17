@@ -40,6 +40,7 @@
 
 <br>
 
+![design_patterns](https://user-images.githubusercontent.com/67513038/219593397-b9a305ba-1c07-416c-9815-697dc235fe52.png)
 # Design-Patterns (Rustlang)
 
 https://refactoring.guru/design-patterns/rust
