@@ -12,3 +12,9 @@ https://youtu.be/DEE1GKMbtgw
 # Rust Linz, January '22 - Error Handling in Rust - A Pragmatic Approach by Luca Palmieri
 
 https://youtu.be/jpVzSse7oJ4
+
+# The Rust Lang Book | Let's Get Rusty
+
+https://youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+
