@@ -18,6 +18,12 @@ https://rust-unofficial.github.io/patterns/intro.html
 
 https://rust-unofficial.github.io/patterns/additional_resources/design-principles.html
 
+
+# Design Patterns __ 8 Design Patterns EVERY Developer Should Know(python 코드로 쉽게 설명해줌)
+
+https://youtu.be/tAuRQs_d9F8
+
+
 ## A brief overview over common design principles
 
 # SOLID
