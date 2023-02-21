@@ -564,3 +564,11 @@ https://economiceco.tistory.com/8614
 # Rust \_\_Unstable - Book
 
 https://doc.rust-lang.org/beta/unstable-book/the-unstable-book.html
+
+# google(comprehensive-rust) 구글팀에서 만든 러스트 4일 완성 tutorial
+
+https://google.github.io/comprehensive-rust/
+
+# comprehensive-rust (other resources)
+
+https://google.github.io/comprehensive-rust/other-resources.html
