@@ -600,3 +600,9 @@ https://google.github.io/comprehensive-rust/
 # comprehensive-rust (other resources)
 
 https://google.github.io/comprehensive-rust/other-resources.html
+
+# 기타 등등 Rust tutorial
+
+- tutorialpoint
+
+  - https://www.tutorialspoint.com/rust/index.htm
