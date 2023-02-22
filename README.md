@@ -475,6 +475,10 @@ https://github.com/usagi/rust-memory-container-cs
 ![rust-container](https://github.com/usagi/rust-memory-container-cs/blob/master/3840x2160/rust-memory-container-cs-3840x2160-dark-back.png)
 
 <br>
+          
+![rust-memory-container-cs-1280x720-dark-back-high-contrast](https://user-images.githubusercontent.com/67513038/220502317-67b4ff08-b922-4a66-a65d-00c061cf7dbe.png)
+          
+<br>
 
 # Ownership Concept Diagram
 
@@ -483,8 +487,6 @@ https://github.com/usagi/rust-memory-container-cs
 ## 출처:
 
 https://www.reddit.com/r/rust/comments/mgh9n9/ownership_concept_diagram/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
-
-![rust-memory-container-cs-1280x720-dark-back-high-contrast](https://user-images.githubusercontent.com/67513038/220502317-67b4ff08-b922-4a66-a65d-00c061cf7dbe.png)
 
 <br>
 
