@@ -42,6 +42,29 @@ https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung
 
 <hr>
 
+# Rust Doc std(standard Library DOC)
+
+https://doc.rust-lang.org/std/
+
+<br>
+
+##  DOCS.RS(rust 기타 crate문서들)
+
+https://docs.rs/
+
+<br>
+
+<hr>
+
+# awesome rust
+https://github.com/awesome-rust-com/awesome-rust
+
+<br>
+
+<br>
+
+<hr>
+
 <br>
 
 ![design_patterns](https://user-images.githubusercontent.com/67513038/219593397-b9a305ba-1c07-416c-9815-697dc235fe52.png)
