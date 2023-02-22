@@ -70,6 +70,19 @@ https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung
 
 <br>
 
+# google(comprehensive-rust) 구글팀에서 만든 러스트 4일 완성 tutorial
+
+https://google.github.io/comprehensive-rust/
+
+# comprehensive-rust (other resources)
+
+https://google.github.io/comprehensive-rust/other-resources.html
+
+# 기타 등등 Rust tutorial
+
+- tutorialpoint
+
+  - https://www.tutorialspoint.com/rust/index.htm
 
 # Rust Doc std(standard Library DOC)
 
@@ -632,16 +645,4 @@ https://economiceco.tistory.com/8614
 
 https://doc.rust-lang.org/beta/unstable-book/the-unstable-book.html
 
-# google(comprehensive-rust) 구글팀에서 만든 러스트 4일 완성 tutorial
 
-https://google.github.io/comprehensive-rust/
-
-# comprehensive-rust (other resources)
-
-https://google.github.io/comprehensive-rust/other-resources.html
-
-# 기타 등등 Rust tutorial
-
-- tutorialpoint
-
-  - https://www.tutorialspoint.com/rust/index.htm
