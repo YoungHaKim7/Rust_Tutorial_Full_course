@@ -131,6 +131,8 @@ a component of a system should behave in a way that most users will expect it to
 
 https://serokell.io/blog/rust-vs-haskell
 
+- https://github.com/YoungHaKim7/Haskell_Lang
+
 <br>
 
 # Haskell & Rust mind map
