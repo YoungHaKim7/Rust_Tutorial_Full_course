@@ -183,6 +183,8 @@ echo "/target" >> .gitignore
 
 # 윈도우 파워셀에서 러스트 target폴더 지우기(pwsh.exe) WindowsOS에서
 
+- 상위 폴더에서 하면 하위 폴더에 있는 target 폴더 다 지워진다. ㅎㅎ 편하네 ㅋㅋ 개꿀!!
+
 ```
 Get-ChildItem -Filter ./target -Recurse -Force | Remove-Item -Recurse -Force
 ```
