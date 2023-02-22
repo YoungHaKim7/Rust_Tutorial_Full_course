@@ -84,6 +84,10 @@ https://google.github.io/comprehensive-rust/other-resources.html
 
   - https://www.tutorialspoint.com/rust/index.htm
 
+    - String(tutorialpoint)
+
+    - https://www.tutorialspoint.com/rust/rust_string.htm
+
 # Rust Doc std(standard Library DOC)
 
 https://doc.rust-lang.org/std/
