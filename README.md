@@ -54,6 +54,12 @@ https://docs.rs/
 
 <br>
 
+# Rust Language Cheast Sheet
+
+https://cheats.rs/
+
+https://github.com/ralfbiedert/cheats.rs/
+
 <hr>
 
 # awesome rust
@@ -171,12 +177,6 @@ https://github.com/ItFlyingStart/Rust
 # Rust Mind Map 2
 
 https://www.aloneguid.uk/posts/2021/01/rust/
-
-# Rust Language Cheast Sheet
-
-https://cheats.rs/
-
-https://github.com/ralfbiedert/cheats.rs/
 
 # 윈도우 파웨셀에서 원하는 폴더 강제로 지우기(pwsh.exe) WindowsOS에서
 
