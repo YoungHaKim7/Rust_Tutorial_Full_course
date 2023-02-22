@@ -311,6 +311,18 @@ https://github.com/ItFlyingStart/Rust
 
 https://www.aloneguid.uk/posts/2021/01/rust/
 
+# Save space by cleaning non-essential files from software projects.
+
+- 러스트 프로젝트가 많아지면 target폴더 지워야하는데 ```kondo```라고 치면 다 지워준다. 최고!!💕
+
+```
+kondo
+```
+
+- Cleans unneeded directories and files from your system.
+
+  - https://github.com/tbillington/kondo
+
 # 윈도우 파웨셀에서 원하는 폴더 강제로 지우기(pwsh.exe) WindowsOS에서
 
 - rm -Force 지우고 싶은 폴더
@@ -350,13 +362,6 @@ Get-ChildItem -Filter ./target -Recurse -Force | Remove-Item -Recurse -Force
 ```
 dir .\ -r -i "target"
 ```
-
-# Save space by cleaning non-essential files from software projects.
-
-- Cleans unneeded directories and files from your system.
-
-  - https://github.com/tbillington/kondo
-
 
 
 # Tutorial Rust
