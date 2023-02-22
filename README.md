@@ -54,7 +54,7 @@ https://docs.rs/
 
 <br>
 
-# Rust Language Cheast Sheet
+# Rust Language Cheats Sheet
 
 https://cheats.rs/
 
