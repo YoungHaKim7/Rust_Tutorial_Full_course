@@ -484,6 +484,8 @@ https://github.com/usagi/rust-memory-container-cs
 
 https://www.reddit.com/r/rust/comments/mgh9n9/ownership_concept_diagram/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
 
+![rust-memory-container-cs-1280x720-dark-back-high-contrast](https://user-images.githubusercontent.com/67513038/220502317-67b4ff08-b922-4a66-a65d-00c061cf7dbe.png)
+
 <br>
 
 ![Screenshot 2023-01-21 at 10 56 20 AM](https://user-images.githubusercontent.com/67513038/213838895-8194e55a-abe4-472e-8ed4-f34e7770425a.png)
@@ -501,6 +503,7 @@ https://economiceco.tistory.com/12591
 
 Rust) shared reference ❤️ unique reference
 https://youtu.be/Bfqx_V2gp1Y
+
 
 <br>
 
