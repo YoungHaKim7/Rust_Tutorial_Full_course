@@ -173,6 +173,12 @@ rm -Force .\read_line03
 
 echo /target >> .gitignore
 
+
+or
+
+
+echo "/target" >> .gitignore
+
 ```
 
 # 윈도우 파워셀에서 러스트 target폴더 지우기(pwsh.exe) WindowsOS에서
