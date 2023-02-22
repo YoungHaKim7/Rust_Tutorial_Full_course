@@ -171,7 +171,7 @@ rm -Force .\read_line03
 
 ```
 
-echo $/target >> .gitignore
+echo /target >> .gitignore
 
 ```
 
