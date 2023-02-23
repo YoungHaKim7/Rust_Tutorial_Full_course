@@ -196,6 +196,10 @@ We'll review all of this in more detail. Some useful links:
 
 https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#rust
 
+  - 러스트Rust❤️👍 기초 다 배우고 간단한 프로그램 만들면서 감 잡기
+
+    - https://github.com/MunGell/awesome-for-beginners#rust
+
 # 모든 언어를 무료로 공부할 수 있다.
 
 출처 : stackoverflow.com
