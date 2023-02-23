@@ -213,6 +213,10 @@ https://github.com/EbookFoundation/free-programming-books
 
 https://ebookfoundation.github.io/free-programming-books/
 
+# 모든 언어 기초 배우고 기초적인 프로그램 만들기 awesome for beginners 너무 좋다.❤️👍
+
+https://github.com/MunGell/awesome-for-beginners
+
 <br>
 
 # YouTubeContents_GlobalYoung
