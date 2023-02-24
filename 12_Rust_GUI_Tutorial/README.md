@@ -46,12 +46,12 @@ https://google.github.io/comprehensive-rust/exercises/day-3/solutions-morning.ht
     - https://github.com/iced-rs/iced
     
    
-- relm4 GUI[![crates.io](https://img.shields.io/crates/v/relm4.svg)](https://crates.io/crates/reml4)![Crates.io](https://img.shields.io/crates/l/reml4)![druidDownloads](https://img.shields.io/crates/d/relm4.svg)<a href="https://github.com/inebender/druid"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
-![druidstar](https://img.shields.io/github/stars/linebender/relm4.svg)
+- relm4 GUI[![crates.io](https://img.shields.io/crates/v/relm4.svg)](https://crates.io/crates/reml4)![Crates.io](https://img.shields.io/crates/l/reml4)![druidDownloads](https://img.shields.io/crates/d/relm4.svg)<a href="https://github.com/Relm4/Relm4"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
+![druidstar](https://img.shields.io/github/stars/Relm4/Relm4.svg)
 
     - An idiomatic GUI library inspired by Elm and based on gtk4-rs. Relm4 is a new version of relm that's built from scratch and is compatible with GTK4 and libadwaita. 
     
-    - https://
+    - https://github.com/Relm4/Relm4
 
     - https://relm4.org/
 
