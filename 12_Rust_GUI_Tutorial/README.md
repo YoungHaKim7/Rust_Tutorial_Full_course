@@ -47,8 +47,7 @@ https://google.github.io/comprehensive-rust/exercises/day-3/solutions-morning.ht
     
    
 - relm4 GUI[![crates.io](https://img.shields.io/crates/v/relm4.svg)](https://crates.io/crates/reml4)![Crates.io](https://img.shields.io/crates/l/reml4)![druidDownloads](https://img.shields.io/crates/d/relm4.svg)<a href="https://github.com/Relm4/Relm4"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
-![druidstar](https://img.shields.io/github/stars/Relm4/Relm4.svg)<a href="https://github.com/Relm4/Relm4"><img alt="relm4doc" width="10px"  src="https://camo.githubusercontent.com/ccef9610e0710c25c63fe8a8886c7d230e82c853a665ea76fa2437befadf8f56/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f727573742d646f63756d656e746174696f6e2d626c7565.png" /></a>
-<a href="https://docs.rs/relm4/" rel="nofollow noopener noreferrer"><img src="https://img.shields.io/badge/rust-documentation-blue" alt="Relm4 docs"></a>
+![druidstar](https://img.shields.io/github/stars/Relm4/Relm4.svg)<a href="https://docs.rs/relm4/" rel="nofollow noopener noreferrer"><img src="https://img.shields.io/badge/rust-documentation-blue" alt="Relm4 docs"></a>
 
     - An idiomatic GUI library inspired by Elm and based on gtk4-rs. Relm4 is a new version of relm that's built from scratch and is compatible with GTK4 and libadwaita. 
     
