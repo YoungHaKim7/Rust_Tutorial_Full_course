@@ -52,7 +52,7 @@ https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung
 
 2021-12-10 : Rust 기초 강의 시작<br>
 
-> #### Rust (My teacher스승님 Git)
+> #### Rust (My teacher스승님 Github)
 
 > - https://github.com/Dhghomon/easy_rust/
 
