@@ -1,5 +1,9 @@
 https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung
 
+- 코딩Coding-Rust러스트 | 러스트_프로그래밍Rust
+
+- https://youtube.com/playlist?list=PLcMveqN_07maeDuKrsf5GYMDB5obTWoWg
+
 <hr>
 
 ![Screenshot 2023-02-13 at 11 35 45 PM](https://user-images.githubusercontent.com/67513038/218490501-f12b971f-363a-45c8-9ea1-4633d40e3364.png)
