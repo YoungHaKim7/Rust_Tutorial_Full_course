@@ -2,7 +2,7 @@ https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung
 
 - 코딩Coding-Rust러스트 | 러스트_프로그래밍Rust
 
-- https://youtube.com/playlist?list=PLcMveqN_07maeDuKrsf5GYMDB5obTWoWg
+  - https://youtube.com/playlist?list=PLcMveqN_07maeDuKrsf5GYMDB5obTWoWg
 
 <hr>
 
