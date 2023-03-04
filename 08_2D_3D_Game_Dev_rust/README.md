@@ -14,7 +14,7 @@ https://gamedev.rs/
 
 https://arewegameyet.rs/resources/tutorials/
 
- - Bevy
+ - Bevy(https://github.com/bevyengine/bevy)
 
     - https://bevy-cheatbook.github.io/
 
