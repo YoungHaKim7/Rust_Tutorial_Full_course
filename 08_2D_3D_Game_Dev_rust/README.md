@@ -24,6 +24,10 @@ https://arewegameyet.rs/resources/tutorials/
 
     - https://arewegameyet.rs/#ecosystem
 
+# DigitalExtinction-Game(Rust)
+
+https://github.com/DigitalExtinction/Game
+
 # Rust Game Dev
 
 - Bevy[![crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy)![License+Bevy](https://img.shields.io/badge/license-MIT%2FApache-blue.svg)![bevyDownloads](https://img.shields.io/crates/d/bevy.svg)<a href="https://github.com/bevyengine/bevy/"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![bevystar](https://img.shields.io/github/stars/bevyengine/bevy.svg)
