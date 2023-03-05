@@ -22,7 +22,11 @@ trait Amphibious: WaterCapable + LandCapable {}
 
 struct Hovercraft;
 impl Amphibious for Hovercraft {}
-impl LandCapable for Hovercraft {}
+impl LandCapable for Hovercraft {
+    fn drive(&self) {
+        println!("Hovercraft driving")
+    }
+}
 impl WaterCapable for Hovercraft {}
 
 fn road_trip(vehicle: &impl LandCapable) {
