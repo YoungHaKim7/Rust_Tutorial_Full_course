@@ -1,3 +1,7 @@
+# Rust bootcamp(LetsGetRusty)
+
+https://github.com/letsgetrusty/bootcamp
+
 # Rust advanced beginners.
 
 https://github.com/pretzelhammer/rust-blog
