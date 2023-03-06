@@ -4,7 +4,7 @@
 
   - https://youtu.be/CHRNj5oubwc
 
-# <T>로 사용하는 generic과 impl로 사용하는 generic 은 내부적으로 작동하는 방식이 똑같나요??
+# &lt;T&gt;로 사용하는 generic과 impl로 사용하는 generic 은 내부적으로 작동하는 방식이 똑같나요??
 
 답글
 
