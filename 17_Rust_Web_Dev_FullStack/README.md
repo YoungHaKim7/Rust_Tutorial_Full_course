@@ -19,9 +19,9 @@ How to install and use the wasmtime CLI
 Information about stability and security in Wasmtime.
 ... and more! The source for this guide lives on GitHub and contributions are welcome!
     
-    - https://github.com/bytecodealliance/wasmtime
+- https://github.com/bytecodealliance/wasmtime
 
-    - https://wasmtime.dev/
+- https://wasmtime.dev/
 
 # Build your entire tech stack in Rust | Let's Get Rusty
 
