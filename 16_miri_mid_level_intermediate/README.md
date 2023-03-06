@@ -16,6 +16,5 @@ rustup +nightly component add miri
 
 - <a href="https://www.amazon.science/publications/using-lightweight-formal-methods-to-validate-a-key-value-storage-node-in-amazon-s3">Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3</a>
 
-- SyRust: Automatic Testing of Rust Libraries with Semantic-Aware Program Synthesis
-
+- <a href="https://dl.acm.org/doi/10.1145/3453483.3454084">SyRust: Automatic Testing of Rust Libraries with Semantic-Aware Program Synthesis</a>
 
