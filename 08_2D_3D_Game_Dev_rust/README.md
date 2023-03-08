@@ -19,6 +19,10 @@ https://arewegameyet.rs/resources/tutorials/
     - https://bevy-cheatbook.github.io/
 
     - https://bevyengine.org/examples/
+    
+      - Bevy Basics
+      
+      - https://www.youtube.com/playlist?list=PL6uRoaCCw7GN_lJxpKS3j-KXuThRiSXc6
 
   - aerwegameyet
 
