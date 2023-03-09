@@ -8,7 +8,9 @@ https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung
 
 # Rust atomics & Locks 집중 분석
 
-https://marabos.nl/atomics/
+- Rust Atomics and Locks (Low-Level Concurrency in Practice by Mara Bos)
+
+  - https://marabos.nl/atomics/
 
 <br>
 
