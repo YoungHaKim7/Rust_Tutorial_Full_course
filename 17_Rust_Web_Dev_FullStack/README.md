@@ -168,6 +168,10 @@ https://www.sea-ql.org/SeaORM/docs/introduction/orm/
 
 <br>
 
+# Rust CookBook(DB)
+
+https://rust-lang-nursery.github.io/rust-cookbook/database/postgres.html
+
 # Build your entire tech stack in Rust | Let's Get Rusty
 
 https://youtu.be/luOgEhLE2sg
