@@ -87,6 +87,51 @@
 
 <hr>
 
+# An async & dynamic ORM for Rust
+
+- ORM뜻 이해하기 https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/
+
+  - Object Relational Mapping (ORM) is a technique used in creating a "bridge" between object-oriented programs and, in most cases, relational databases.
+
+  - Put another way, you can see the ORM as the layer that connects object oriented programming (OOP) to relational databases.
+
+## diesel(Async)
+
+Diesel is the most productive way to interact with databases in Rust because of its safe and composable abstractions over queries.
+
+- diesel[![crates.io](https://img.shields.io/crates/v/diesel.svg)](https://crates.io/crates/diesel)![Crates.io](https://img.shields.io/crates/l/diesel)![wasmtimeDownloads](https://img.shields.io/crates/d/diesel.svg)<a href="https://github.com/diesel-rs/diesel"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
+  ![druidstar](https://img.shields.io/github/stars/diesel-rs/diesel.svg)
+
+- <p dir="auto"><a href="https://diesel.rs/" rel="nofollow">Website</a> | <a href="https://surrealdb.com/docs/start" rel="nofollow">Guides</a> | <a href="https://docs.rs/diesel/2.0.3/diesel/" rel="nofollow">API Docs</a>
+
+- https://github.com/diesel-rs/diesel/discussions
+
+- Diesel is a Safe, Extensible ORM and Query Builder for Rust
+
+- https://docs.diesel.rs/master/diesel/index.html
+
+- https://diesel.rs/guides/getting-started
+
+- https://diesel.rs/
+
+  - Supported databases:
+
+    - PostgreSQL
+    - MySQL
+    - SQLite
+
+## SeaORM(Async)
+
+- An async & dynamic ORM for Rust
+
+  - SeaORM[![crates.io](https://img.shields.io/crates/v/sea-orm.svg)](https://crates.io/crates/sea-orm)![Crates.io](https://img.shields.io/crates/l/sea-orm)![wasmtimeDownloads](https://img.shields.io/crates/d/sea-orm.svg)<a href="https://github.com/SeaQL/sea-orm"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/SeaQL/sea-orm.svg)
+
+  - <p dir="auto"><a href="https://www.sea-ql.org/SeaORM/" rel="nofollow">Website</a> | <a href="https://www.sea-ql.org/SeaORM/docs/index/" rel="nofollow">Guides</a> | <a href="https://docs.rs/sea-orm/0.11.1/sea_orm/" rel="nofollow">API Docs</a>
+
+  - https://github.com/SeaQL/sea-orm
+
+<hr>
+
 <br>
 
 # Build your entire tech stack in Rust | Let's Get Rusty
