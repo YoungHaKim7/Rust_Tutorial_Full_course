@@ -135,6 +135,7 @@ Diesel is the most productive way to interact with databases in Rust because of 
     - https://www.sea-ql.org/SeaORM/docs/introduction/tutorial/
 
 <hr>
+
 ## What is an ORM
 
 An Object Relational Mapper (ORM) is a programming library to help you interact with a relational database from an Object-Oriented Programming (OOP) language.
