@@ -1,6 +1,6 @@
 # Rust FullStack_Web Dev.
 
-## Asynchronous
+## Web Framework for Rust
 
 - tokio.rs[![crates.io](https://img.shields.io/crates/v/tokio.svg)](https://crates.io/crates/tokio)![Crates.io](https://img.shields.io/crates/l/tokio)![wasmtimeDownloads](https://img.shields.io/crates/d/tokio.svg)<a href="https://github.com/tokio-rs/tokio"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/tokio-rs/tokio.svg)
 
@@ -17,6 +17,20 @@
   - Scalable: Tokio has a minimal footprint, and handles backpressure and cancellation naturally.
 
     - https://github.com/tokio-rs/tokio
+
+<br>
+
+- Rocket[![crates.io](https://img.shields.io/crates/v/rocket.svg)](https://crates.io/crates/rocket)![Crates.io](https://img.shields.io/crates/l/rocket)![wasmtimeDownloads](https://img.shields.io/crates/d/rocket.svg)<a href="https://github.com/SergioBenitez/Rocket"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/SergioBenitez/Rocket.svg)
+
+  - A web framework for Rust.
+
+  - <p dir="auto"><a href="https://rocket.rs/" rel="nofollow">Website</a> | <a href="https://rocket.rs/v0.5-rc/guide/" rel="nofollow">Guides</a> | <a href="https://api.rocket.rs/v0.4/rocket/" rel="nofollow">API Docs</a>
+
+    https://rocket.rs/v0.5-rc/guide/faq/#faq
+
+    Rocket is a web framework for Rust that makes it simple to write fast, secure web applications without sacrificing flexibility, usability, or type safety.
+
+  - https://rocket.rs/
 
 ## DB
 
