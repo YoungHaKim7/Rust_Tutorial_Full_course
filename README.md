@@ -1,6 +1,6 @@
 https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung
 
-- 코딩Coding-Rust러스트 | 러스트_프로그래밍Rust(GlobalYoung)
+- 코딩Coding-Rust러스트 | 러스트\_프로그래밍Rust(GlobalYoung)
 
   - https://youtube.com/playlist?list=PLcMveqN_07maeDuKrsf5GYMDB5obTWoWg
 
@@ -108,7 +108,7 @@ https://doc.rust-lang.org/std/
 
 <br>
 
-##  DOCS.RS(rust 기타 crate문서들)
+## DOCS.RS(rust 기타 crate문서들)
 
 https://docs.rs/
 
@@ -123,6 +123,7 @@ https://github.com/ralfbiedert/cheats.rs/
 <hr>
 
 # awesome rust
+
 https://github.com/awesome-rust-com/awesome-rust
 
 <br>
@@ -151,8 +152,7 @@ https://doc.rust-lang.org/book/
 
 ## Experiment: Improving the Rust Book
 
-  - https://rust-book.cs.brown.edu/
-
+- https://rust-book.cs.brown.edu/
 
 # Clippy
 
@@ -210,9 +210,9 @@ We'll review all of this in more detail. Some useful links:
 
 https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#rust
 
-  - 러스트Rust❤️👍 기초 다 배우고 간단한 프로그램 만들면서 감 잡기
+- 러스트Rust❤️👍 기초 다 배우고 간단한 프로그램 만들면서 감 잡기
 
-    - https://github.com/MunGell/awesome-for-beginners#rust
+  - https://github.com/MunGell/awesome-for-beginners#rust
 
 # 모든 언어를 무료로 공부할 수 있다.
 
@@ -336,9 +336,9 @@ https://github.com/usagi/rust-memory-container-cs
 <br>
 
 - small size ver.
-          
+
 ![rust-memory-container-cs-small-dark-back-high-contrast](https://user-images.githubusercontent.com/67513038/220503296-bbc31e6b-93d1-4e25-ac93-052aa2e89ab5.png)
-          
+
 <br>
 
 # Ownership Concept Diagram
@@ -366,7 +366,6 @@ https://economiceco.tistory.com/12591
 
 Rust) shared reference ❤️ unique reference
 https://youtu.be/Bfqx_V2gp1Y
-
 
 <br>
 
@@ -396,7 +395,7 @@ https://youtu.be/VFIOSWy93H0
   https://youtu.be/OwQxo4sGVWo
 
 - 깊은 복사 vs 얇은 복사 이해
-  shallow_copy**vs**deep_copy
+  Shallow_Copy **VS** Deep_Copy
   https://youtu.be/J11bAkyMbN0
 
 ## 내 블로그에 정리
@@ -473,7 +472,6 @@ Rust's Option in One Figure Posted in r/rust by u/arsdragonfly
 
 <hr>
 
-
 <hr>
 
 <br>
@@ -485,6 +483,7 @@ Rust's Option in One Figure Posted in r/rust by u/arsdragonfly
 <br>
 
 ![design_patterns](https://user-images.githubusercontent.com/67513038/219593397-b9a305ba-1c07-416c-9815-697dc235fe52.png)
+
 # Design-Patterns (Rustlang)<a href="https://www.rust-lang.org/"><img alt="rust1" width="32px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a>
 
 https://refactoring.guru/design-patterns/rust
@@ -499,7 +498,6 @@ https://rust-unofficial.github.io/patterns/intro.html
 
 <br>
 
-
 # Design principles
 
 https://rust-unofficial.github.io/patterns/additional_resources/design-principles.html
@@ -507,16 +505,17 @@ https://rust-unofficial.github.io/patterns/additional_resources/design-principle
 ## A brief overview over common design principles
 
 # SOLID
-  - Single Responsibility Principle (SRP): A class should only have a single responsibility, that is, only changes to one part of the software's specification should be able to affect the specification of the class.
-  
-  - Open/Closed Principle (OCP): "Software entities ... should be open for extension, but closed for modification."
 
-  - Liskov Substitution Principle (LSP): "Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program."
+- Single Responsibility Principle (SRP): A class should only have a single responsibility, that is, only changes to one part of the software's specification should be able to affect the specification of the class.
 
-  - Interface Segregation Principle (ISP): "Many client-specific interfaces are better than one general-purpose interface."
+- Open/Closed Principle (OCP): "Software entities ... should be open for extension, but closed for modification."
 
-  - Dependency Inversion Principle (DIP): One should "depend upon abstractions, [not] concretions."
-DRY (Don’t Repeat Yourself)
+- Liskov Substitution Principle (LSP): "Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program."
+
+- Interface Segregation Principle (ISP): "Many client-specific interfaces are better than one general-purpose interface."
+
+- Dependency Inversion Principle (DIP): One should "depend upon abstractions, [not] concretions."
+  DRY (Don’t Repeat Yourself)
 
 "Every piece of knowledge must have a single, unambiguous, authoritative representation within a system"
 
@@ -541,15 +540,19 @@ bundling of data with the methods that operate on that data, or the restricting 
 “Functions should not produce abstract side effects...only commands (procedures) will be permitted to produce side effects.” - Bertrand Meyer: Object-Oriented Software Construction
 
 # Principle of least astonishment (POLA)
+
 a component of a system should behave in a way that most users will expect it to behave. The behavior should not astonish or surprise users
 
 # Linguistic-Modular-Units
+
 “Modules must correspond to syntactic units in the language used.” - Bertrand Meyer: Object-Oriented Software Construction
 
 # Self-Documentation
+
 “The designer of a module should strive to make all information about the module part of the module itself.” - Bertrand Meyer: Object-Oriented Software Construction
 
 # Uniform-Access
+
 “All services offered by a module should be available through a uniform notation, which does not betray whether they are implemented through storage or through computation.” - Bertrand Meyer: Object-Oriented Software Construction
 
 # Single-Choice
@@ -557,6 +560,7 @@ a component of a system should behave in a way that most users will expect it to
 “Whenever a software system must support a set of alternatives, one and only one module in the system should know their exhaustive list.” - Bertrand Meyer: Object-Oriented Software Construction
 
 # Persistence-Closure
+
 “Whenever a storage mechanism stores an object, it must store with it the dependents of that object. Whenever a retrieval mechanism retrieves a previously stored object, it must also retrieve any dependent of that object that has not yet been retrieved.” - Bertrand Meyer: Object-Oriented Software Construction
 
 <br>
@@ -591,7 +595,7 @@ https://www.aloneguid.uk/posts/2021/01/rust/
 
 # Save space by cleaning non-essential files from software projects.
 
-- 러스트 프로젝트가 많아지면 target폴더 지워야하는데 ```kondo```라고 치면 다 지워준다. 최고!!💕
+- 러스트 프로젝트가 많아지면 target폴더 지워야하는데 `kondo`라고 치면 다 지워준다. 최고!!💕
 
 ```
 kondo
@@ -641,7 +645,6 @@ Get-ChildItem -Filter ./target -Recurse -Force | Remove-Item -Recurse -Force
 dir .\ -r -i "target"
 ```
 
-
 # Tutorial Rust
 
 https://github.com/GuillaumeGomez/tuto-rust-fr
@@ -655,7 +658,6 @@ https://github.com/GuillaumeGomez/tuto-rust-fr
 <hr>
 
 <br>
-
 
 ## 시작 예제 some, None ex)(외국 유튜버 설명)
 
@@ -672,5 +674,3 @@ https://economiceco.tistory.com/8614
 # Rust \_\_Unstable - Book
 
 https://doc.rust-lang.org/beta/unstable-book/the-unstable-book.html
-
-
