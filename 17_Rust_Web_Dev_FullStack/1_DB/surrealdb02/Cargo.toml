@@ -1,0 +1,12 @@
+[package]
+name = "surrealdb02"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.69"
+surrealdb = "1.0.0-beta.8"
+thiserror = "1.0.39"
+tokio = { version = "1.26.0", features = ["full"] }
