@@ -57,6 +57,53 @@
 
     SurrealDB makes building and scaling realtime apps dramatically quicker and easier. Get started by installing the server, and jump into our getting started guide to learn how to insert and query data in SurrealDB in minutes.
 
+- Posgres
+
+  - Postgres[![crates.io](https://img.shields.io/crates/v/postgres.svg)](https://crates.io/crates/postgres)![Crates.io](https://img.shields.io/crates/l/postgres)![wasmtimeDownloads](https://img.shields.io/crates/d/postgres.svg)<a href="https://github.com/surrealdb/surrealdb.rs"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/sfackler/rust-postgres.svg)
+
+  - <p dir="auto"><a href="https://github.com/sfackler/rust-postgres" rel="nofollow">Website</a> | <a href="https://docs.rs/postgres/latest/postgres/" rel="nofollow">API Docs</a>
+
+  - https://github.com/sfackler/rust-postgres
+
+  <div class="_wrapper_1y1g39">
+    <h1><a href="#rust-postgres" id="user-content-rust-postgres" rel="nofollow noopener noreferrer"></a>Rust-Postgres</h1>
+  <p>PostgreSQL support for Rust.</p>
+  <h2><a href="#postgres-latest-version" id="user-content-postgres-latest-version" rel="nofollow noopener noreferrer"></a>postgres <a href="https://crates.io/crates/postgres" rel="nofollow noopener noreferrer"><img src="https://img.shields.io/crates/v/postgres.svg" alt="Latest Version"></a></h2>
+  <p><a href="https://docs.rs/postgres" rel="nofollow noopener noreferrer">Documentation</a></p>
+  <p>A native, synchronous PostgreSQL client.</p>
+  <h2><a href="#tokio-postgres-latest-version" id="user-content-tokio-postgres-latest-version" rel="nofollow noopener noreferrer"></a>tokio-postgres <a href="https://crates.io/crates/tokio-postgres" rel="nofollow noopener noreferrer"><img src="https://img.shields.io/crates/v/tokio-postgres.svg" alt="Latest Version"></a></h2>
+  <p><a href="https://docs.rs/tokio-postgres" rel="nofollow noopener noreferrer">Documentation</a></p>
+  <p>A native, asynchronous PostgreSQL client.</p>
+  <h2><a href="#postgres-types-latest-version" id="user-content-postgres-types-latest-version" rel="nofollow noopener noreferrer"></a>postgres-types <a href="https://crates.io/crates/postgres-types" rel="nofollow noopener noreferrer"><img src="https://img.shields.io/crates/v/postgres-types.svg" alt="Latest Version"></a></h2>
+  <p><a href="https://docs.rs/postgres-types" rel="nofollow noopener noreferrer">Documentation</a></p>
+  <p>Conversions between Rust and Postgres types.</p>
+  <h2><a href="#postgres-native-tls-latest-version" id="user-content-postgres-native-tls-latest-version" rel="nofollow noopener noreferrer"></a>postgres-native-tls <a href="https://crates.io/crates/postgres-native-tls" rel="nofollow noopener noreferrer"><img src="https://img.shields.io/crates/v/postgres-native-tls.svg" alt="Latest Version"></a></h2>
+  <p><a href="https://docs.rs/postgres-native-tls" rel="nofollow noopener noreferrer">Documentation</a></p>
+  <p>TLS support for postgres and tokio-postgres via native-tls.</p>
+  <h2><a href="#postgres-openssl-latest-version" id="user-content-postgres-openssl-latest-version" rel="nofollow noopener noreferrer"></a>postgres-openssl <a href="https://crates.io/crates/postgres-openssl" rel="nofollow noopener noreferrer"><img src="https://img.shields.io/crates/v/postgres-openssl.svg" alt="Latest Version"></a></h2>
+  <p><a href="https://docs.rs/postgres-openssl" rel="nofollow noopener noreferrer">Documentation</a></p>
+  <p>TLS support for postgres and tokio-postgres via openssl.</p>
+  <h1><a href="#running-test-suite" id="user-content-running-test-suite" rel="nofollow noopener noreferrer"></a>Running test suite</h1>
+  <p>The test suite requires postgres to be running in the correct configuration. The easiest way to do this is with docker:</p>
+  <ol>
+  <li>Install <code>docker</code> and <code>docker-compose</code>.
+  <ol>
+  <li>On ubuntu: <code>sudo apt install docker.io docker-compose</code>.</li>
+  </ol>
+  </li>
+  <li>Make sure your user has permissions for docker.
+  <ol>
+  <li>On ubuntu: <code>sudo usermod -aG docker $USER</code></li>
+  </ol>
+  </li>
+  <li>Change to top-level directory of <code>rust-postgres</code> repo.</li>
+  <li>Run <code>docker-compose up -d</code>.</li>
+  <li>Run <code>cargo test</code>.</li>
+  <li>Run <code>docker-compose stop</code>.</li>
+  </ol>
+
+  </div>
+
 ## WASM
 
 - A fast and secure runtime for WebAssembly
