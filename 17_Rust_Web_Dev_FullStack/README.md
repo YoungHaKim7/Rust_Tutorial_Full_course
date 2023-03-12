@@ -130,6 +130,10 @@ Diesel is the most productive way to interact with databases in Rust because of 
 
   - https://github.com/SeaQL/sea-orm
 
+  - SeaORM Tutorial
+
+    - https://www.sea-ql.org/SeaORM/docs/introduction/tutorial/
+
 <hr>
 ## What is an ORM
 
