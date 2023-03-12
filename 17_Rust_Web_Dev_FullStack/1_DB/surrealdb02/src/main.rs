@@ -12,6 +12,8 @@ async fn main() -> Result<()> {
     // -- Create
     let sql = "CREATE task:1 SET title = 'task 01', priority = 10";
     let ress = ds.execute(sql, &ses, None, false).await?;
+    let sql = "CREATE task:2 SET title = 'task 02', priority = 5";
+    let ress = ds.execute(sql, &ses, None, false).await?;
     println!("{ress:?}");
 
     Ok(())
