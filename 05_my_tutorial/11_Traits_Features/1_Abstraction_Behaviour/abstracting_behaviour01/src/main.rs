@@ -8,11 +8,6 @@ enum Title {
     Mx,
 }
 
-impl fmt::Display for Title {
-    fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
-        write!(f, "{}", &self)
-    }
-}
 
 impl Title {
     fn to_string(&self) -> String {
