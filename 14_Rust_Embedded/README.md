@@ -104,3 +104,11 @@ https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-pac-gpio-contro
 # Rust on RISC-V, a case study - Jorge Prendes and James Wainwright
 
 https://youtu.be/t5q0M5VDlQM
+
+# Best practices for integrating Rust and Qt in embedded systems
+
+https://www.embedded.com/best-practices-for-integrating-rust-and-qt-in-embedded-systems/
+
+# Embedded 관련 정보가 많음(뉴스 체크news)
+
+https://www.embedded.com/
