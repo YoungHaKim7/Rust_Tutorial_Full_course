@@ -100,3 +100,7 @@ https://github.com/thepowersgang/mrustc
 # STM32F4 Embedded Rust at the PAC: GPIO Control
 
 https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-pac-gpio-control
+
+# Rust on RISC-V, a case study - Jorge Prendes and James Wainwright
+
+https://youtu.be/t5q0M5VDlQM
