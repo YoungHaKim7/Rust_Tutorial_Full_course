@@ -112,3 +112,7 @@ https://www.embedded.com/best-practices-for-integrating-rust-and-qt-in-embedded-
 # Embedded 관련 정보가 많음(뉴스 체크news)
 
 https://www.embedded.com/
+
+# Best Practices for Integrating Rust and Qt in Embedded Systems
+
+https://foundation.rust-lang.org/news/best-practices-for-integrating-rust-and-qt-in-embedded-systems/
