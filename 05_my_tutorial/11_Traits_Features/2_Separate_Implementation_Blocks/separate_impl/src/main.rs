@@ -1,5 +1,19 @@
+use std::fmt;
+
 trait ToFrenchString {
     fn to_string(&self) -> String;
+}
+
+impl fmt::Display for dyn ToFrenchString {
+    fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
+        write!(f, "({})", self)
+    }
+}
+
+impl fmt::Display for Title {
+    fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
+        write!(f, "({})", self)
+    }
 }
 
 #[derive(Debug)]
@@ -10,7 +24,7 @@ enum Title {
     Mx,
 }
 
-impl Title {
+impl ToFrenchString for Title {
     fn to_string(&self) -> String {
         match self {
             Title::Mr => "Mr.".to_owned(),
@@ -28,13 +42,14 @@ struct Name {
     surname: String,
 }
 
-impl Name {
+impl ToString for Name {
     fn to_string(&self) -> String {
         let mut buf = String::new();
 
-        buf.push_str(&self.title.to_string());
+        buf.push_str(&ToString::to_string(&self.title));
         buf.push(' ');
         buf.push_str(&self.forename);
+        buf.push(' ');
         buf.push_str(&self.surname);
 
         buf
@@ -56,7 +71,7 @@ fn main() {
     let my_name = "Global Young2";
     my_title2.to_string();
 
-    println!("my_title: {my_title:?}");
+    // println!("my_title: {my_title:?}");
     println!("my_title2: {:?}", my_title2.to_string());
-    println!("my_title: {:?}", my_title.to_string());
+    // println!("my_title: {:?}", my_title.to_string());
 }
