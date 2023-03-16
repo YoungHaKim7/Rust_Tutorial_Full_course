@@ -104,6 +104,29 @@
 
   </div>
 
+<br>
+
+- 🧰 The Rust SQL Toolkit
+
+  - SQLx[![crates.io](https://img.shields.io/crates/v/sqlx.svg)](https://crates.io/crates/sqlx)![Crates.io](https://img.shields.io/crates/l/sqlx)![wasmtimeDownloads](https://img.shields.io/crates/d/sqlx.svg)<a href="https://github.com/launchbadge/sqlx"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
+    ![druidstar](https://img.shields.io/github/stars/launchbadge/sqlx.svg)
+
+  - <p dir="auto"><a href="https://github.com/launchbadge/sqlx" rel="nofollow">Website</a> | <a href="https://github.com/launchbadge/sqlx#usage" rel="nofollow">Usage</a> | <a href="https://docs.rs/sqlx/latest/sqlx/" rel="nofollow">API Docs</a> | <a href="https://github.com/launchbadge/sqlx#install" rel="nofollow">Install</a></p>
+
+    - SQLx is an async, pure Rust† SQL crate featuring compile-time checked queries without a DSL.
+
+      Truly Asynchronous. Built from the ground-up using async/await for maximum concurrency.
+
+      Compile-time checked queries (if you want). See SQLx is not an ORM.
+
+      Database Agnostic. Support for PostgreSQL, MySQL, SQLite, and MSSQL.
+
+      Pure Rust. The Postgres and MySQL/MariaDB drivers are written in pure Rust using zero unsafe†† code.
+
+      Runtime Agnostic. Works on different runtimes (async-std / tokio / actix) and TLS backends (native-tls, rustls).
+
+- https://github.com/launchbadge/sqlx
+
 ## WASM
 
 - A fast and secure runtime for WebAssembly
