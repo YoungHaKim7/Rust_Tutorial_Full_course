@@ -20,7 +20,7 @@ pub struct User {
     id: u32,
     name: String,
     role: Role,
-    #[cfg_attr(features = "serde", derive(skip))]
+    #[cfg_attr(feature = "serde", serde(skip))]
     db: Arc<DB>,
 }
 
