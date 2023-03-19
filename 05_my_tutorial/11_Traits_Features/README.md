@@ -19,6 +19,9 @@ When a type implements a trait it can be treated abstractly as that trait using 
   - 11:35 Alternative Iterator Trait
   - 13:11 Trait Bounds
   - 15:16 Return-Position-Impl-Trait(RPIT)
+  - 17:31 Additional Reading
+  - 17:48 actix_web
+  - 22:14 Handler trait
 
 ## Traits Features
 
