@@ -53,7 +53,7 @@ When a type implements a trait it can be treated abstractly as that trait using 
 
 <hr>
 
-# 5 traits your Rust types must implement | Let's Get Rusty
+# 5 traits your Rust types must implement | Let's Get Rusty | Super-traits
 
 - https://github.com/YoungHaKim7/Rust_Tutorial_Full_course/tree/main/05_my_tutorial/12_5_Traits_your_rust_types_must_implement
 
