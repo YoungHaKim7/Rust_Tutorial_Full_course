@@ -20,3 +20,11 @@ https://youtu.be/Nzclc6MswaI
 - Arc
 
 ## traits (Serialize & Deserialize)(JSON)
+
+<br>
+
+<hr>
+
+# Traits Features
+
+https://github.com/YoungHaKim7/Rust_Tutorial_Full_course/tree/main/05_my_tutorial/11_Traits_Features
