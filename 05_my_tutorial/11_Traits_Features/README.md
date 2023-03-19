@@ -9,7 +9,7 @@ When a type implements a trait it can be treated abstractly as that trait using 
 
 # Traits Features
 
-  - 4:01 Traits Features https://www.youtube.com/watch?v=7DOYtnCXucw&t=241s
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=241s">4:01</a> Traits Features
   - 4:09 Abstracting Behaviour
   - 5:13 Separate Implementation Blocks
   - 6:58 Foreign Implementation 
