@@ -13,13 +13,13 @@ When a type implements a trait it can be treated abstractly as that trait using 
   - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=249s">4:09</a> Abstracting Behaviour
   - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">5:13</a> Separate Implementation Blocks
   - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=418s">6:58</a> Foreign Implementation 
-  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">8:23</a> Default Implementation 
-  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">9:09</a> Super-traits
-  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">10:48</a> Associated Types
-  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">11:35</a> Alternative Iterator Trait
-  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">13:11</a> Trait Bounds
-  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">15:16</a> Return-Position-Impl-Trait(RPIT)
-  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">17:31</a> Additional Reading
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=503s">8:23</a> Default Implementation 
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=549s">9:09</a> Super-traits
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=648s">10:48</a> Associated Types
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=695s">11:35</a> Alternative Iterator Trait
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=791s">13:11</a> Trait Bounds
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=916s">15:16</a> Return-Position-Impl-Trait(RPIT)
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=1051s">17:31</a> Additional Reading
   - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">17:42</a> Extractors + Handlers
   - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">17:48</a> actix_web
   - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">20:12</a> pub fn to<F, Args>(handler: F) -> Route 
