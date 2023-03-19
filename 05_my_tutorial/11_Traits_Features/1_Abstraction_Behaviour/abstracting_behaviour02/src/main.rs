@@ -1,7 +1,3 @@
-trait ToFrenchString {
-    fn to_string(&self) -> String;
-}
-
 #[derive(Debug)]
 enum Title {
     Mr,
