@@ -14,3 +14,9 @@ https://youtu.be/Nzclc6MswaI
 - Hash
 - Eq
 - Ord
+
+## traits (Send+Sync)
+
+- Arc
+
+## traits (Serialize & Deserialize)(JSON)
