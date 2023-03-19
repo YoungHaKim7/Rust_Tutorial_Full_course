@@ -7,3 +7,10 @@ https://youtu.be/Nzclc6MswaI
 - Default
 - PartialEq
 - Send & Sync
+
+## 그 외에 많이 쓰는 trait
+
+- PartialOrd
+- Hash
+- Eq
+- Ord
