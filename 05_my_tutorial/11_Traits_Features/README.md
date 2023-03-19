@@ -9,16 +9,27 @@ When a type implements a trait it can be treated abstractly as that trait using 
 
 # Traits Features
 
-- 4:01 Traits Features
-- 4:09 Abstracting Behaviour
-- 5:13 Separate Implementation Blocks
-- 6:58 Foreign Implementation 
-- 8:23 Default Implementation 
-- 9:09 Super-traits
-- 10:48 Associated Types
-- 11:35 Alternative Iterator Trait
-- 13:11 Trait Bounds
-- 15:16 Return-Position-Impl-Trait(RPIT)
+  - 4:01 Traits Features
+  - 4:09 Abstracting Behaviour
+  - 5:13 Separate Implementation Blocks
+  - 6:58 Foreign Implementation 
+  - 8:23 Default Implementation 
+  - 9:09 Super-traits
+  - 10:48 Associated Types
+  - 11:35 Alternative Iterator Trait
+  - 13:11 Trait Bounds
+  - 15:16 Return-Position-Impl-Trait(RPIT)
+
+## Traits Features
+
+- Abstracting Behaviour
+- Separate Implementation Blocks
+- Foreign Implementation 
+- Default Implementation 
+- Super-traits
+- Associated Types
+- Trait Bounds
+- Return-Position-Impl-Trait(RPIT)
 
 ## Additional Reading 
 
