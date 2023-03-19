@@ -10,22 +10,22 @@ When a type implements a trait it can be treated abstractly as that trait using 
 # Traits Features
 
   - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=241s">4:01</a> Traits Features
-  - 4:09 Abstracting Behaviour
-  - 5:13 Separate Implementation Blocks
-  - 6:58 Foreign Implementation 
-  - 8:23 Default Implementation 
-  - 9:09 Super-traits
-  - 10:48 Associated Types
-  - 11:35 Alternative Iterator Trait
-  - 13:11 Trait Bounds
-  - 15:16 Return-Position-Impl-Trait(RPIT)
-  - 17:31 Additional Reading
-  - 17:42 Extractors + Handlers
-  - 17:48 actix_web
-  - 20:12 pub fn to<F, Args>(handler: F) -> Route 
-  - 21:03 trait FromRequest: Sized {}
-  - 22:14 Handler trait
-  - 25:45 pub(crate) fn handler_service<F, Args>(handler:F) -> BoxedHttpServiceFactory
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=249s">4:09</a> Abstracting Behaviour
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">5:13</a> Separate Implementation Blocks
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=418s">6:58</a> Foreign Implementation 
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">8:23</a> Default Implementation 
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">9:09</a> Super-traits
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">10:48</a> Associated Types
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">11:35</a> Alternative Iterator Trait
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">13:11</a> Trait Bounds
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">15:16</a> Return-Position-Impl-Trait(RPIT)
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">17:31</a> Additional Reading
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">17:42</a> Extractors + Handlers
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">17:48</a> actix_web
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">20:12</a> pub fn to<F, Args>(handler: F) -> Route 
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">21:03</a> trait FromRequest: Sized {}
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">22:14</a> Handler trait
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">25:45</a> pub(crate) fn handler_service<F, Args>(handler:F) -> BoxedHttpServiceFactory
 
 ## Traits Features
 
