@@ -1,4 +1,4 @@
-# 5 traits your Rust types must implement | Let's Get Rusty
+# 5 traits your Rust types must implement | Let's Get Rusty | Super-traits
 
 https://youtu.be/Nzclc6MswaI
 
