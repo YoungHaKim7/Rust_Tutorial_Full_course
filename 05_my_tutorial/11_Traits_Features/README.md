@@ -20,12 +20,12 @@ When a type implements a trait it can be treated abstractly as that trait using 
   - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=791s">13:11</a> Trait Bounds
   - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=916s">15:16</a> Return-Position-Impl-Trait(RPIT)
   - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=1051s">17:31</a> Additional Reading
-  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">17:42</a> Extractors + Handlers
-  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">17:48</a> actix_web
-  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">20:12</a> pub fn to<F, Args>(handler: F) -> Route 
-  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">21:03</a> trait FromRequest: Sized {}
-  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">22:14</a> Handler trait
-  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=313s">25:45</a> pub(crate) fn handler_service<F, Args>(handler:F) -> BoxedHttpServiceFactory
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=1062">17:42</a> Extractors + Handlers
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=1068s">17:48</a> actix_web
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=1212s">20:12</a> pub fn to<F, Args>(handler: F) -> Route 
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=1263s">21:03</a> trait FromRequest: Sized {}
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=1334s">22:14</a> Handler trait
+  - <a href="https://www.youtube.com/watch?v=7DOYtnCXucw&t=1545s">25:45</a> pub(crate) fn handler_service<F, Args>(handler:F) -> BoxedHttpServiceFactory
 
 ## Traits Features
 
