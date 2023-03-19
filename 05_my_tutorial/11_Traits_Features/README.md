@@ -7,6 +7,8 @@ When a type implements a trait it can be treated abstractly as that trait using 
 
 유형이 특성을 구현할 때 일반론을 사용하여 해당 특성으로 추상적으로 처리할 수 있습니다.
 
+# Traits Features
+
 - 4:01 Traits Features
 - 4:09 Abstracting Behaviour
 - 5:13 Separate Implementation Blocks
@@ -17,3 +19,15 @@ When a type implements a trait it can be treated abstractly as that trait using 
 - 11:35 Alternative Iterator Trait
 - 13:11 Trait Bounds
 - 15:16 Return-Position-Impl-Trait(RPIT)
+
+## Additional Reading 
+
+  - Dynamic Dispatch(dyn Trait)
+  - Associated Constants
+  - Generic Associated Types(GATs)
+  - Marker Traits
+  - Auto Traits
+ 
+## Unstable Features
+
+  -
