@@ -14,3 +14,7 @@ https://youtu.be/8UTZbeHtVJk
 # 한글러스트Rust강의_038_lapce_⭐️Rust_traits기초 #rustlang
 
 https://youtu.be/Gpe-zGS5W0I
+
+# Easy Rust 127: impl trait to return closures from functions
+
+https://youtu.be/xazaHXnvnDM
