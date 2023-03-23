@@ -153,7 +153,7 @@
 
     - https://wasmtime.dev/
 
-## FrontEnd
+# FrontEnd
 
 - tauri[![crates.io](https://img.shields.io/crates/v/tauri.svg)](https://crates.io/crates/tauri)![Crates.io](https://img.shields.io/crates/l/tauri)![wasmtimeDownloads](https://img.shields.io/crates/d/tauri.svg)<a href="https://github.com/tauri-apps/tauri"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/tauri-apps/tauri.svg)
 
@@ -194,6 +194,22 @@
   https://crates.io/crates/dioxus
 
     <br>
+
+## Trunk 
+
+Trunk[![crates.io](https://img.shields.io/crates/v/trunk.svg)](https://crates.io/crates/trunk)![Crates.io](https://img.shields.io/crates/l/trunk)![wasmtimeDownloads](https://img.shields.io/crates/d/trunk.svg)<a href="https://github.com/thedodd/trunk"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/thedodd/trunk.svg)
+
+  - Build, bundle & ship your Rust WASM application to the web.
+
+  - <p dir="auto"><a href="https://dioxuslabs.com/" rel="nofollow">Website</a> | <a href="https://dioxuslabs.com/docs/0.3/guide/en/" rel="nofollow">Guides</a> | <a href="https://docs.rs/tauri/1.2.4/tauri/" rel="nofollow">API Docs</a> | <a href="https://discord.com/invite/tauri" rel="nofollow">Chat</a></p>
+
+ 
+ 
+  - https://trunkrs.dev/
+
+  - https://github.com/thedodd/trunk
+
+  - https://crates.io/crates/trunk
 
 <hr>
 
