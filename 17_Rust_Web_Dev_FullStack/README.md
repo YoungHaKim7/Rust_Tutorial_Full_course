@@ -201,9 +201,7 @@ Trunk[![crates.io](https://img.shields.io/crates/v/trunk.svg)](https://crates.io
 
   - Build, bundle & ship your Rust WASM application to the web.
 
-  - <p dir="auto"><a href="https://dioxuslabs.com/" rel="nofollow">Website</a> | <a href="https://dioxuslabs.com/docs/0.3/guide/en/" rel="nofollow">Guides</a> | <a href="https://docs.rs/tauri/1.2.4/tauri/" rel="nofollow">API Docs</a> | <a href="https://discord.com/invite/tauri" rel="nofollow">Chat</a></p>
-
- 
+  - <p dir="auto"><a href="https://trunkrs.dev/" rel="nofollow">Website</a> 
  
   - https://trunkrs.dev/
 
