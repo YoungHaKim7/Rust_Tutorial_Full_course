@@ -29,18 +29,6 @@
     - https://actix.rs/
 
     - https://github.com/actix/actix-web
-  
-- tide[![crates.io](https://img.shields.io/crates/v/tide.svg)](https://crates.io/crates/tide)![Crates.io](https://img.shields.io/crates/l/tide)![wasmtimeDownloads](https://img.shields.io/crates/d/tide.svg)<a href="https://github.com/http-rs/tide"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/http-rs/tide.svg)
-
-  - Fast and friendly HTTP server framework for async Rust
-
-  - <p dir="auto"><a href="https://docs.rs/tide/latest/tide/" rel="nofollow">Website</a> | <a href="https://docs.rs/tide/latest/tide/" rel="nofollow">Guides</a> 
-
-    - https://github.com/http-rs/tide
-    
-    - https://docs.rs/tide/latest/tide/
-    
-    - https://crates.io/crates/tide
 
 - Rocket[![crates.io](https://img.shields.io/crates/v/rocket.svg)](https://crates.io/crates/rocket)![Crates.io](https://img.shields.io/crates/l/rocket)![wasmtimeDownloads](https://img.shields.io/crates/d/rocket.svg)<a href="https://github.com/SergioBenitez/Rocket"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/SergioBenitez/Rocket.svg)
 
@@ -53,6 +41,18 @@
     Rocket is a web framework for Rust that makes it simple to write fast, secure web applications without sacrificing flexibility, usability, or type safety.
 
   - https://rocket.rs/
+
+- tide[![crates.io](https://img.shields.io/crates/v/tide.svg)](https://crates.io/crates/tide)![Crates.io](https://img.shields.io/crates/l/tide)![wasmtimeDownloads](https://img.shields.io/crates/d/tide.svg)<a href="https://github.com/http-rs/tide"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/http-rs/tide.svg)
+
+  - Fast and friendly HTTP server framework for async Rust
+
+  - <p dir="auto"><a href="https://docs.rs/tide/latest/tide/" rel="nofollow">Website</a> | <a href="https://docs.rs/tide/latest/tide/" rel="nofollow">Guides</a> 
+
+    - https://github.com/http-rs/tide
+    
+    - https://docs.rs/tide/latest/tide/
+    
+    - https://crates.io/crates/tide
 
 <br>
 
