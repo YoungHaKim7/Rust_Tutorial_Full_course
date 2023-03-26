@@ -127,6 +127,28 @@
 
 - https://github.com/launchbadge/sqlx
 
+<br>
+
+# EdgeDB(edgeDB-tokio)_SQL도 ORM방식도 아닌 다른 제3자의 방식으로 만듬
+    
+- https://www.edgedb.com/blog/a-solution-to-the-sql-vs-orm-dilemma
+
+- EdgeDB Rust Binding for Tokio Work in progress asynchronous bindings of EdgeDB for Tokio main loop.
+
+  - EdgeDB[![crates.io](https://img.shields.io/crates/v/edgedb-tokio.svg)](https://crates.io/crates/edgedb-tokio)![Crates.io](https://img.shields.io/crates/l/edgedb-tokio)![wasmtimeDownloads](https://img.shields.io/crates/d/edgedb-tokio.svg)
+
+  - <p dir="auto"><a href="https://www.edgedb.com/" rel="nofollow">Website</a> | <a href="docs.rs/edgedb-tokio/0.3.0" rel="nofollow">API Docs</a>
+
+
+  - https://www.edgedb.com/
+
+  - https://crates.io/crates/edgedb-tokio
+  
+  - https://github.com/edgedb/edgedb-cli
+
+
+<hr>
+
 ## WASM
 
 - A fast and secure runtime for WebAssembly
@@ -258,20 +280,6 @@ Diesel is the most productive way to interact with databases in Rust because of 
 
     - https://www.sea-ql.org/SeaORM/docs/introduction/tutorial/
     
-## EdgeDB(edgeDB-tokio)
-
-- EdgeDB Rust Binding for Tokio Work in progress asynchronous bindings of EdgeDB for Tokio main loop.
-
-  - EdgeDB[![crates.io](https://img.shields.io/crates/v/edgedb-tokio.svg)](https://crates.io/crates/edgedb-tokio)![Crates.io](https://img.shields.io/crates/l/edgedb-tokio)![wasmtimeDownloads](https://img.shields.io/crates/d/edgedb-tokio.svg)
-
-  - <p dir="auto"><a href="https://www.edgedb.com/" rel="nofollow">Website</a> | <a href="docs.rs/edgedb-tokio/0.3.0" rel="nofollow">API Docs</a>
-
-
-  - https://www.edgedb.com/
-
-  - https://crates.io/crates/edgedb-tokio
-  
-  - https://github.com/edgedb/edgedb-cli
 
 <hr>
 
