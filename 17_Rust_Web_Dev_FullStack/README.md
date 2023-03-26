@@ -216,7 +216,7 @@
 
 - leptos[![crates.io](https://img.shields.io/crates/v/leptos.svg)](https://crates.io/crates/leptos)![Crates.io](https://img.shields.io/crates/l/leptos)![wasmtimeDownloads](https://img.shields.io/crates/d/leptos.svg)<a href="https://github.com/leptos-rs/leptos"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/leptos-rs/leptos.svg)
 
-  - <p dir="auto"><a href="https://yew.rs/" rel="nofollow">Website</a> | <a href="https://yew.rs/docs/getting-started/introduction" rel="nofollow">Guides</a> | <a href="https://docs.rs/leptos/latest/leptos/" rel="nofollow">API Docs</a>
+  - <p dir="auto"><a href="https://github.com/leptos-rs/leptos" rel="nofollow">Website</a> | <a href="https://github.com/leptos-rs/leptos/tree/main/examples" rel="nofollow">Guides</a> | <a href="https://docs.rs/leptos/latest/leptos/" rel="nofollow">API Docs</a>
 
   - Build fast web applications with Rust.
 
