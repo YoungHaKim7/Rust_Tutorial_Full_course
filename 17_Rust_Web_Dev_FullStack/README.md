@@ -212,6 +212,19 @@
     https://github.com/yewstack/yew
 
 <br>
+  
+
+- leptos[![crates.io](https://img.shields.io/crates/v/leptos.svg)](https://crates.io/crates/leptos)![Crates.io](https://img.shields.io/crates/l/leptos)![wasmtimeDownloads](https://img.shields.io/crates/d/leptos.svg)<a href="https://github.com/leptos-rs/leptos"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/leptos-rs/leptos.svg)
+
+  - <p dir="auto"><a href="https://yew.rs/" rel="nofollow">Website</a> | <a href="https://yew.rs/docs/getting-started/introduction" rel="nofollow">Guides</a>
+
+  - Build fast web applications with Rust.
+
+    - https://crates.io/crates/leptos
+
+    - https://github.com/leptos-rs/leptos
+
+<br>
 
 - Dioxus[![crates.io](https://img.shields.io/crates/v/dioxus.svg)](https://crates.io/crates/dioxus)![Crates.io](https://img.shields.io/crates/l/dioxus)![wasmtimeDownloads](https://img.shields.io/crates/d/dioxus.svg)<a href="https://github.com/tauri-apps/tauri"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/DioxusLabs/dioxus.svg)
 
