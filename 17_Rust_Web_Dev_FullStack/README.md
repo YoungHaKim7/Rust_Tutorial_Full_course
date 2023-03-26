@@ -40,7 +40,7 @@
 
     - https://github.com/actix/actix-web  
 
-Rocket[![crates.io](https://img.shields.io/crates/v/rocket.svg)](https://crates.io/crates/rocket)![Crates.io](https://img.shields.io/crates/l/rocket)![wasmtimeDownloads](https://img.shields.io/crates/d/rocket.svg)<a href="https://github.com/SergioBenitez/Rocket"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/SergioBenitez/Rocket.svg)
+-Rocket[![crates.io](https://img.shields.io/crates/v/rocket.svg)](https://crates.io/crates/rocket)![Crates.io](https://img.shields.io/crates/l/rocket)![wasmtimeDownloads](https://img.shields.io/crates/d/rocket.svg)<a href="https://github.com/SergioBenitez/Rocket"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/SergioBenitez/Rocket.svg)
 
   - A web framework for Rust.
 
