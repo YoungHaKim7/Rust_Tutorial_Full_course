@@ -248,17 +248,17 @@
 
     <br>
  
- - kobold[![crates.io](https://img.shields.io/crates/v/kobold.svg)](https://crates.io/crates/dioxus)![Crates.io](https://img.shields.io/crates/l/dioxus)![wasmtimeDownloads](https://img.shields.io/crates/d/dioxus.svg)<a href="https://github.com/tauri-apps/tauri"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/DioxusLabs/dioxus.svg)
+ - kobold[![crates.io](https://img.shields.io/crates/v/kobold.svg)](https://crates.io/crates/kobold)![Crates.io](https://img.shields.io/crates/l/kobold)![wasmtimeDownloads](https://img.shields.io/crates/d/kobold.svg)<a href="https://github.com/maciejhirsz/kobold"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/maciejhirsz/kobold.svg)
 
-  - kobold
+  - kobold (Easy declarative web interfaces)
 
-  - <p dir="auto"><a href="https://tauri.app/" rel="nofollow">Website</a> | <a href="https://tauri.app/v1/guides/" rel="nofollow">Guides</a> | <a href="https://dioxuslabs.com/" rel="nofollow">API Docs</a> | <a href="https://discord.com/invite/XgGxMSkvUM" rel="nofollow">Chat</a></p>
+  - <p dir="auto"><a href="https://github.com/maciejhirsz/kobold" rel="nofollow">Website</a> | <a href="https://docs.rs/kobold/latest/kobold/" rel="nofollow">API Docs</a> 
 
-
-
-    
-    
- https://github.com/maciejhirsz/kobold
+   https://github.com/maciejhirsz/kobold
+   
+   https://crates.io/crates/kobold
+   
+   https://maciej.codes/2023-03-23-kobold.html
  
  <br>
 
