@@ -247,6 +247,20 @@
   https://crates.io/crates/dioxus
 
     <br>
+ 
+ - kobold[![crates.io](https://img.shields.io/crates/v/kobold.svg)](https://crates.io/crates/dioxus)![Crates.io](https://img.shields.io/crates/l/dioxus)![wasmtimeDownloads](https://img.shields.io/crates/d/dioxus.svg)<a href="https://github.com/tauri-apps/tauri"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/DioxusLabs/dioxus.svg)
+
+  - kobold
+
+  - <p dir="auto"><a href="https://tauri.app/" rel="nofollow">Website</a> | <a href="https://tauri.app/v1/guides/" rel="nofollow">Guides</a> | <a href="https://dioxuslabs.com/" rel="nofollow">API Docs</a> | <a href="https://discord.com/invite/XgGxMSkvUM" rel="nofollow">Chat</a></p>
+
+
+
+    
+    
+ https://github.com/maciejhirsz/kobold
+ 
+ <br>
 
 ## Trunk 
 
