@@ -250,9 +250,13 @@
  
  - kobold[![crates.io](https://img.shields.io/crates/v/kobold.svg)](https://crates.io/crates/kobold)![Crates.io](https://img.shields.io/crates/l/kobold)![wasmtimeDownloads](https://img.shields.io/crates/d/kobold.svg)<a href="https://github.com/maciejhirsz/kobold"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/maciejhirsz/kobold.svg)
 
-  - kobold (Easy declarative web interfaces)
+    - kobold (Easy declarative web interfaces)
 
   - <p dir="auto"><a href="https://github.com/maciejhirsz/kobold" rel="nofollow">Website</a> | <a href="https://docs.rs/kobold/latest/kobold/" rel="nofollow">API Docs</a> 
+
+```
+cargo add kobold
+```
 
    https://github.com/maciejhirsz/kobold
    
