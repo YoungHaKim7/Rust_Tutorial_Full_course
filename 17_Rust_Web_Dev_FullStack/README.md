@@ -252,17 +252,17 @@
 
     - kobold (Easy declarative web interfaces)
 
-  - <p dir="auto"><a href="https://github.com/maciejhirsz/kobold" rel="nofollow">Website</a> | <a href="https://docs.rs/kobold/latest/kobold/" rel="nofollow">API Docs</a> 
+    - <p dir="auto"><a href="https://github.com/maciejhirsz/kobold" rel="nofollow">Website</a> | <a href="https://docs.rs/kobold/latest/kobold/" rel="nofollow">API Docs</a> 
 
-```
-cargo add kobold
-```
+    ```
+    cargo add kobold
+    ```
 
-   https://github.com/maciejhirsz/kobold
+    https://github.com/maciejhirsz/kobold
    
-   https://crates.io/crates/kobold
+     https://crates.io/crates/kobold
    
-   https://maciej.codes/2023-03-23-kobold.html
+     https://maciej.codes/2023-03-23-kobold.html
  
  <br>
 
