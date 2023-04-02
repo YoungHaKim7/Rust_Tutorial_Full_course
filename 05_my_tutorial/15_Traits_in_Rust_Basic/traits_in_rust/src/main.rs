@@ -42,5 +42,5 @@ fn main() {
     };
 
     println!("Tweet summary: {}", tweet.summarize());
-    println!("Article summary: {}", article.summarize());
+println!("Article summary: {}", article.summarize());
 }
