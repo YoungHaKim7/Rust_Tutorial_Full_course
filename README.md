@@ -237,6 +237,10 @@ https://github.com/MunGell/awesome-for-beginners
 
 <br>
 
+# Rust 공식eBook에 나오는 String개념
+
+https://doc.rust-lang.org/book/ch08-02-strings.html
+
 # 러스트의 String 종류 ㅋㅋ
 
 - https://youtu.be/4DLhTPsg8QQ
