@@ -239,6 +239,8 @@ https://github.com/MunGell/awesome-for-beginners
 
 # 러스트의 String 종류 ㅋㅋ
 
+- https://youtu.be/4DLhTPsg8QQ
+
 ```
 String, &str
 CStr, CString
@@ -267,6 +269,10 @@ String
 String::from()
 format!()
 ```
+
+## Tim McNamara | Rust in action 저자
+
+- https://economiceco.tistory.com/13040
 
 
 # YouTubeContents_GlobalYoung
