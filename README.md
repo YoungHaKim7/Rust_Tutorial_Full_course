@@ -237,6 +237,38 @@ https://github.com/MunGell/awesome-for-beginners
 
 <br>
 
+# 러스트의 String 종류 ㅋㅋ
+
+```
+String, &str
+CStr, CString
+Cow<'_, str>
+Path, PathBuf
+Vec<u8>
+&[u8]
+OsStr
+```
+
+- 보통 코딩 언어들은 2개지만
+
+```
+String
+&str
+```
+
+  - 17분 28초에 나옴 Rust❤️String 넣는 방법 
+
+    - https://youtu.be/4DLhTPsg8QQ
+
+```
+.to_string()
+.to_owned()
+.into()
+String::from()
+format!()
+```
+
+
 # YouTubeContents_GlobalYoung
 
 https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung
