@@ -332,21 +332,21 @@ Ownership is a set of rules that governs how a Rust program manages memory. All 
 
 https://doc.rust-lang.org
 
-  ## 메모리를 빌려간 참조가 있는 동안은 해제할 수 없습니다.
+## 메모리를 빌려간 참조가 있는 동안은 해제할 수 없습니다.
 
-    - 소유권자의 수명이 다하기 전에 갚아야 합니다.
+  - 소유권자의 수명이 다하기 전에 갚아야 합니다.
 
-      20분17초
-      https://www.youtube.com/watch?v=sv9UHD67_rQ
+    20분17초
+    https://www.youtube.com/watch?v=sv9UHD67_rQ
 
-    - 무효화
+  - 무효화
 
-      메모리를 빌려간 참조가 있는 동안은 변경할 수 없습니다.
-      컴파일러가 참조의 수명을 추척합니다.
+    메모리를 빌려간 참조가 있는 동안은 변경할 수 없습니다.
+    컴파일러가 참조의 수명을 추척합니다.
 
 
-      22분16초
-      https://www.youtube.com/watch?v=sv9UHD67_rQ
+    22분16초
+    https://www.youtube.com/watch?v=sv9UHD67_rQ
 
 <br>
 
