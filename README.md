@@ -688,9 +688,11 @@ Get-ChildItem -Filter ./target -Recurse -Force | Remove-Item -Recurse -Force
 dir .\ -r -i "target"
 ```
 
-# Tutorial Rust
+# Tutorial Rust(다른 외국 유튜버 깃허브Rust정보)
 
 https://github.com/GuillaumeGomez/tuto-rust-fr
+
+https://github.com/0atman/noboilerplate
 
 <br>
 
