@@ -18,19 +18,19 @@
 
     - https://github.com/tokio-rs/tokio
 
-- axum[![crates.io](https://img.shields.io/crates/v/axum.svg)](https://crates.io/crates/tide)![Crates.io](https://img.shields.io/crates/l/tide)![wasmtimeDownloads](https://img.shields.io/crates/d/tide.svg)<a href="https://github.com/http-rs/tide"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/http-rs/tide.svg)
+- axum[![crates.io](https://img.shields.io/crates/v/axum.svg)](https://crates.io/crates/axum)![Crates.io](https://img.shields.io/crates/l/axum)![wasmtimeDownloads](https://img.shields.io/crates/d/axum.svg)<a href="https://github.com/http-rs/tide"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/tokio-rs/axum.svg)
 
   - Ergonomic and modular web framework built with Tokio, Tower, and Hype
 
-  - <p dir="auto"><a href="https://docs.rs/tide/latest/tide/" rel="nofollow">Website</a> | <a href="https://docs.rs/tide/latest/tide/" rel="nofollow">Guides</a> 
+  - <p dir="auto"><a href="https://github.com/tokio-rs/axum" rel="nofollow">Website</a> | <a href="https://docs.rs/axum/0.6.14/axum/" rel="nofollow">Doc API</a> 
 
     - https://crates.io/crates/axum
     
-    - https://github.com/http-rs/tide
+    - https://github.com/tokio-rs/axum
     
-    - https://docs.rs/tide/latest/tide/
     
-    - https://crates.io/crates/tide
+    
+    
 
 <br>
 
