@@ -39,8 +39,9 @@ $ cargo add tokio --features macros,rt-multi-thread
 $ cargo add axum
 ```
 
+https://docs.rs/axum/0.6.14/axum/
+
 # rustup 활용법
 
 https://github.com/YoungHaKim7/rust_release
 
-https://docs.rs/axum/0.6.14/axum/
