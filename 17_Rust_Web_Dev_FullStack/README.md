@@ -18,7 +18,7 @@
 
     - https://github.com/tokio-rs/tokio
 
-- axum[![crates.io](https://img.shields.io/crates/v/axum.svg)](https://crates.io/crates/axum)![Crates.io](https://img.shields.io/crates/l/axum)![wasmtimeDownloads](https://img.shields.io/crates/d/axum.svg)<a href="https://github.com/http-rs/tide"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/tokio-rs/axum.svg)
+- axum[![crates.io](https://img.shields.io/crates/v/axum.svg)](https://crates.io/crates/axum)![Crates.io](https://img.shields.io/crates/l/axum)![wasmtimeDownloads](https://img.shields.io/crates/d/axum.svg)<a href="https://github.com/tokio-rs/axum"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/tokio-rs/axum.svg)
 
   - Ergonomic and modular web framework built with Tokio, Tower, and Hype
 
@@ -27,10 +27,6 @@
     - https://crates.io/crates/axum
     
     - https://github.com/tokio-rs/axum
-    
-    
-    
-    
 
 <br>
 
