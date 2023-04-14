@@ -265,14 +265,14 @@ async fn main() {
   - Perseus is a blazingly fast frontend web development framework built in Rust with support for generating page state at build-time, request-time, incrementally, or whatever you'd like! It supports reactivity using Sycamore, and builds on it to provide a fully-fledged framework for developing modern apps.
 
     - 📕 Supports static generation (serving only static resources)
-  🗼 Supports server-side rendering (serving dynamic resources)
-  🔧 Supports revalidation after time and/or with custom logic (updating rendered pages)
-  🛠️ Supports incremental regeneration (build on demand)
-  🏭 Open build matrix (use any rendering strategy with anything else)
-  🖥️ CLI harness that lets you build apps with ease and confidence
-  🌐 Full i18n support out-of-the-box with Fluent
-  🏎 Lighthouse scores of 100 on desktop and over 95 on mobile
-  ⚡ Support for hot state reloading (reload your entire app's state after you make any code changes in development, Perseus is the only framework in the world that can do this, to our knowledge)
+    - 🗼 Supports server-side rendering (serving dynamic resources)
+    -  🔧 Supports revalidation after time and/or with custom logic (updating rendered pages)
+    -  🛠️ Supports incremental regeneration (build on demand)
+    -  🏭 Open build matrix (use any rendering strategy with anything else)
+    - 🖥️ CLI harness that lets you build apps with ease and confidence
+    - 🌐 Full i18n support out-of-the-box with Fluent
+    - 🏎 Lighthouse scores of 100 on desktop and over 95 on mobile
+    - ⚡ Support for hot state reloading (reload your entire app's state after you make any code changes in development, Perseus is the only framework in the world that can do this, to our knowledge)
 
     - https://crates.io/crates/perseus
 
@@ -282,7 +282,7 @@ async fn main() {
     
     - Tutorials(examples)
     
-      - https://github.com/leptos-rs/leptos/tree/main/examples
+      - https://github.com/framesurge/perseus/tree/main/examples
 
 <br>
   
