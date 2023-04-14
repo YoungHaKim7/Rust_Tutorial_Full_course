@@ -109,7 +109,7 @@ async fn main() {
 
 <br>
 
-## DB<a href="https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung#contents">[🔝]</a>
+## DB<a href="https://github.com/YoungHaKim7/Rust_Tutorial_Full_course/blob/main/17_Rust_Web_Dev_FullStack/README.md#rust-fullstack_web-dev">[🔝]</a>
 
 - SurrealDB
 
@@ -196,7 +196,7 @@ async fn main() {
 
 <br>
 
-# EdgeDB(edgeDB-tokio)_SQL도 ORM방식도 아닌 다른 제3자의 방식으로 만듬
+# EdgeDB(edgeDB-tokio)_SQL도 ORM방식도 아닌 다른 제3자의 방식으로 만듬<a href="https://github.com/YoungHaKim7/Rust_Tutorial_Full_course/blob/main/17_Rust_Web_Dev_FullStack/README.md#rust-fullstack_web-dev">[🔝]</a>
     
 - https://www.edgedb.com/blog/a-solution-to-the-sql-vs-orm-dilemma
 
