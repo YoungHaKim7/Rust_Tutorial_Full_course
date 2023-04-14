@@ -4,6 +4,10 @@
 
 - [DB](https://github.com/YoungHaKim7/Rust_Tutorial_Full_course/blob/main/17_Rust_Web_Dev_FullStack/README.md#db)
 
+  - [EdgeDB](https://github.com/YoungHaKim7/Rust_Tutorial_Full_course/blob/main/17_Rust_Web_Dev_FullStack/README.md#edgedbedgedb-tokio_sql%EB%8F%84-orm%EB%B0%A9%EC%8B%9D%EB%8F%84-%EC%95%84%EB%8B%8C-%EB%8B%A4%EB%A5%B8-%EC%A0%9C3%EC%9E%90%EC%9D%98-%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%AC)
+  
+- test
+
 ## Web Framework for Rust
 
 - tokio.rs[![crates.io](https://img.shields.io/crates/v/tokio.svg)](https://crates.io/crates/tokio)![Crates.io](https://img.shields.io/crates/l/tokio)![wasmtimeDownloads](https://img.shields.io/crates/d/tokio.svg)<a href="https://github.com/tokio-rs/tokio"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/tokio-rs/tokio.svg)
