@@ -1,18 +1,14 @@
 # Concurrency & Parallelism \_\_ RustLang
 
-<br>
+- 한글러스트Rust강의*021_Concurrency기초*#rust #rustlang #tokio #concurrency #parallels
 
-한글러스트Rust강의*021_Concurrency기초*#rust #rustlang #tokio #concurrency #parallels
-
-https://youtu.be/k4-n9rkpkjo
+  - https://youtu.be/k4-n9rkpkjo
 
 <br>
 
 - 한글러스트Rust강의\_022_Concurrency기초part2_crossbeam rayon개념\_gen rng #rustlang #concurrency #parallels
 
-<br>
-
-https://youtu.be/PR1Pv2mp5Ms
+  - https://youtu.be/PR1Pv2mp5Ms
 
 <br>
 
