@@ -283,6 +283,8 @@ async fn main() {
     - Tutorials(examples)
     
       - https://github.com/framesurge/perseus/tree/main/examples
+    
+      - https://github.com/framesurge/perseus/tree/main/examples/core
 
 <br>
   
