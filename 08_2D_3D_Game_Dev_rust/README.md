@@ -59,6 +59,16 @@ https://github.com/DigitalExtinction/Game
   - https://github.com/amethyst/amethyst
 
   - https://book.amethyst.rs/book/stable/intro
+  
+- ggez[![crates.io](https://img.shields.io/crates/v/ggez.svg)](https://crates.io/crates/ggez)
+![GitHubAmethyst](https://img.shields.io/badge/license-MIT%2FApache-blue.svg)
+![amethystDownloads](https://img.shields.io/crates/d/ggez.svg)<a href="https://github.com/ggez/ggez"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![amethystar](https://img.shields.io/github/stars/ggez/ggez.svg)
+
+  - A Rust library to create Good Games Easily
+  
+  - https://github.com/ggez/ggez
+
+  - https://ggez.rs/
 
 - Wgpu[![crates.io](https://img.shields.io/crates/v/wgpu.svg)](https://crates.io/crates/wgpu)
 ![GitHubWgpu](https://img.shields.io/badge/license-MIT%2FApache-blue.svg)
