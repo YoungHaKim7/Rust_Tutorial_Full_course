@@ -23,6 +23,10 @@ https://arewegameyet.rs/resources/tutorials/
       - Bevy Basics
       
       - https://www.youtube.com/playlist?list=PL6uRoaCCw7GN_lJxpKS3j-KXuThRiSXc6
+      
+        - Learn Bevy Engine 0.10 Beginner Tutorial Series
+        
+          -https://youtube.com/playlist?list=PLVnntJRoP85JHGX7rGDu6LaF3fmDDbqyd
 
   - aerwegameyet
 
