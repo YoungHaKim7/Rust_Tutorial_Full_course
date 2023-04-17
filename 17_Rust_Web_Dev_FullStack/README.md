@@ -438,11 +438,13 @@ https://www.sea-ql.org/SeaORM/docs/introduction/orm/
 # BlockChain
    
   - cosmwasm[![crates.io](https://img.shields.io/crates/v/cosmwasm.svg)](https://crates.io/crates/cosmwasm)![Crates.io](https://img.shields.io/crates/l/cosmwasm)![druidDownloads](https://img.shields.io/crates/d/cosmwasm.svg)<a href="https://github.com/CosmWasm/cosmwasm"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
-    ![druidstar](https://img.shields.io/github/stars/CosmWasm/cosmwasm.svg)<a href="https://docs.rs/wasmtime/6.0.0/wasmtime/" rel="nofollow noopener noreferrer"><img src="https://img.shields.io/badge/rust-documentation-blue" alt="Relm4 docs"></a><a href="https://cosmwasm.com/" rel="nofollow noopener noreferrer"><img src="https://img.shields.io/badge/rust-book-fc0060" alt="Relm4 book"></a>
+    ![druidstar](https://img.shields.io/github/stars/CosmWasm/cosmwasm.svg)<a href="https://docs.rs/cosmwasm/0.7.2/cosmwasm/" rel="nofollow noopener noreferrer">Doc API</a>
 
     - Introduction
 
       Standard library for Wasm based smart contracts on Cosmos blockchains
+      
+      https://docs.rs/cosmwasm/0.7.2/cosmwasm/
       
     - https://github.com/CosmWasm/cosmwasm/tree/main/packages/std
     
