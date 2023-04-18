@@ -41,7 +41,7 @@ $ cargo add axum
 
 https://docs.rs/axum/0.6.14/axum/
 
-# rustup 활용법
+# rustup 활용법 & 업데이드 및 기타etc
 
 https://github.com/YoungHaKim7/rust_release
 
