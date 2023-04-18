@@ -67,3 +67,8 @@ flowchart TB
 ```
 
 https://blog.gopheracademy.com/advent-2018/llvm-ir-and-go/
+    
+    
+# Rust 더 자세한 Debugging __llvm 코드 보는법
+    
+    https://github.com/YoungHaKim7/Rust_Tutorial_Full_course/tree/main/22_Rust_Debugging_rust-lldb_rd
