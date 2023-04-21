@@ -107,6 +107,10 @@ https://github.com/DigitalExtinction/Game
 
   - https://wgpu.rs/
 
+- veloren(3d game)
+
+https://book.veloren.net/
+
 <br>
 
 # Render Pipelines in wgpu and Rust (Game Dev.)
