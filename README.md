@@ -10,6 +10,8 @@ https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung
 
 (출처 which Dr. Bjarne Stroustrup, father of C++, explains (see pg. 4)
 
+- 사람이 할 일은 전체적으로 컨셉만 잡고 큰 틀만 잡지 세부적인 코딩은 AI에게 맡기면 된다. 그리고 10명에서 짤 코드를 혼자도 가능한 시대가 오고 있다. (그냥 혼자만의 생각)
+
 - https://github.com/jhartzell42/rust-c-book/blob/main/src/intro.md
 
   - What you don’t use, you don’t pay for (and Dr. Stroustrup means "paying" in the sense of performance costs, e.g. in higher latency, slower throughput, or higher memory usage)
