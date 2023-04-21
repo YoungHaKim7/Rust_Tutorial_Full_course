@@ -1,3 +1,7 @@
+# Queuing Theory 🚶🏿🚶🚶
+
+https://youtube.com/playlist?list=PLjXls-kqM6JBzXb6pBnC8WDo28dWc4_qL
+
 # Concurrency & Parallelism \_\_ RustLang
 
 - 한글러스트Rust강의*021_Concurrency기초*#rust #rustlang #tokio #concurrency #parallels
