@@ -109,7 +109,9 @@ https://github.com/DigitalExtinction/Game
 
 - veloren(3d game)
 
-https://book.veloren.net/
+  - https://gitlab.com/veloren/veloren
+
+  - https://book.veloren.net/
 
 <br>
 
