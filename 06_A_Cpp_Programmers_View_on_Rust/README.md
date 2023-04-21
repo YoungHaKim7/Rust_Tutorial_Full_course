@@ -1,5 +1,7 @@
 # Rust vs C++
 
+https://github.com/jhartzell42/rust-c-book
+
 ## Rust for C++ developers - What you need to know to get rolling with crates - Pavel Yosifovich
 
 - https://youtu.be/k7nAtrwPhR8
