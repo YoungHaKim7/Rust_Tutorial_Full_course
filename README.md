@@ -10,7 +10,9 @@ https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung
 
 (출처 which Dr. Bjarne Stroustrup, father of C++, explains (see pg. 4)
 
-- 사람이 할 일은 전체적으로 컨셉만 잡고 큰 틀만 잡지 세부적인 코딩은 AI에게 맡기면 된다. 그리고 10명에서 짤 코드를 혼자도 코딩할 수 있는 대단한 AI 시대가 오고 있다.(땡규 GPT,BingAI) 결국 Polyglot만이 살길 (그냥 혼자만의 생각)
+- 사람이 할 일은 전체적으로 컨셉만 잡고 큰 틀만 잡지 세부적인 코딩은 AI에게 맡기면 된다. 그리고 10명에서 짤 코드를 혼자서도 코딩할 수 있는 대단한 AI 시대가 오고 있다.(땡규 GPT,BingAI) 결국 Polyglot만이 살길 (그냥 혼자만의 생각)
+
+- 전체적인 코드를 이해하는 자만이 앞으로의 미래를 지배한다. 결국 Polyglot (그냥 혼자만의 생각)
 
 - https://github.com/jhartzell42/rust-c-book/blob/main/src/intro.md
 
