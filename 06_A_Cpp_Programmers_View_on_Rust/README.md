@@ -230,7 +230,7 @@ https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung/
 
 - give rust a try!
 
-# Summary (한글)
+# Summary (한글papago번역기 사용)
 
 - Rust과 C++는 (대략) 동일한 공간에 대해 완성됩니다
 
