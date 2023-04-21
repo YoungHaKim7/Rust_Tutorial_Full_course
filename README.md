@@ -6,7 +6,9 @@ https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung
 
 <hr>
 
-# 이제 앞으로의 코딩은 사람의 손으로 짜는 코딩은 없어진다.(출처 which Dr. Bjarne Stroustrup, father of C++, explains (see pg. 4)
+# 이제 앞으로의 코딩은 사람의 손으로 짜는 코딩은 없어진다.What you do use, you couldn’t hand code any better
+
+(출처 which Dr. Bjarne Stroustrup, father of C++, explains (see pg. 4)
 
 - https://github.com/jhartzell42/rust-c-book/blob/main/src/intro.md
 
