@@ -4,6 +4,10 @@ https://github.com/jhartzell42/rust-c-book
 
 https://github.com/jhartzell42/rust-c-book/blob/main/src/SUMMARY.md
 
+- Rust: A New Attempt at C++’s Main Goal
+
+  - https://www.thecodedmessage.com/posts/rust-new-cpp/
+
 ## Rust for C++ developers - What you need to know to get rolling with crates - Pavel Yosifovich
 
 - https://youtu.be/k7nAtrwPhR8
