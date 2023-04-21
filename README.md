@@ -6,6 +6,16 @@ https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung
 
 <hr>
 
+# 이제 앞으로의 코딩은 사람의 손으로 짜는 코딩은 없어진다.(출처 which Dr. Bjarne Stroustrup, father of C++, explains (see pg. 4)
+
+- https://github.com/jhartzell42/rust-c-book/blob/main/src/intro.md
+
+  - What you don’t use, you don’t pay for (and Dr. Stroustrup means "paying" in the sense of performance costs, e.g. in higher latency, slower throughput, or higher memory usage)
+ 
+  - What you do use, you couldn’t hand code any better
+
+  There is also an executive summary of the concept at CppReference.com.
+
 # Rust atomics & Locks 집중 분석
 
 - Rust Atomics and Locks (Low-Level Concurrency in Practice by Mara Bos)
