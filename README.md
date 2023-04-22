@@ -712,6 +712,18 @@ https://github.com/GuillaumeGomez/tuto-rust-fr
 
 https://github.com/0atman/noboilerplate
 
+
+# LetsGetRusty Cheat Sheet 얻기
+
+https://www.youtube.com/c/LetsGetRusty/featured
+
+https://letsgetrusty.kartra.com/page/GWh4
+
+
+## Rust Resources
+
+https://letsgetrusty.kartra.com/page/XDk8
+
 <br>
 
 <hr>
