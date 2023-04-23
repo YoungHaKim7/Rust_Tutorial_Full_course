@@ -113,6 +113,8 @@ async fn main() {
 
 ## DB<a href="https://github.com/YoungHaKim7/Rust_Tutorial_Full_course/tree/main/17_Rust_Web_Dev_FullStack#rust-fullstack_web-dev">[🔝]</a>
 
+- Database Engineering Complete Course(20hr기초) | DBMS Complete Course https://youtu.be/iwRneX7GIGI
+
 - SurrealDB
 
   - SurrealDB[![crates.io](https://img.shields.io/crates/v/surrealdb.svg)](https://crates.io/crates/surrealdb)![Crates.io](https://img.shields.io/crates/l/surrealdb)![wasmtimeDownloads](https://img.shields.io/crates/d/surrealdb.svg)<a href="https://github.com/surrealdb/surrealdb.rs"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
