@@ -79,8 +79,6 @@ async fn main() {
 
     - A web framework for Rust.
 
-    - <p dir="auto"><a href="https://rocket.rs/" rel="nofollow">Website</a> | <a href="https://rocket.rs/v0.5-rc/guide/" rel="nofollow">Guides</a> | <a href="https://api.rocket.rs/v0.4/rocket/" rel="nofollow">API Docs</a>
-
       https://docs.rs/warp/0.3.4/warp/
     
       A super-easy, composable, web server framework for warp speeds.
