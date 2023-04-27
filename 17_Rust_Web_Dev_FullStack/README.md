@@ -13,6 +13,8 @@ https://www.shuttle.rs/
     - Rust의 좋은 점 (무지 빠르다) js-framework-benchmark 비교
     
     https://krausest.github.io/js-framework-benchmark/current.html
+    
+    Will Rust Beat JavaScript in 2023? https://youtu.be/Bh_tNehUV3k
 
 # Rust FullStack_Web Dev. 
 
