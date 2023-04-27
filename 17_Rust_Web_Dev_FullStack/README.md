@@ -6,6 +6,10 @@ https://joshmo.hashnode.dev/can-rust-beat-javascript-in-2023
 
 https://www.shuttle.rs/
 
+  - shuttle_axum tutorial
+  
+    - https://docs.shuttle.rs/examples/axum
+
 # Rust FullStack_Web Dev. 
 
 - [Web Framework for Rust](https://github.com/YoungHaKim7/Rust_Tutorial_Full_course/blob/main/17_Rust_Web_Dev_FullStack/README.md#web-framework-for-rust)
