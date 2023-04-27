@@ -1,3 +1,9 @@
+# Rust 웹개발 블로그
+
+https://joshmo.hashnode.dev/can-rust-beat-javascript-in-2023
+
+# 배포는 Shuttle로 한다.(Rust)
+
 # Rust FullStack_Web Dev. 
 
 - [Web Framework for Rust](https://github.com/YoungHaKim7/Rust_Tutorial_Full_course/blob/main/17_Rust_Web_Dev_FullStack/README.md#web-framework-for-rust)
