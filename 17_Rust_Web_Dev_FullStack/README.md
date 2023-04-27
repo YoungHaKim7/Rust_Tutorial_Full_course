@@ -9,6 +9,10 @@ https://www.shuttle.rs/
   - shuttle_axum tutorial
   
     - https://docs.shuttle.rs/examples/axum
+    
+    - Rust의 좋은 점 (무지 빠르다) js-framework-benchmark 비교
+    
+    https://krausest.github.io/js-framework-benchmark/current.html
 
 # Rust FullStack_Web Dev. 
 
