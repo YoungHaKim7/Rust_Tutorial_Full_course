@@ -1,3 +1,7 @@
+# Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and affine types. Theseus aims to shift OS responsibilities like resource management into the compiler.
+
+https://github.com/theseus-os/Theseus
+
 # An operating system designed for hosting containers
 
 - Bottlerocket is a free and open-source Linux-based operating system meant for hosting containers.
