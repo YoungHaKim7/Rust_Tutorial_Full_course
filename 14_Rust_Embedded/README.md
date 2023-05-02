@@ -1,3 +1,7 @@
+# Embeddable Rust
+
+https://www.electronicdesign.com/technologies/embedded/software/video/21263235/electronic-design-embeddable-rust
+
 # Rust-embedded eBook
 
 https://docs.rust-embedded.org/book/intro/index.html
