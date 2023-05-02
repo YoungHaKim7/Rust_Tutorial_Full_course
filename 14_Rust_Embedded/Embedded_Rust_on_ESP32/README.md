@@ -5,3 +5,4 @@ https://youtu.be/0PPPdqoDBQs
 
 # ESP32 Embedded Rust at the HAL: GPIO Button Controlled Blinkin
 
+https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-gpio-button-controlled-blinking?ref=twitter-share
