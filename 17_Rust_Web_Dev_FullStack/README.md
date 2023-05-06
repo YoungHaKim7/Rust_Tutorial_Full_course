@@ -2,6 +2,10 @@
 
 https://joshmo.hashnode.dev/can-rust-beat-javascript-in-2023
 
+# 50 Shades of Rust | Or emerging Rust GUIs in a WASM world
+
+https://monadical.com/posts/shades-of-rust-gui-library-list.html
+
 # 배포는 Shuttle로 한다.(Rust)
 
 https://www.shuttle.rs/
