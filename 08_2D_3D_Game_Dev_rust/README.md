@@ -26,7 +26,10 @@ https://arewegameyet.rs/resources/tutorials/
       
         - Learn Bevy Engine 0.10 Beginner Tutorial Series
         
-          -https://youtube.com/playlist?list=PLVnntJRoP85JHGX7rGDu6LaF3fmDDbqyd
+          - https://youtube.com/playlist?list=PLVnntJRoP85JHGX7rGDu6LaF3fmDDbqyd
+          
+          - Game dev _ bevy https://affanshahid.dev/posts/learning-game-dev-bevy-1/
+
 
   - aerwegameyet
 
