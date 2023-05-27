@@ -1,3 +1,11 @@
+# Rust 한글 Eng설명서
+
+- 한글 https://rinthel.github.io/rust-lang-book-ko/
+
+- Eng. https://doc.rust-lang.org/book/
+
+<hr>
+
 https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung
 
 - 코딩Coding-Rust러스트 | 러스트\_프로그래밍Rust(GlobalYoung)
