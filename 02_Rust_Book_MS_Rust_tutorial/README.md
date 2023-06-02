@@ -1,3 +1,11 @@
+# Rust 한글 & Eng 설명서
+
+- 한글 https://rinthel.github.io/rust-lang-book-ko/
+
+- Eng. https://doc.rust-lang.org/book/
+
+<hr>
+
 # Rust Book Club 러스트 공식북 2021 edition
 
 
