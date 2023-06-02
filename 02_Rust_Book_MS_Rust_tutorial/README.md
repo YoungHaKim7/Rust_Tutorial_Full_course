@@ -1,4 +1,4 @@
-# Rust 한글 & Eng 설명서
+# Rust 한글 & Eng 설명서eBook
 
 - 한글 https://rinthel.github.io/rust-lang-book-ko/
 
