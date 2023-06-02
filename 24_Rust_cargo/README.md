@@ -42,11 +42,16 @@ $ cargo add axum
 https://docs.rs/axum/0.6.14/axum/
 
 
-# cargo add devDependencies에 넣는 방법
+# cargo add dev-Dependencies에 넣는 방법
 
 
 ```
 $ cargo add tokio --dev
+```
+
+```
+[dev-dependencies]
+tokio = "1.28.2"
 ```
 
 https://doc.rust-lang.org/cargo/commands/cargo-add.html
