@@ -7,3 +7,12 @@ https://marabos.nl/atomics/
 
   - Easy Rust https://youtube.com/playlist?list=PLfllocyHVgsRLUtjznx-OX3mQYL7pHKyO
 
+
+# Basics of Rust Concurrency
+
+  - Basics of Rust Concurrency (Atomics and Locks Chapter 1) | MaraBos 가 나옴.
+
+    - https://youtu.be/99Qzpv325yI
+
+  - Atomics and Locks Chapter 2 - Atomics
+    -  https://youtu.be/Ivm1FuO8quw
