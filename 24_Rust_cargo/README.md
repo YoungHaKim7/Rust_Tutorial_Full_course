@@ -54,6 +54,17 @@ $ cargo add tokio --dev
 tokio = "1.28.2"
 ```
 
+- F와 --dev활용법
+
+```
+$ cargo add tokio --dev -F tokio/full
+
+
+[dev-dependencies]
+tokio = { version = "1.28.2", features = ["full"] }
+
+```
+
 https://doc.rust-lang.org/cargo/commands/cargo-add.html
 
 https://doc.rust-lang.org/cargo/reference/specifying-dependencies.html#development-dependencies
