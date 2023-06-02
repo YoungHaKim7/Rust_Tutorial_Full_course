@@ -41,6 +41,19 @@ $ cargo add axum
 
 https://docs.rs/axum/0.6.14/axum/
 
+
+# cargo add devDependencies에 넣는 방법
+
+
+```
+$ cargo add tokio --dev
+```
+
+https://doc.rust-lang.org/cargo/commands/cargo-add.html
+
+https://doc.rust-lang.org/cargo/reference/specifying-dependencies.html#development-dependencies
+
+
 # rustup 활용법 & 업데이드 및 기타etc
 
 https://github.com/YoungHaKim7/rust_release
