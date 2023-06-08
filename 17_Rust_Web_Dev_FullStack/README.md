@@ -561,7 +561,7 @@ https://youtube.com/playlist?list=PLai5B987bZ9C0xK1tZ2wsudOo2zjrD9xX
 
 <hr>
 
-# JavaScript JavaScript framework | TypeScript <a href="https://github.com/YoungHaKim7/Rust_Tutorial_Full_course/tree/main/17_Rust_Web_Dev_FullStack#rust-fullstack_web-dev">[🔝]</a>
+# JavaScript framework | TypeScript <a href="https://github.com/YoungHaKim7/Rust_Tutorial_Full_course/tree/main/17_Rust_Web_Dev_FullStack#rust-fullstack_web-dev">[🔝]</a>
 
 - Relay is a JavaScript framework for building data-driven React applications.
   - https://github.com/facebook/relay
