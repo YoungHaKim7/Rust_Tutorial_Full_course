@@ -382,22 +382,16 @@ async fn main() {
 <br>
 
 - askama[![crates.io](https://img.shields.io/crates/v/perseus.svg)](https://crates.io/crates/perseus)![Crates.io](https://img.shields.io/crates/l/perseus)![wasmtimeDownloads](https://img.shields.io/crates/d/perseus.svg)<a href="https://github.com/framesurge/perseus"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/framesurge/perseus.svg)
+    
+    - Askama implements a template rendering engine based on Jinja. It generates Rust code from your templates at compile time based on a user-defined struct to hold the template's context. See below for an example, or read the book.
 
   - <p dir="auto"><a href="https://framesurge.sh/perseus/en-US/" rel="nofollow">Website</a> | <a href="https://framesurge.sh/perseus/en-US/docs" rel="nofollow">Guides</a> | <a href="https://docs.rs/perseus/latest/perseus/" rel="nofollow">API Docs</a>
 
   - Perseus is a blazingly fast frontend web development framework built in Rust with support for generating page state at build-time, request-time, incrementally, or whatever you'd like! It supports reactivity using Sycamore, and builds on it to provide a fully-fledged framework for developing modern apps.
 
-    - 📕 Supports static generation (serving only static resources)
-    - 🗼 Supports server-side rendering (serving dynamic resources)
-    -  🔧 Supports revalidation after time and/or with custom logic (updating rendered pages)
-    -  🛠️ Supports incremental regeneration (build on demand)
-    -  🏭 Open build matrix (use any rendering strategy with anything else)
-    - 🖥️ CLI harness that lets you build apps with ease and confidence
-    - 🌐 Full i18n support out-of-the-box with Fluent
-    - 🏎 Lighthouse scores of 100 on desktop and over 95 on mobile
-    - ⚡ Support for hot state reloading (reload your entire app's state after you make any code changes in development, Perseus is the only framework in the world that can do this, to our knowledge)
+    - 
 
-    - https://crates.io/crates/perseus
+    - https://crates.io/crates/askama
     
     - https://github.com/djc/askama
 
