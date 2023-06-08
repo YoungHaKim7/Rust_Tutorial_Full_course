@@ -32,6 +32,51 @@ https://www.shuttle.rs/
 
 - [Web Push](https://github.com/YoungHaKim7/Rust_Tutorial_Full_course/tree/main/17_Rust_Web_Dev_FullStack#web-push)
 
+# hyper | Fast and safe HTTP for the Rust language.
+
+- hyper[![crates.io](https://img.shields.io/crates/v/tokio.svg)](https://crates.io/crates/tokio)![Crates.io](https://img.shields.io/crates/l/tokio)![wasmtimeDownloads](https://img.shields.io/crates/d/tokio.svg)<a href="https://github.com/tokio-rs/tokio"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/tokio-rs/tokio.svg)
+
+  - test
+
+  - <p dir="auto"><a href="https://tokio.rs" rel="nofollow">Website</a> | <a href="https://tokio.rs/tokio/tutorial" rel="nofollow">Guides</a> | <a href="https://docs.rs/tokio/latest/tokio" rel="nofollow">API Docs</a> | <a href="https://discord.gg/tokio" rel="nofollow">Chat</a></p>
+
+  - A fast and correct HTTP implementation for Rust.
+
+    - Note: hyper's master branch is currently preparing breaking changes. For the most recently released code, look to the 0.14.x branch.
+
+    - HTTP/1 and HTTP/2
+
+    - Asynchronous design
+
+    - Leading in performance
+
+    - Tested and correct
+
+    - Extensive production use
+
+    - Client and Server APIs
+
+    - Get started by looking over the guides.
+
+
+      - "Low-level"
+        - hyper is a relatively low-level library, meant to be a building block for libraries and applications.
+
+If you are looking for a convenient HTTP client, then you may wish to consider reqwest. If you are not sure what HTTP server to choose, then you may want to consider axum or warp, the latter taking a more functional approach. Both are built on top of this library.
+
+    - https://github.com/tokio-rs/tokio
+
+- axum[![crates.io](https://img.shields.io/crates/v/axum.svg)](https://crates.io/crates/axum)![Crates.io](https://img.shields.io/crates/l/axum)![wasmtimeDownloads](https://img.shields.io/crates/d/axum.svg)<a href="https://github.com/tokio-rs/axum"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/tokio-rs/axum.svg)
+
+  - Ergonomic and modular web framework built with Tokio, Tower, and Hype
+
+  - <p dir="auto"><a href="https://github.com/tokio-rs/axum" rel="nofollow">Website</a> | <a href="https://docs.rs/axum/0.6.14/axum/" rel="nofollow">Doc API</a> 
+
+    - https://crates.io/crates/axum
+    
+    - https://github.com/tokio-rs/axum
+  
+
 ## Web Framework for Rust
 
 - tokio.rs[![crates.io](https://img.shields.io/crates/v/tokio.svg)](https://crates.io/crates/tokio)![Crates.io](https://img.shields.io/crates/l/tokio)![wasmtimeDownloads](https://img.shields.io/crates/d/tokio.svg)<a href="https://github.com/tokio-rs/tokio"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/tokio-rs/tokio.svg)
