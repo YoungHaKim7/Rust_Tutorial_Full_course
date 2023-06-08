@@ -42,7 +42,7 @@ https://www.shuttle.rs/
 
   - https://github.com/hyperium/hyper
 
-  - <p dir="auto"><a href="https://hyper.rs/" rel="nofollow">Website</a> | <a href="https://hyper.rs/guides/0.14/server/hello-world/" rel="nofollow">Guides</a> | <a href="https://hyper.rs/guides/0.14/" rel="nofollow">API Docs</a> | <a href="https://discord.com/kkwpueZ" rel="nofollow">Chat</a></p>
+  - <p dir="auto"><a href="https://hyper.rs/" rel="nofollow">Website</a> | <a href="https://hyper.rs/guides/0.14/server/hello-world/" rel="nofollow">Guides</a> | <a href="https://hyper.rs/guides/0.14/" rel="nofollow">API Docs</a> | <a href="https://discord.com/invite/kkwpueZ" rel="nofollow">Chat</a></p>
 
   - A fast and correct HTTP implementation for Rust.
 
