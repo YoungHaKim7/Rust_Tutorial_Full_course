@@ -61,7 +61,7 @@ https://www.shuttle.rs/
 
       - "Low-level"
         - hyper is a relatively low-level library, meant to be a building block for libraries and applications.
-          - If you are looking for a convenient HTTP client, then you may wish to consider <a href="https://github.com/seanmonstar/reqwest">reqwest</a>. If you are not sure what HTTP server to choose, then you may want to consider axum or warp, the latter taking a more functional approach. Both are built on top of this library.
+          - If you are looking for a convenient HTTP client, then you may wish to consider <a href="https://github.com/seanmonstar/reqwest">reqwest</a>. If you are not sure what HTTP server to choose, then you may want to consider <a href="https://github.com/tokio-rs/axum">axum</a> or <a href="https://github.com/seanmonstar/warp">warp</a> , the latter taking a more functional approach. Both are built on top of this library.
 
 
 ## Web Framework for Rust
