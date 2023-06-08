@@ -56,8 +56,7 @@ https://www.shuttle.rs/
 
     - Client and Server APIs
 
-  - Get started by looking over the guides.
-
+  - Get started by looking over the <a href="https://hyper.rs/guides/0.14/">guides</a> .
 
     - "Low-level"
       - hyper is a relatively low-level library, meant to be a building block for libraries and applications.
