@@ -394,7 +394,30 @@ async fn main() {
     - https://crates.io/crates/askama
     
     - https://github.com/djc/askama
-
+    
+      - Feature highlights
+        - Construct templates using a familiar, easy-to-use syntax
+        - Benefit from the safety provided by Rust's type system
+        - Template code is compiled into your crate for optimal performance
+        - Optional built-in support for Actix, Axum, Gotham, Mendes, Rocket, tide, and warp web frameworks
+        - Debugging features to assist you in template development
+        - Templates must be valid UTF-8 and produce UTF-8 when rendered
+        - IDE support available in JetBrains products
+        - Works on stable Rust
+      - Supported in templates
+        - Template inheritance
+        - Loops, if/else statements and include support
+        - Macro support
+        - Variables (no mutability allowed)
+        - Some built-in filters, and the ability to use your own
+        - Whitespace suppressing with '-' markers
+        - Opt-out HTML escaping
+        - Syntax customization
+      - How to get started
+        - First, add the Askama dependency to your crate's Cargo.toml:
+        ```
+        cargo add askama
+        ```
     
 <br>
   
