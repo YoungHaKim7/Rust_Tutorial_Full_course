@@ -381,7 +381,7 @@ async fn main() {
 
 <br>
 
-- askama[![crates.io](https://img.shields.io/crates/v/perseus.svg)](https://crates.io/crates/perseus)![Crates.io](https://img.shields.io/crates/l/perseus)![wasmtimeDownloads](https://img.shields.io/crates/d/perseus.svg)<a href="https://github.com/framesurge/perseus"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/framesurge/perseus.svg)
+- askama[![crates.io](https://img.shields.io/crates/v/askama.svg)](https://crates.io/crates/askama)![Crates.io](https://img.shields.io/crates/l/askama)![wasmtimeDownloads](https://img.shields.io/crates/d/askama.svg)<a href="https://github.com/djc/askama"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/djc/askama.svg)
     
     - Askama implements a template rendering engine based on Jinja. It generates Rust code from your templates at compile time based on a user-defined struct to hold the template's context. See below for an example, or read the book.
 
