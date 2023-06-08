@@ -389,8 +389,6 @@ async fn main() {
 
   - Perseus is a blazingly fast frontend web development framework built in Rust with support for generating page state at build-time, request-time, incrementally, or whatever you'd like! It supports reactivity using Sycamore, and builds on it to provide a fully-fledged framework for developing modern apps.
 
-    - 
-
     - https://crates.io/crates/askama
     
     - https://github.com/djc/askama
