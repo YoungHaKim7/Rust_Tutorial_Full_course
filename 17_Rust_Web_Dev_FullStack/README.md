@@ -32,6 +32,8 @@ https://www.shuttle.rs/
 
 - [Web Push](https://github.com/YoungHaKim7/Rust_Tutorial_Full_course/tree/main/17_Rust_Web_Dev_FullStack#web-push)
 
+- [JavaScript JavaScript framework | TypeScript](test)
+
 <hr>
 
 # hyper | Fast and safe HTTP for the Rust language.
@@ -557,4 +559,15 @@ https://youtu.be/luOgEhLE2sg
 https://youtube.com/playlist?list=PLai5B987bZ9C0xK1tZ2wsudOo2zjrD9xX
 
 
+<hr>
 
+# JavaScript JavaScript framework | TypeScript <a href="https://github.com/YoungHaKim7/Rust_Tutorial_Full_course/tree/main/17_Rust_Web_Dev_FullStack#rust-fullstack_web-dev">[🔝]</a>
+
+- Relay is a JavaScript framework for building data-driven React applications.
+  - https://github.com/facebook/relay
+
+- A fast Rust-based web bundler 🦀️
+  - https://github.com/web-infra-dev/rspack
+
+- Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
+  - https://github.com/Hexagon/croner
