@@ -32,7 +32,7 @@ https://www.shuttle.rs/
 
 - [Web Push](https://github.com/YoungHaKim7/Rust_Tutorial_Full_course/tree/main/17_Rust_Web_Dev_FullStack#web-push)
 
-- [JavaScript JavaScript framework | TypeScript](test)
+- [JavaScript JavaScript framework | TypeScript](https://github.com/YoungHaKim7/Rust_Tutorial_Full_course/tree/main/17_Rust_Web_Dev_FullStack#javascript-javascript-framework--typescript-)
 
 <hr>
 
