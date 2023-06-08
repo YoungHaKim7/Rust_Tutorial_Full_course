@@ -42,7 +42,7 @@ https://www.shuttle.rs/
 
   - https://github.com/hyperium/hyper
 
-  - <p dir="auto"><a href="https://tokio.rs" rel="nofollow">Website</a> | <a href="https://tokio.rs/tokio/tutorial" rel="nofollow">Guides</a> | <a href="https://docs.rs/tokio/latest/tokio" rel="nofollow">API Docs</a> | <a href="https://discord.gg/tokio" rel="nofollow">Chat</a></p>
+  - <p dir="auto"><a href="https://hyper.rs/" rel="nofollow">Website</a> | <a href="https://hyper.rs/guides/0.14/server/hello-world/" rel="nofollow">Guides</a> | <a href="https://hyper.rs/guides/0.14/" rel="nofollow">API Docs</a> | <a href="https://discord.com/kkwpueZ" rel="nofollow">Chat</a></p>
 
   - A fast and correct HTTP implementation for Rust.
 
@@ -67,9 +67,9 @@ https://www.shuttle.rs/
         - If you are looking for a convenient HTTP client, then you may wish to consider <a href="https://github.com/seanmonstar/reqwest">reqwest</a>. If you are not sure what HTTP server to choose, then you may want to consider <a href="https://github.com/tokio-rs/axum">axum</a> or <a href="https://github.com/seanmonstar/warp">warp</a> , the latter taking a more functional approach. Both are built on top of this library.
 
   - Categories(crates.io)
-    - HTTP server
-    - HTTP client
-    - Network programming
+    - <a href="https://crates.io/categories/web-programming::http-server">HTTP server</a> 
+    - <a href="https://crates.io/categories/web-programming::http-client">HTTP client</a>
+    - <a href="https://crates.io/categories/network-programming">Network programming</a>
 
 <hr>
 
