@@ -32,6 +32,8 @@ https://www.shuttle.rs/
 
 - [Web Push](https://github.com/YoungHaKim7/Rust_Tutorial_Full_course/tree/main/17_Rust_Web_Dev_FullStack#web-push)
 
+<hr>
+
 # hyper | Fast and safe HTTP for the Rust language.
 
 - hyper[![crates.io](https://img.shields.io/crates/v/hyper.svg)](https://crates.io/crates/hyper)![Crates.io](https://img.shields.io/crates/l/hyper)![wasmtimeDownloads](https://img.shields.io/crates/d/hyper.svg)<a href="https://github.com/hyperium/hyper"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![druidstar](https://img.shields.io/github/stars/hyperium/hyper.svg)
@@ -64,6 +66,12 @@ https://www.shuttle.rs/
       - hyper is a relatively low-level library, meant to be a building block for libraries and applications.
         - If you are looking for a convenient HTTP client, then you may wish to consider <a href="https://github.com/seanmonstar/reqwest">reqwest</a>. If you are not sure what HTTP server to choose, then you may want to consider <a href="https://github.com/tokio-rs/axum">axum</a> or <a href="https://github.com/seanmonstar/warp">warp</a> , the latter taking a more functional approach. Both are built on top of this library.
 
+  - Categories(crates.io)
+    - HTTP server
+    - HTTP client
+    - Network programming
+
+<hr>
 
 ## Web Framework for Rust
 
