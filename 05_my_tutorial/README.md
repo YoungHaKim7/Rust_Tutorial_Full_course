@@ -1,3 +1,7 @@
+# 연습하자 Rust by Practice
+
+https://practice.rs/why-exercise.html
+
 # Why Rust is Being Used for Evil(the borrow checker)
 
 https://youtu.be/11raTwzQVn4
