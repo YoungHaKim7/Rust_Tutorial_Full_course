@@ -1,3 +1,12 @@
+# WASIX
+
+- Introduction
+  - WASIX is the long term stabilization and support of the existing WASI ABI plus additional non-invasive syscall extensions that complete the missing gaps sufficiently enough to enable real, practical and useful applications to be compiled and used now. It aims to speed up the ecosystem around the WASI so that the Wasm’ification of code bases around the world can really start today!
+
+https://wasix.org/
+
+<hr>
+
 # Rust 웹개발 블로그
 
 https://joshmo.hashnode.dev/can-rust-beat-javascript-in-2023
