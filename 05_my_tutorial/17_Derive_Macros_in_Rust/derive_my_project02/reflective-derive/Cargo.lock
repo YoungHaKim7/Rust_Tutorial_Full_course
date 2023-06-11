@@ -3,13 +3,6 @@
 version = 3
 
 [[package]]
-name = "derive_my_project02"
-version = "0.1.0"
-dependencies = [
- "reflective-derive",
-]
-
-[[package]]
 name = "proc-macro2"
 version = "1.0.60"
 source = "registry+https://github.com/rust-lang/crates.io-index"

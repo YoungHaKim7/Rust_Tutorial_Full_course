@@ -1,9 +1,13 @@
 [package]
-name = "derive_my_project02"
+name = "reflective-derive"
 version = "0.1.0"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-reflective-derive = { path = "reflective-derive"}
+quote = "1.0.28"
+syn = "2.0.18"
+
+[lib]
+proc-macro = true

@@ -1,17 +1,17 @@
 use derive_my_project02::Reflective;
-  
-// #[derive(Reflective)]
+
+#[derive(Reflective)]
 struct Foo {
     a: i32,
     b: bool,
     c: String,
 }
 
-impl Reflective for Foo {
-    fn name(&self) -> &'static str {
-        "Foo"
-    }
-}
+// impl Reflective for Foo {
+//     fn name(&self) -> &'static str {
+//         "Foo"
+//     }
+// }
 
 fn main() {
     let foo = Foo {
@@ -19,5 +19,6 @@ fn main() {
         b: false,
         c: "foo".to_string(),
     };
-    println!("{}", foo.name());
+    println!("The name of struct: {}", foo.name());
+    println!("Fields of struct: {:?}", foo.field_names());
 }
