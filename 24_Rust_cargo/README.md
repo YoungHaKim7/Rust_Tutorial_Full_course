@@ -94,6 +94,24 @@ codegen-units = 256
 rpath = false
 ```
 
+```
+[profile.release]
+
+```
+
+- Build Dependencies
+
+```
+[profile.dev.build-override]
+opt-level = 0
+codegen-units = 256
+debug = false # when possible
+
+[profile.release.build-override]
+opt-level = 0
+codegen-units = 256
+```
+
 https://doc.rust-lang.org/cargo/reference/profiles.html
 
 <br>
