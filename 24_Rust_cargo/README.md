@@ -70,6 +70,36 @@ https://doc.rust-lang.org/cargo/commands/cargo-add.html
 https://doc.rust-lang.org/cargo/reference/specifying-dependencies.html#development-dependencies
 
 
+# Default profiles
+
+- dev
+  - The dev profile is used for normal development and debugging. It is the default for build commands like cargo build, and is used for cargo install --debug.
+
+- The default settings for the dev profile are:
+
+
+```
+
+
+[profile.dev]
+opt-level = 0
+debug = true
+split-debuginfo = '...'  # Platform-specific.
+debug-assertions = true
+overflow-checks = true
+lto = false
+panic = 'unwind'
+incremental = true
+codegen-units = 256
+rpath = false
+```
+
+https://doc.rust-lang.org/cargo/reference/profiles.html
+
+<br>
+
+<hr>
+
 # rustup 활용법 & 업데이드 및 기타etc
 
 https://github.com/YoungHaKim7/rust_release
