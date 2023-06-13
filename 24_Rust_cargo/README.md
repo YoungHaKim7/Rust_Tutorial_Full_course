@@ -122,6 +122,31 @@ https://github.com/dtolnay/cargo-expand
 
 <hr>
 
+# cargo 공부해야할 것
+
+```
+Replaced package `cargo-binutils v0.3.6` with `cargo-binutils v0.3.6` (executables 
+`cargo-cov`, 
+`cargo-nm`, 
+`cargo-objcopy`, 
+`cargo-objdump`, 
+`cargo-profdata`, 
+`cargo-readobj`, 
+`cargo-size`, 
+`cargo-strip`, 
+`rust-ar`, 
+`rust-cov`, 
+`rust-ld`, 
+`rust-lld`, 
+`rust-nm`, 
+`rust-objcopy`, 
+`rust-objdump`, 
+`rust-profdata`, 
+`rust-readobj`, 
+`rust-size`, 
+`rust-strip`)
+```
+
 # rustup 활용법 & 업데이드 및 기타etc
 
 https://github.com/YoungHaKim7/rust_release
