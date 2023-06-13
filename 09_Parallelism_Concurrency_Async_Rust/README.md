@@ -28,6 +28,14 @@ https://en.wikipedia.org/wiki/Parallel_computing
 
 <hr>
 
+# C++ C++11 ~ C++23 역사
+
+https://www.modernescpp.com/index.php/performance-of-the-parallel-stl-algorithmn
+
+<br>
+
+<hr>
+
 # Queuing Theory 🚶🏿🚶🚶
 
 https://youtube.com/playlist?list=PLjXls-kqM6JBzXb6pBnC8WDo28dWc4_qL
