@@ -22,6 +22,10 @@ https://marabos.nl/atomics/
 
 https://en.wikipedia.org/wiki/Concurrency_(computer_science)
 
+# Parallel_computing
+
+https://en.wikipedia.org/wiki/Parallel_computing
+
 <hr>
 
 # Queuing Theory 🚶🏿🚶🚶
