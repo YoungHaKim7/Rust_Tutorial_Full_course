@@ -15,3 +15,7 @@ https://m.blog.naver.com/wolco/222967796129
 - easy rust로 정리한 Blog 역시 easy rust 짱
 
   - https://m.blog.naver.com/wolco/222890697144
+
+# 공식 rust=lang 소개한 traits에 대해 예문도 많음(연습해보기)
+
+https://blog.rust-lang.org/2015/05/11/traits.html
