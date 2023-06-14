@@ -14,7 +14,7 @@ https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung
 
 <hr>
 
-# Rust for Beginners – Get Started with the Most Loved Programming Language | FreeCodeCamp
+# 러스트 간단히 소개 Rust for Beginners – Get Started with the Most Loved Programming Language | FreeCodeCamp
 
 https://www.freecodecamp.org/news/rust-getting-started-with-the-most-loved-programming-language/
 
