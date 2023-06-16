@@ -12,6 +12,10 @@ https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung
 
   - https://youtube.com/playlist?list=PLcMveqN_07maeDuKrsf5GYMDB5obTWoWg
 
+# Effective Rust
+
+https://www.lurklurk.org/effective-rust/cover.html
+
 <hr>
 
 # 러스트 간단히 소개 Rust for Beginners – Get Started with the Most Loved Programming Language | FreeCodeCamp
