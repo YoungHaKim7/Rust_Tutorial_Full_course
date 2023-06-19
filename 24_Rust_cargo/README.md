@@ -120,6 +120,16 @@ https://doc.rust-lang.org/cargo/reference/profiles.html
 
 https://github.com/dtolnay/cargo-expand
 
+- install
+
+  ```
+  cargo install cargo-expand
+  ```
+
+```
+cargo expand
+```
+
 <hr>
 
 # cargo 공부해야할 것
