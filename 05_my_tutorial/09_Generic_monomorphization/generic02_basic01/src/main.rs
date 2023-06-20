@@ -1,4 +1,7 @@
-fn y_xxx(x: u32) -> u32 {
+fn y_xxx<T>(x: T) -> T
+where
+    T: std::ops::Mul<Output = T> + Copy,
+{
     x * x * x
 }
 
