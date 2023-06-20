@@ -28,3 +28,10 @@ https://learn.microsoft.com/en-us/training/paths/rust-first-steps/
 # Miscrosoft 한글 버젼 Rust Tutorials
 
 https://learn.microsoft.com/ko-kr/training/modules/rust-introduction/
+
+
+# Google 4일 완성 (Comprehensive-rust
+
+- Eng. version. https://google.github.io/comprehensive-rust/
+
+- Kor. Version https://google.github.io/comprehensive-rust/ko/welcome.html
