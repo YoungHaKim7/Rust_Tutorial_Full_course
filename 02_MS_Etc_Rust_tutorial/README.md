@@ -35,3 +35,7 @@ https://learn.microsoft.com/ko-kr/training/modules/rust-introduction/
 - Eng. version. https://google.github.io/comprehensive-rust/
 
 - Kor. Version https://google.github.io/comprehensive-rust/ko/welcome.html
+
+# Effective Rust
+
+https://www.lurklurk.org/effective-rust/
