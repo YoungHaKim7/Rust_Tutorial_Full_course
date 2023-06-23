@@ -57,12 +57,14 @@ https://google.github.io/comprehensive-rust/exercises/day-3/solutions-morning.ht
 
     - https://crates.io/crates/relm4
 
-- fltk-rs[![crates.io](https://img.shields.io/crates/v/relm4.svg)](https://crates.io/crates/reml4)![Crates.io](https://img.shields.io/crates/l/egui)![druidDownloads](https://img.shields.io/crates/d/relm4.svg)<a href="https://github.com/Relm4/Relm4"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
-![druidstar](https://img.shields.io/github/stars/Relm4/Relm4.svg)<a href="https://docs.rs/relm4/" rel="nofollow noopener noreferrer"><img src="https://img.shields.io/badge/rust-documentation-blue" alt="Relm4 docs"></a><a href="https://relm4.org/book/stable/" rel="nofollow noopener noreferrer"><img src="https://img.shields.io/badge/rust-book-fc0060" alt="Relm4 book"></a>
+- fltk-rs[![crates.io](https://img.shields.io/crates/v/fltk.svg)](https://crates.io/crates/fltk)![Crates.io](https://img.shields.io/crates/l/fltk)![druidDownloads](https://img.shields.io/crates/d/fltk.svg)<a href="https://github.com/fltk-rs/fltk-rs"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
+![druidstar](https://img.shields.io/github/stars/fltk-rs/fltk-rs.svg)
 
     - Rust bindings for the FLTK GUI library.
     
     - https://github.com/fltk-rs/fltk-rs
+ 
+    - https://crates.io/crates/fltk
 
 <br>
 
