@@ -1,3 +1,7 @@
+# Embedded DB
+
+https://github.com/cberner/redb
+
 # Embeddable Rust
 
 https://www.electronicdesign.com/technologies/embedded/software/video/21263235/electronic-design-embeddable-rust
