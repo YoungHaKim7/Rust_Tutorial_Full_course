@@ -16,6 +16,10 @@ https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung
 
 https://www.lurklurk.org/effective-rust/cover.html
 
+# Rust for Rustaceans 책에 나오는 학습 리소스 정리
+
+https://inudevlog.com/Rust%20for%20Rustaceans%20%EC%B1%85%EC%97%90%20%EB%82%98%EC%98%A4%EB%8A%94%20%ED%95%99%EC%8A%B5%20%EB%A6%AC%EC%86%8C%EC%8A%A4%20%EC%A0%95%EB%A6%AC/
+
 <hr>
 
 # 러스트 간단히 소개 Rust for Beginners – Get Started with the Most Loved Programming Language | FreeCodeCamp
