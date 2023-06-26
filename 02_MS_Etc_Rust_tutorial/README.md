@@ -36,6 +36,12 @@ https://learn.microsoft.com/ko-kr/training/modules/rust-introduction/
 
 - Kor. Version https://google.github.io/comprehensive-rust/ko/welcome.html
 
+# Learn Rust Programming - Complete Course 🦀 | freeCodeCapm.org
+
+https://youtu.be/BpPEoZW5IiY
+
+<hr>
+
 # Effective Rust
 
 https://www.lurklurk.org/effective-rust/
