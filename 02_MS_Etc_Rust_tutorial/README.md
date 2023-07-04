@@ -45,3 +45,7 @@ https://youtu.be/BpPEoZW5IiY
 # Effective Rust
 
 https://www.lurklurk.org/effective-rust/
+
+- MIT
+
+  - https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/the-stack-and-the-heap.html
