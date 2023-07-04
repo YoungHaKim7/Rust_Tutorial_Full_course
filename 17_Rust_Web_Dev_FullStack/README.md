@@ -2,6 +2,10 @@
 
 https://rustwasm.github.io/
 
+https://rustwasm.github.io/docs/book/
+
+- 깃허브 https://github.com/rustwasm
+
 # WASIX
 
 - Introduction
