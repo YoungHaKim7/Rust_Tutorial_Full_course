@@ -49,3 +49,11 @@ https://www.lurklurk.org/effective-rust/
 - MIT
 
   - https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/the-stack-and-the-heap.html
+
+<hr>
+
+# stack vs heap  & xxd 이해하기
+
+- stack&heap그림으로 https://www.linux.com/training-tutorials/stack-vs-heap-whats-difference-and-why-should-i-care/
+- xxd https://linux.die.net/man/1/xxd
+  - https://twpower.github.io/122-xxd-command-usage
