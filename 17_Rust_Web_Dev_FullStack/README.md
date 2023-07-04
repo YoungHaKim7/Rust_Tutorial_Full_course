@@ -5,6 +5,7 @@ https://rustwasm.github.io/
 https://rustwasm.github.io/docs/book/
 
 - 깃허브 https://github.com/rustwasm
+- 어썸Awesome 러스트 웹어셈블리 https://github.com/rustwasm/awesome-rust-and-webassembly
 
 # WASIX
 
