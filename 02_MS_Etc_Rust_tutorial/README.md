@@ -61,3 +61,7 @@ https://www.lurklurk.org/effective-rust/
 
 - xxd https://linux.die.net/man/1/xxd
   - https://twpower.github.io/122-xxd-command-usage
+
+# Rust (  Rc가 Gc 이건 좀 충격적이네 ㅋ )
+
+https://stackoverflow.com/questions/27662120/how-are-rusts-arc-and-rc-types-different-from-having-garbage-collection
