@@ -55,5 +55,9 @@ https://www.lurklurk.org/effective-rust/
 - stack&heap그림으로 https://www.linux.com/training-tutorials/stack-vs-heap-whats-difference-and-why-should-i-care/
   - MIT(설명한 러스트 역시 자세하네 굿💕👍
     - https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/the-stack-and-the-heap.html
+    - second ver. https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/second-edition/index.html
+
+<br>
+
 - xxd https://linux.die.net/man/1/xxd
   - https://twpower.github.io/122-xxd-command-usage
