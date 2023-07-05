@@ -11,6 +11,13 @@ https://www.electronicdesign.com/technologies/embedded/software/video/21263235/e
 
 https://docs.rust-embedded.org/book/intro/index.html
 
+# Rust Zürisee Live Stream 2023-07-03
+- Topics:  https://www.youtube.com/live/1sAEU32aGyA?feature=share
+  - * Rust in the Kernel
+  - * IDE level configuration
+
+<hr>
+
 # Rust 공식채널
 
 https://www.rust-lang.org/what/embedded
