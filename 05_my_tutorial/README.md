@@ -1,6 +1,8 @@
 # 러스트 기초 문법 끝내고 간단한 프로젝트 해보기
 
-https://github.com/MunGell/awesome-for-beginners
+- https://github.com/MunGell/awesome-for-beginners
+
+- https://github.com/pretzelhammer/rust-blog
 
 # 연습하자 Rust by Practice
 
