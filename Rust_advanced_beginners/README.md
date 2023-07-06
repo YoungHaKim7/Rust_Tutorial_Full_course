@@ -22,3 +22,6 @@ https://youtu.be/jpVzSse7oJ4
 https://youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
 
 
+# Rust forge 조금 더 깊숙이
+
+https://forge.rust-lang.org/index.html
