@@ -6,8 +6,10 @@
 - Rust Axum Full Course - Web Development | Jeremy Chone 👍❤️
   - https://youtu.be/XZtlD_m59sM
 
-- Learn Tailwind CSS – Course for Beginners | freeCodeCamp.org
-  - https://youtu.be/ft30zcMlFao
+- Frontend
+
+  - Learn Tailwind CSS – Course for Beginners | freeCodeCamp.org
+    - https://youtu.be/ft30zcMlFao
 
 
 <hr>
