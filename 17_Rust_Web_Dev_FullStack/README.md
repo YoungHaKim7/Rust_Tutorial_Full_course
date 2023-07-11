@@ -3,7 +3,8 @@
 - Full Stack Rust Workshop: Shuttle, Actix Web, SQLx & Diouxus
   - https://bcnrust.github.io/devbcn-workshop/
  
-- Axum Full Course
+- Rust Axum Full Course - Web Development | Jeremy Chone 👍❤️
+  - https://youtu.be/XZtlD_m59sM
 
 <hr>
 
