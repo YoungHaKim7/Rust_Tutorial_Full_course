@@ -1,3 +1,12 @@
+# Full Stack Rust
+
+- Full Stack Rust Workshop: Shuttle, Actix Web, SQLx & Diouxus
+  - https://bcnrust.github.io/devbcn-workshop/
+ 
+- Axum Full Course
+
+<hr>
+
 # Learn Rust and WebAssembly
 
 https://rustwasm.github.io/
