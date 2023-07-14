@@ -30,6 +30,9 @@ https://learn.microsoft.com/en-us/training/paths/rust-first-steps/
 https://learn.microsoft.com/ko-kr/training/modules/rust-introduction/
 
 
+# Rust 심화 과정
+https://doc.rust-lang.org/reference/introduction.html
+
 # Google 4일 완성 (Comprehensive-rust
 
 - Eng. version. https://google.github.io/comprehensive-rust/
