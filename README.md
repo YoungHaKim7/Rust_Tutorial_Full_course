@@ -773,7 +773,7 @@ https://doc.rust-lang.org/beta/unstable-book/the-unstable-book.html
 # $유료$ Rust 코스 모음$
 
 - Easy Rust 유료 버젼Learn Rust in a Month of Lunches
- - https://www.manning.com/books/learn-rust-in-a-month-of-lunches
+  - https://www.manning.com/books/learn-rust-in-a-month-of-lunches
 
 - 딥 다이브 느낌의 완벽한 러스트Complete-Rust-Programming-Reference-Guide
   - https://www.amazon.com/Complete-Rust-Programming-Reference-Guide/dp/1838828109
