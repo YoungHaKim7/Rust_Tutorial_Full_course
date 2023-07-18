@@ -1,7 +1,15 @@
+# Modern embedded framework, using Rust and async.
+
+- https://github.com/embassy-rs/embassy
+
+  - https://embassy.dev/
+
 # Embedded DB
 
 - https://github.com/cberner/redb
   - https://www.redb.org/
+
+<hr>
 
 # Embeddable Rust
 
