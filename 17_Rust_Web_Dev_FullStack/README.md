@@ -1,3 +1,9 @@
+# The Truth about Rust/WebAssembly Performance
+
+https://youtu.be/4KtotxNAwME
+
+<hr>
+
 # Full Stack Rust
 
 - Full Stack Rust Workshop: Shuttle, Actix Web, SQLx & Diouxus
