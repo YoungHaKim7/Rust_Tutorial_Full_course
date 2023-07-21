@@ -24,6 +24,8 @@ https://youtu.be/4KtotxNAwME
     - https://docs.shuttle.rs/introduction/welcome
   - ```cargo shuttle``` 활용법
     - https://github.com/shuttle-hq/shuttle/tree/main/cargo-shuttle
+      - 해외 유튜버의 Tutorial영상 Live coding a full stack webapp with Rust, Actix, SQLx, Dioxus, and Shuttle
+      - https://www.youtube.com/live/DCpILwGas-M?feature=share
 
 <hr>
 
