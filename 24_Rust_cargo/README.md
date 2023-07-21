@@ -157,6 +157,33 @@ Replaced package `cargo-binutils v0.3.6` with `cargo-binutils v0.3.6` (executabl
 `rust-strip`)
 ```
 
+# Use the web
+
+- Use the web
+  - crates.io
+    - Navigate to https://crates.io/, type your crate name into the search box, and see the version. You can also click the clipboard icon to copy the complete dependency to add to Cargo.toml.
+
+  - docs.rs
+    - Navigate to https://docs.rs/, type your crate name into the search box, and see the version. If you click through to the crate, you can then click the clipboard icon to copy the complete dependency to add to Cargo.toml.
+
+  - lib.rs
+    - Navigate to https://lib.rs/, type your crate name into the search box, and see the version. If you click through to the crate, you can then click on the "installation" tab to see the complete dependency to add to Cargo.toml.
+
+- Use the command line
+  - cargo build
+Add the wildcard dependency to your Cargo.toml (e.g. rand_pcg = "*"). Run cargo build and note the version it picked (e.g. Compiling rand_pcg v...) or look in Cargo.lock for the entry for the crate. Edit Cargo.toml to use this version.
+
+  - cargo add
+Install cargo edit then run cargo add rand_pcg. This is my preferred route.
+
+See Is there a command to automatically add a crate to my Cargo.toml? for more.
+
+  - cargo search
+As mentioned by user2722968, you can run cargo search rand-pcg and it will output the dependency line.
+
+https://stackoverflow.com/questions/69005705/how-to-find-the-current-version-of-a-rust-library
+
+
 # rustup 활용법 & 업데이드 및 기타etc
 
 https://github.com/YoungHaKim7/rust_release
