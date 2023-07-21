@@ -4,7 +4,7 @@ https://youtu.be/4KtotxNAwME
 
 <hr>
 
-# Full Stack Rust
+# FullStack Rust
 
 - Full Stack Rust Workshop: Shuttle, Actix Web, SQLx & Diouxus
   - https://bcnrust.github.io/devbcn-workshop/
@@ -17,6 +17,13 @@ https://youtu.be/4KtotxNAwME
   - Learn Tailwind CSS – Course for Beginners | freeCodeCamp.org
     - https://youtu.be/ft30zcMlFao
 
+## Deploy(Rust)
+
+- https://www.shuttle.rs/
+  - Doc
+    - https://docs.shuttle.rs/introduction/welcome
+  - ```cargo shuttle``` 활용법
+    - https://github.com/shuttle-hq/shuttle/tree/main/cargo-shuttle
 
 <hr>
 
