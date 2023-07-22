@@ -26,6 +26,8 @@ https://youtu.be/4KtotxNAwME
     - https://github.com/shuttle-hq/shuttle/tree/main/cargo-shuttle
       - 해외 유튜버의 Tutorial영상 Live coding a full stack webapp with Rust, Actix, SQLx, Dioxus, and Shuttle
       - https://www.youtube.com/live/DCpILwGas-M?feature=share
+      - github https://github.com/BcnRust/devbcn-workshop-dryrun
+      - eBook https://bcnrust.github.io/devbcn-workshop/
 
 <hr>
 
