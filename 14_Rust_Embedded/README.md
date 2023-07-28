@@ -1,8 +1,12 @@
 # Rust Embeded 기초
 
 - probe-rs-cli  보내고
+  - https://github.com/probe-rs/probe-rs
+    - https://probe.rs/
   
 - 로깅은 defmt
+  - https://github.com/knurling-rs/defmt
+    - tutorial eBook https://defmt.ferrous-systems.com/
 
 <hr>
 
