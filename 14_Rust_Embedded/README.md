@@ -1,3 +1,11 @@
+# Rust Embeded 기초
+
+- probe-rs-cli  보내고
+  
+- 로깅은 defmt
+
+<hr>
+
 # Modern embedded framework, using Rust and async.
 
 - https://github.com/embassy-rs/embassy
