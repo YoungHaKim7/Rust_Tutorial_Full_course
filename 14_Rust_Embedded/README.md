@@ -8,6 +8,8 @@
   - https://github.com/knurling-rs/defmt
     - tutorial eBook https://defmt.ferrous-systems.com/
 
+[defmt ecosystem!](https://github.com/knurling-rs/defmt/raw/main/assets/defmt.png)
+
 <hr>
 
 # Modern embedded framework, using Rust and async.
