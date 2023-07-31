@@ -2,7 +2,7 @@
 - SQLx is my favorite PostgreSQL driver to use with Rust.
   - https://youtu.be/TCERYbgvbq0
 
-# 내가 정리한 PostgreSQL
+# 내가 정리한 PostgreSQL 커멘드Command 모음
 
 https://github.com/YoungHaKim7/postgresql_gy
 
