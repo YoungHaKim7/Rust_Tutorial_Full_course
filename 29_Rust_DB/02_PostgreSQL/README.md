@@ -22,5 +22,6 @@ https://github.com/YoungHaKim7/postgresql_gy
 
 # Serverless Postgres
 - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
-  - https://github.com/neondatabase/neon
-    - https://neon.tech/
+  - Neon is a serverless open-source alternative to AWS Aurora Postgres. It separates storage and compute and substitutes the PostgreSQL storage layer by redistributing data across a cluster of nodes.
+    - https://github.com/neondatabase/neon
+      - https://neon.tech/
