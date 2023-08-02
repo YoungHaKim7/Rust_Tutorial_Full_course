@@ -33,6 +33,7 @@ https://arewegameyet.rs/resources/tutorials/
     - https://bevy-cheatbook.github.io/
 
     - https://bevyengine.org/examples/
+    - Unofficial Bevy Cheat Book https://bevy-cheatbook.github.io/
     
       - Bevy Basics
       
