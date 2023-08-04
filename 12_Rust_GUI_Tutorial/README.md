@@ -65,6 +65,8 @@ https://google.github.io/comprehensive-rust/exercises/day-3/solutions-morning.ht
     - https://github.com/fltk-rs/fltk-rs
  
     - https://crates.io/crates/fltk
+      - Tutorial Video(FLTK Rust)
+        - https://youtube.com/playlist?list=PLHqrrowPLkDu9U-uk60sGM-YWLOJFfLoE
 
 <br>
 
