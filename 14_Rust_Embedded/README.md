@@ -12,6 +12,14 @@
 
 <hr>
 
+# microcontrollers 
+- A secure embedded operating system for microcontrollers
+  - https://github.com/tock/tock
+    - https://tockos.org/
+
+
+<hr>
+
 # Modern embedded framework, using Rust and async.
 
 - https://github.com/embassy-rs/embassy
