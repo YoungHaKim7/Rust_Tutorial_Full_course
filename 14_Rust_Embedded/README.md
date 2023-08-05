@@ -14,6 +14,9 @@
 
 # microcontrollers 
 - A secure embedded operating system for microcontrollers
+  - about
+    - Programmable IoT starts at the edge
+    - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers.
   - https://github.com/tock/tock
     - https://tockos.org/
 
