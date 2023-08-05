@@ -84,6 +84,17 @@ https://google.github.io/comprehensive-rust/exercises/day-3/solutions-morning.ht
     - https://github.com/PoignardAzur/masonry-rs
 
 
+- xilem<a href="https://github.com/linebender/xilem"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
+![druidstar](https://img.shields.io/github/stars/linebender/xilem.svg)
+
+    - An experimental Rust native UI framework
+
+    - Rust 용 Data-first UI 디자인 툴킷인 Druid 를 만들었던 사람의 제안 글이네요. 꽤 긴글이라 도입부만 옮겨봅니다. 결과물이 나와봐야 알 것 같아요. Raph Levien은 사실 Druid만으로 말하기에는 너무 부족한 사람인데... (GPL) Ghostscript 메인테이너, Advogato 블로그 커뮤니티, Inconsolata 글꼴, Xi 편집기 등으로 예전부터 유명합니다.
+      - https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html
+      - https://news.hada.io/topic?id=6519
+
+    - https://github.com/linebender/xilem
+
 - Orbtk[![deprecated](http://badges.github.io/stability-badges/dist/deprecated.svg)](http://github.com/badges/stability-badges)[![crates.io](https://img.shields.io/crates/v/orbtk.svg)](https://crates.io/crates/orbtk)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![icedDownloads](https://img.shields.io/crates/d/orbtk.svg)<a href="https://github.com/redox-os/orbtk"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
