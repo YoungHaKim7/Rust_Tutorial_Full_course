@@ -13,12 +13,12 @@
 <hr>
 
 # microcontrollers 
-- A secure embedded operating system for microcontrollers
-  - about
-    - Programmable IoT starts at the edge
-    - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers.
-  - https://github.com/tock/tock
-    - https://tockos.org/
+- Tock
+  - A secure embedded operating system for microcontrollers
+    - about
+      - Tock is an embedded operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M and RISC-V based embedded platforms. Tock's design centers around protection, both from potentially malicious applications and from device drivers. Tock uses two mechanisms to protect different components of the operating system. First, the kernel and device drivers are written in Rust, a systems programming language that provides compile-time memory safety and type safety. Tock uses Rust to protect the kernel (e.g. the scheduler and hardware abstraction layer) from platform specific device drivers as well as isolate device drivers from each other. Second, Tock uses memory protection units to isolate applications from each other and the kernel.
+    - https://github.com/tock/tock
+      - https://tockos.org/
 
 
 <hr>
