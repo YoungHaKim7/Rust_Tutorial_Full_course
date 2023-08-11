@@ -65,6 +65,16 @@ https://www.lurklurk.org/effective-rust/
 - xxd https://linux.die.net/man/1/xxd
   - https://twpower.github.io/122-xxd-command-usage
 
+![best_pointer_explanation](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/3b8ba5cd-3b9f-452d-908c-c99fff87a972)
+
+# 역시 stack & heap 이해는 어셈블리가 진리.
+
+
+
+<br>
+
+<hr>
+
 # Rust (  Rc가 Gc 이건 좀 충격적이네 ㅋ )
 
 https://stackoverflow.com/questions/27662120/how-are-rusts-arc-and-rc-types-different-from-having-garbage-collection
