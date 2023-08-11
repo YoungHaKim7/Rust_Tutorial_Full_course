@@ -59,6 +59,7 @@ https://www.lurklurk.org/effective-rust/
   - MIT(설명한 러스트 역시 자세하네 굿💕👍
     - https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/the-stack-and-the-heap.html
     - second ver. https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/second-edition/index.html
+- C++ 예제코드 & LIFO LILO으로 stack&heap 이해하기 https://cboard.cprogramming.com/c-programming/13203-what-stack-heap-queue.html
 
 <br>
 
