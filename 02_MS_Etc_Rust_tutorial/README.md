@@ -65,6 +65,7 @@ https://www.lurklurk.org/effective-rust/
 - xxd https://linux.die.net/man/1/xxd
   - https://twpower.github.io/122-xxd-command-usage
 
+- 출처 : https://www.youtube.com/@ThePrimeTimeagen
 ![best_pointer_explanation](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/3b8ba5cd-3b9f-452d-908c-c99fff87a972)
 
 # 역시 stack & heap 이해는 어셈블리가 진리.
