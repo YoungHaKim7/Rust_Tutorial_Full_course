@@ -59,7 +59,7 @@ https://www.lurklurk.org/effective-rust/
   - MIT(설명한 러스트 역시 자세하네 굿💕👍
     - https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/the-stack-and-the-heap.html
     - second ver. https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/second-edition/index.html
-- C++ 예제코드 & LIFO LILO으로 stack&heap 이해하기 https://cboard.cprogramming.com/c-programming/13203-what-stack-heap-queue.html
+
 
 <br>
 
@@ -76,6 +76,10 @@ https://www.lurklurk.org/effective-rust/
 
 - x86-64 Assembly Language Programming with Ubuntu
   - http://www.egr.unlv.edu/~ed/assembly64.pdf
+ 
+# C++ 로 stack & heap 개념잡기(int const atomic)
+- C++ 예제코드 & LIFO LILO으로 stack&heap 이해하기 https://cboard.cprogramming.com/c-programming/13203-what-stack-heap-queue.html
+![IMG_6543](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/f5cc8e9d-34cc-4d45-941b-2b20eedd404c)
 
 <br>
 
