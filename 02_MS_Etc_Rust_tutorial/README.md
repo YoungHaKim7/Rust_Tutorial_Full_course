@@ -64,6 +64,9 @@ https://www.lurklurk.org/effective-rust/
 
 - xxd https://linux.die.net/man/1/xxd
   - https://twpower.github.io/122-xxd-command-usage
+ 
+- Memory Layout
+![Memory_Layout_Heap_Stack](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/b9d48e73-e19a-4b89-aa38-128a29cd3c11)
 
 - 출처 : https://www.youtube.com/@ThePrimeTimeagen
 ![best_pointer_explanation](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/3b8ba5cd-3b9f-452d-908c-c99fff87a972)
