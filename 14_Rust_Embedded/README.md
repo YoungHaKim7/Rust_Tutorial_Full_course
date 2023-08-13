@@ -23,6 +23,14 @@
 
 <hr>
 
+# 러스트 개발자 지인 분의 BillMock Firmware
+
+- BillMock firmware source code written in rust
+
+  - https://github.com/pmnxis/billmock-app-rs
+
+<hr>
+
 # Modern embedded framework, using Rust and async.
 
 - https://github.com/embassy-rs/embassy
