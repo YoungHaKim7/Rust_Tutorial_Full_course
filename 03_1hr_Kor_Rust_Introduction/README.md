@@ -17,5 +17,5 @@ https://github.com/utilForever/2023-MatKor-Rust-Interpreter
 
 https://survey.stackoverflow.co/2023/#section-admired-and-desired-programming-scripting-and-markup-languages
 
-- 2023년 사용 순위 18위
-  - todo()!
+- 2023년 Rust Dev.사용 순위 17위 ( 2022년은 29위 였음)
+  - https://szabgab.com/programming-language-popularity-rust
