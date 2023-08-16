@@ -9,3 +9,13 @@ https://youtu.be/V6TR2FeCK5c
 # 2023년 고려대학교 MatKor 스터디 - Rust 기초 프로그래밍 + 인터프리터 만들기 
 
 https://github.com/utilForever/2023-MatKor-Rust-Interpreter
+
+
+<hr>
+
+# Rust 존경받는 언어 1위
+
+https://survey.stackoverflow.co/2023/#section-admired-and-desired-programming-scripting-and-markup-languages
+
+- 2023년 사용 순위 18위
+  - todo()!
