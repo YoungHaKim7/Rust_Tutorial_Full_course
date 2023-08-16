@@ -19,3 +19,8 @@ https://survey.stackoverflow.co/2023/#section-admired-and-desired-programming-sc
 
 - 2023년 Rust Dev.사용 순위 17위 ( 2022년은 29위 였음)
   - https://szabgab.com/programming-language-popularity-rust
+
+- 러스트의 유일한 대항마는 Zig밖에 없음 (Zig겁나게 빠름)
+ - 출처 : 노마드코더스 Nomad Coders
+ - 프로그래밍 언어 '지그', 언어 순위 50위 진입 주목
+   - C언어의 단순성과 편의성, 러스트의 안정성 더해 인기 https://zdnet.co.kr/view/?no=20230409151756
