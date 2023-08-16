@@ -20,6 +20,12 @@ https://survey.stackoverflow.co/2023/#section-admired-and-desired-programming-sc
 - 2023년 Rust Dev.사용 순위 17위 ( 2022년은 29위 였음)
   - https://szabgab.com/programming-language-popularity-rust
 
+
+# 리눅스 커널 & MS커널 Rust코드로 교체함.
+
+- MS는 C++ 대신 36,000줄의 Rust 코드로 Windows 커널을 다시 작성합니다(윈도우 win32러스트로 코드 교체)
+  - https://news.hada.io/topic?id=9078
+
 <hr>
 
 # 러스트의 유일한 대항마는 Zig밖에 없음 (Zig겁나게 빠름)
