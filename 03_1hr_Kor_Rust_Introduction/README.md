@@ -13,12 +13,14 @@ https://github.com/utilForever/2023-MatKor-Rust-Interpreter
 
 <hr>
 
-# Rust 존경받는 언어 1위
 
-https://survey.stackoverflow.co/2023/#section-admired-and-desired-programming-scripting-and-markup-languages
+# 러스트를 쓰는 외국 기업들
 
-- 2023년 Rust Dev.사용 순위 17위 ( 2022년은 29위 였음)
-  - https://szabgab.com/programming-language-popularity-rust
+- Microsoft: Rust Is the Industry’s ‘Best Chance’ at Safe Systems Programming
+  - https://thenewstack.io/microsoft-rust-is-the-industrys-best-chance-at-safe-systems-programming/
+
+- 왜? 크라우드(Cloud)업체들이 Rust로 교체 할까? & Rust를 쓰는 이유. 역시 Rust가 대세 - 
+  - https://economiceco.tistory.com/m/13160
 
 
 # 리눅스 커널 & MS커널 Rust코드로 교체함.
@@ -31,6 +33,15 @@ https://survey.stackoverflow.co/2023/#section-admired-and-desired-programming-sc
 
 - MS는 C++ 대신 36,000줄의 Rust 코드로 Windows 커널을 다시 작성합니다(윈도우 win32러스트로 코드 교체)
   - https://news.hada.io/topic?id=9078
+
+<hr>
+
+# Rust 존경받는 언어 1위
+
+https://survey.stackoverflow.co/2023/#section-admired-and-desired-programming-scripting-and-markup-languages
+
+- 2023년 Rust Dev.사용 순위 17위 ( 2022년은 29위 였음)
+  - https://szabgab.com/programming-language-popularity-rust
 
 
 <hr>
