@@ -23,11 +23,15 @@ https://survey.stackoverflow.co/2023/#section-admired-and-desired-programming-sc
 
 # 리눅스 커널 & MS커널 Rust코드로 교체함.
 
+- 리눅스 6.0 커널 공개…러스트 통합 속도 높인다221006
+  - https://www.itworld.co.kr/news/258472#csidxfe7e976343f756a8cc296997bb4f6f2 
+
 - 리눅스 커널 교체함. 2023년
   - https://blog.desdelinux.net/ko/linux-6-1-hace-historia-introduciendo-a-rust-como-el-segundo-lenguaje-de-programacion-en-el-kernel/
 
 - MS는 C++ 대신 36,000줄의 Rust 코드로 Windows 커널을 다시 작성합니다(윈도우 win32러스트로 코드 교체)
   - https://news.hada.io/topic?id=9078
+
 
 <hr>
 
