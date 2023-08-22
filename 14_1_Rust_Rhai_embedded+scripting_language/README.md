@@ -11,6 +11,7 @@ Targets and builds
         no-std
     Minimum Rust version 1.61.0
     
+설명서 https://rhai.rs/book/
 
 https://github.com/rhaiscript/rhai
 
