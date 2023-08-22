@@ -16,8 +16,16 @@ https://github.com/rhaiscript/rhai
 
 https://crates.io/crates/rhai
 
+https://rhai.rs/
+
 <hr>
 
 # Vim Plugin
 
 https://github.com/rhaiscript/vim-rhai
+
+# VScode extension(Visual Studio Code>Programming Languages>Rhai Language Support)
+
+- Syntax highlighting for Rhai scripts
+
+https://marketplace.visualstudio.com/items?itemName=rhaiscript.vscode-rhai
