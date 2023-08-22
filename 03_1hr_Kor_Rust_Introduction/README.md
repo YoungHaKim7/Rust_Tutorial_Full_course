@@ -56,5 +56,6 @@ https://survey.stackoverflow.co/2023/#section-admired-and-desired-programming-sc
 <hr>
 
 # null을 만든 Tony Hoare는 2009년 한 소프트웨어 컨퍼런스에서 null 참조를 만든 것은 10억 달러의 실수라고 했다
-- null이 없는 Rust 뭐 enum으로 None으로 구현 하면된다. null에 대해 정리가 잘된 블로그
+- null이 없는 Rust __ null에 대해 정리가 잘된 블로그
   - https://zorba91.tistory.com/m/339
+  - 러스트에서 null을 구현하려면 enum으로 None으로 구현 하면된다. null이 없다고 무서워 하지 말자 ㅋ
