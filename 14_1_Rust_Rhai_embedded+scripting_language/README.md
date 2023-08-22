@@ -15,3 +15,9 @@ Targets and builds
 https://github.com/rhaiscript/rhai
 
 https://crates.io/crates/rhai
+
+<hr>
+
+# Vim Plugin
+
+https://github.com/rhaiscript/vim-rhai
