@@ -7,6 +7,8 @@ https://doc.rust-lang.org/cargo/index.html
 
 # Rust _____cargo add 2개 동시에 넣고 Features에 2개 동시에 추가하기 편하다.!!
 
+https://doc.rust-lang.org/cargo/commands/cargo-add.html
+
 ```
 $ cargo add serde tokio -F serde/derive -F tokio/full
 
