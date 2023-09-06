@@ -10,6 +10,10 @@ https://github.com/Nicoretti/xxd-rs
 ## Usage
 
 ```
+xxd-rs dump -f Hex Cargo.toml
+```
+
+```
 USAGE:
     xxd-rs [OPTIONS] [SUBCOMMAND]
 
