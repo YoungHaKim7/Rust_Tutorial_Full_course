@@ -12,8 +12,7 @@ https://google.github.io/comprehensive-rust/ko/other-resources.html
 
 - 기타 다른 좋은 자료들
 
-
-                        <h1 id="러스트-참고-자료"><a class="header" href="#러스트-참고-자료">러스트 참고 자료</a></h1>
+<h1 id="러스트-참고-자료"><a class="header" href="#러스트-참고-자료">러스트 참고 자료</a></h1>
 <p>러스트 커뮤니티는 온라인에서 고품질의 무료 소스를 만들었습니다.</p>
 <h2 id="공식-문서들"><a class="header" href="#공식-문서들">공식 문서들</a></h2>
 <p>러스트 프로젝트에는 참조할 만한 자료가 많습니다. 일반적인 내용을 다루는 몇가지 참고 문서들입니다:</p>
