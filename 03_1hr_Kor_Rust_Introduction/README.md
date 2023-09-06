@@ -6,6 +6,45 @@ https://youtu.be/V6TR2FeCK5c
 
 <hr>
 
+# Comprehensive Rust 🦀
+
+https://google.github.io/comprehensive-rust/ko/other-resources.html
+
+- 기타 다른 좋은 자료들
+
+
+                        <h1 id="러스트-참고-자료"><a class="header" href="#러스트-참고-자료">러스트 참고 자료</a></h1>
+<p>러스트 커뮤니티는 온라인에서 고품질의 무료 소스를 만들었습니다.</p>
+<h2 id="공식-문서들"><a class="header" href="#공식-문서들">공식 문서들</a></h2>
+<p>러스트 프로젝트에는 참조할 만한 자료가 많습니다. 일반적인 내용을 다루는 몇가지 참고 문서들입니다:</p>
+<ul>
+<li><a href="https://doc.rust-lang.org/book/">The Rust Programming Language</a>: 러스트에 대한 무료 표준 서적입니다. 언어에 대한 자세한 설명과 사람들이 빌드 할수 있는 몇가지 프로젝트를 포함합니다.</li>
+<li><a href="https://doc.rust-lang.org/rust-by-example/">Rust By Example</a>: 여러 예제를 통해 러스트의 문법을 보여주며 때때로 코드를 확장하는 약간의 연습문제들이 포함되어 있습니다.</li>
+<li><a href="https://doc.rust-lang.org/std/">Rust Standard Library</a>: 러스트 표준 라이브러리 전체 문서입니다.</li>
+<li><a href="https://doc.rust-lang.org/reference/">The Rust Reference</a>: 메모리 모델링과 러스트 문법을 설명하는 문서입니다.(아직 불완전하다함)</li>
+</ul>
+<p>좀 더 전문적인 공식 가이드입니다:</p>
+<ul>
+<li><a href="https://doc.rust-lang.org/nomicon/">The Rustonomicon</a>: 안전하지 않은 러스트, FFI, raw포인터 작업을 다룹니다.</li>
+<li><a href="https://rust-lang.github.io/async-book/">Asynchronous Programming in Rust</a>: 러스트 북이 작성 된 이후 도입된 새로운 비동기 프로그래밍 모델을 다룹니다.</li>
+<li><a href="https://doc.rust-lang.org/stable/embedded-book/">The Embedded Rust Book</a>: 운영체제가 없는 임베디드 장치에서의 러스트 사용법을 소개합니다.</li>
+</ul>
+<h2 id="비공식적-학습-자료"><a class="header" href="#비공식적-학습-자료">비공식적 학습 자료</a></h2>
+<p>러스트에 대한 기타 안내서와 튜토리얼의 일부입니다:</p>
+<ul>
+<li><a href="http://cliffle.com/p/dangerust/">Learn Rust the Dangerous Way</a>: C언어 프로그래머 관점에서 러스트를 다룹니다.</li>
+<li><a href="https://docs.opentitan.org/doc/ug/rust_for_c/">Rust for Embedded C Programmers</a>: 임베디드 C개발자(펌웨어 개발자)를 위한 러스트 가이드입니다.</li>
+<li><a href="https://overexact.com/rust-for-professionals/">Rust for professionals</a>: 다른 언어(C/C++, Java, Python, Javascript)와의 병렬비교를 사용하여 러스트 문법을 다룹니다.</li>
+<li><a href="https://exercism.org/tracks/rust">Rust on Exercism</a>: 러스트를 배우는데 도움이 되는 100개 이상의 연습문제</li>
+<li><a href="https://ferrous-systems.github.io/teaching-material/index.html">Ferrous Teaching Material</a>: 러스트 언어의 기본부터 고급을 전부 다루는 일련의 작은 프레젠테이션, 웹 어셈블리, async/await 같은 부분도 함께 다룹니다.</li>
+<li><a href="https://docs.microsoft.com/en-us/shows/beginners-series-to-rust/">Beginner’s Series to Rust</a>, <a href="https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/">Take your first steps with Rust</a>: 첫번째는 35개의 시리즈 영상이며 두번째는 러스트의 문법과 구조를 다루는 11개의 모듈 세트입니다.</li>
+<li><a href="https://rust-unofficial.github.io/too-many-lists/">Learn Rust With Entirely Too Many Linked Lists</a>: 몇가지 유형의 리스트 자료구조를 구현해보면서 러스트의 메모리 관리 규칙들을 깊이있게 탐색합니다.</li>
+</ul>
+<p><a href="https://lborb.github.io/book/">Little Book of Rust Books</a>에서 더 많은 러스트 북을 확인해보세요.</p>
+
+                    
+
+
 # 2023년 고려대학교 MatKor 스터디 - Rust 기초 프로그래밍 + 인터프리터 만들기 
 
 https://github.com/utilForever/2023-MatKor-Rust-Interpreter
