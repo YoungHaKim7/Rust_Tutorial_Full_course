@@ -85,11 +85,13 @@ https://survey.stackoverflow.co/2023/#section-admired-and-desired-programming-sc
 <hr>
 
 # 러스트의 유일한 대항마는 Zig밖에 없음 (Zig겁나게 빠름)
- - 출처 : 노마드코더스 Nomad Coders
- - 프로그래밍 언어 '지그', 언어 순위 50위 진입 주목
-   - C언어의 단순성과 편의성, 러스트의 안정성 더해 인기 https://zdnet.co.kr/view/?no=20230409151756
-   - 속도가 미쳤습니다. 해외에서 난리난 BUN 🔥 3분 소개!(지그 언어)
-     - https://youtu.be/t9924eteb-4
+- 출처 : 노마드코더스 Nomad Coders
+  - 프로그래밍 언어 '지그', 언어 순위 50위 진입 주목
+    - C언어의 단순성과 편의성, 러스트의 안정성 더해 인기 https://zdnet.co.kr/view/?no=20230409151756
+    - 속도가 미쳤습니다. 해외에서 난리난 BUN 🔥 3분 소개!(지그 언어)
+      - https://youtu.be/t9924eteb-4
+  - Intro to the Zig Programming Language • Andrew Kelley • GOTO 2022 | GOTO Conferences(zig개발자가 나와서 bun까지 설명 굿)
+      - https://youtu.be/YXrb-DqsBNU?si=XJymVFcrjTxSL_Aq
 
 <hr>
 
