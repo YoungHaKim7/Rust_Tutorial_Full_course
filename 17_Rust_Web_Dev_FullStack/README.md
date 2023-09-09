@@ -2,6 +2,12 @@
 
 https://youtu.be/4KtotxNAwME
 
+# Rust 🦀 and WebAssembly 🕸
+
+- This small book describes how to use Rust and WebAssembly together.
+
+  - https://rustwasm.github.io/docs/book/introduction.html
+
 <hr>
 
 # FullStack Rust
