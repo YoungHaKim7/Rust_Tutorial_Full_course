@@ -4,6 +4,10 @@
 
 - Eng. https://doc.rust-lang.org/book/
 
+## Comprehensive Rust 🦀(구글팀에서 만듬)
+
+https://google.github.io/comprehensive-rust/ko/other-resources.html
+
 <hr>
 
 https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung
