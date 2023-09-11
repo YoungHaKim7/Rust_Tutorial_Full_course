@@ -1,3 +1,9 @@
+# Debugging C/C++ with LLDB Tutorial | constref
+
+https://youtu.be/2GV0K9Y2MKA?si=wsu_jgMhMJEzHpNl
+
+<hr>
+
 # Debugging Rust programs with lldb on MacOS
 
 https://bryce.fisher-fleig.org/debugging-rust-programs-with-lldb/
