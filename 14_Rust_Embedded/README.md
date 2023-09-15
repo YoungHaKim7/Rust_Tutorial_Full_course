@@ -23,6 +23,14 @@
 
 <hr>
 
+# GNAT Pro for Rust: 임베디드를 위한 Rust 개발환경 (adacore.com)
+
+- https://news.hada.io/topic?id=10870&utm_source=discord&utm_medium=bot&utm_campaign=1480
+
+  - https://www.adacore.com/gnatpro-rust
+
+<hr>
+
 # 러스트 개발자 지인 분의 BillMock Firmware
 
 - BillMock firmware source code written in rust
