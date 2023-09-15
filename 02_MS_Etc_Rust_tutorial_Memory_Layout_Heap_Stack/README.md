@@ -39,6 +39,9 @@ https://doc.rust-lang.org/reference/introduction.html
 
 - Kor. Version https://google.github.io/comprehensive-rust/ko/welcome.html
 
+  - 5일완성 다른 버젼(Teaching Rust in 5 days)
+    - https://mo8it.com/blog/teaching-rust/
+
 # Learn Rust Programming - Complete Course 🦀 | freeCodeCapm.org
 
 https://youtu.be/BpPEoZW5IiY
