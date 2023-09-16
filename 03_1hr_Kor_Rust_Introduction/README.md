@@ -90,6 +90,7 @@ https://survey.stackoverflow.co/2023/#section-admired-and-desired-programming-sc
     - C언어의 단순성과 편의성, 러스트의 안정성 더해 인기 https://zdnet.co.kr/view/?no=20230409151756
     - 속도가 미쳤습니다. 해외에서 난리난 BUN 🔥 3분 소개!(지그 언어)
       - https://youtu.be/t9924eteb-4
+      - Bun 1.0 is here https://youtu.be/BsnCpESUEqM?si=n6Uqn35u-qQXvoZs
   - Intro to the Zig Programming Language • Andrew Kelley • GOTO 2022 | GOTO Conferences(zig개발자가 나와서 bun까지 설명 굿)
       - https://youtu.be/YXrb-DqsBNU?si=XJymVFcrjTxSL_Aq
 
