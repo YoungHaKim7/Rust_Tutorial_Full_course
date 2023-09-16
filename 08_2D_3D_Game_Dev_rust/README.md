@@ -15,6 +15,8 @@ https://www.blender.org/
 
 - 블렌더로 직접 만드는 영상 I animated this in 18 days... in Blender
   - https://youtu.be/tCTkkHGRpNk?si=O8qUVhc5qq2_CVkx
+    - The Best Way To Create Nature In 3D (진짜 잔디 같다. ㅎ)
+      - https://youtu.be/7Um3FaXJixg?si=Bvt5wN-Ye2JaHu2U
 
 # Rust + Blender 로 게임 만드는 Demo영상
 - Making an FPS game with Bevy and Rust!
