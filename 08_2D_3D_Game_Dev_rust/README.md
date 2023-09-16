@@ -17,6 +17,8 @@ https://www.blender.org/
   - https://youtu.be/tCTkkHGRpNk?si=O8qUVhc5qq2_CVkx
     - The Best Way To Create Nature In 3D (진짜 잔디 같다. ㅎ)
       - https://youtu.be/7Um3FaXJixg?si=Bvt5wN-Ye2JaHu2U
+        - 도시 만드는 영상Creating The Last Of Us Environment In Blender 3.4
+        - https://youtu.be/OKmfqixt_l4?si=D0hS_NbyB4rzsnbh
 
 # Rust + Blender 로 게임 만드는 Demo영상
 - Making an FPS game with Bevy and Rust!
