@@ -10,6 +10,8 @@ https://www.blender.org/
 - 블렌더 완전 기초 강의 3.3 LTS
   - https://youtube.com/playlist?list=PLqf2JB4ViQO5JhlXD9bXDerr-w3frv6Np&si=fZbaeAwKbozZrl40
 
+- 블렌더로 직접 만드는 영상 I animated this in 18 days... in Blender
+  - https://youtu.be/tCTkkHGRpNk?si=O8qUVhc5qq2_CVkx
 
 # Rust + Blender 로 게임 만드는 Demo영상
 - Making an FPS game with Bevy and Rust!
