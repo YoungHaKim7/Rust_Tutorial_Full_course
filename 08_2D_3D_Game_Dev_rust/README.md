@@ -10,6 +10,9 @@ https://www.blender.org/
 - 블렌더 완전 기초 강의 3.3 LTS
   - https://youtube.com/playlist?list=PLqf2JB4ViQO5JhlXD9bXDerr-w3frv6Np&si=fZbaeAwKbozZrl40
 
+- R3F(React Three Fiber)를 이용한 3D 웹 개발 : 10. 3D 모델 / 애니메이션
+  - https://youtu.be/S7qWQ1li32o?si=KqMTvoF_RuqL9Kp4
+
 - 블렌더로 직접 만드는 영상 I animated this in 18 days... in Blender
   - https://youtu.be/tCTkkHGRpNk?si=O8qUVhc5qq2_CVkx
 
