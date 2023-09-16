@@ -10,6 +10,11 @@ https://www.blender.org/
 - 블렌더 완전 기초 강의 3.3 LTS
   - https://youtube.com/playlist?list=PLqf2JB4ViQO5JhlXD9bXDerr-w3frv6Np&si=fZbaeAwKbozZrl40
 
+
+# Rust + Blender 로 게임 만드는 Demo영상
+- Making an FPS game with Bevy and Rust!
+  - https://youtu.be/06M2lT_I11c?si=ACv_8jUDmrWv2iXE
+
 <hr>
 
 # Web WASM 으로 게임 만들기
