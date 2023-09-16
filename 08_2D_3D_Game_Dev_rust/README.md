@@ -1,3 +1,17 @@
+# 무료블렌더 Blender (3D캐릭터 만들때 필요하다. )
+- blender.org - Home of the Blender project - Free and Open 3D ...
+blender.org
+https://www.blender.org
+Blender is a public project hosted on blender.org, licensed as GNU GPL, owned by its contributors. For that reason Blender is Free and Open Source software, ...
+https://www.blender.org/
+
+- 3D 왕초보 블렌더 #01 일단 한번 열어서 움직여 보자 | Blender 튜토리얼
+  - https://youtu.be/qlaJbG1vVHc?si=kTQDJ-iLQDLhDn_g
+- 블렌더 완전 기초 강의 3.3 LTS
+  - https://youtube.com/playlist?list=PLqf2JB4ViQO5JhlXD9bXDerr-w3frv6Np&si=fZbaeAwKbozZrl40
+
+<hr>
+
 # Web WASM 으로 게임 만들기
 
 - https://wasm4.org/
