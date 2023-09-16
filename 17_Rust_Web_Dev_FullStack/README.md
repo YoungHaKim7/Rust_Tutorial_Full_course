@@ -1,3 +1,9 @@
+# Rust Programming for Web Development | Jeremy Chone
+
+https://youtube.com/playlist?list=PL7r-PXl6ZPcCLvwpdD2Vj1O4CyoFTiHKd&si=cZky2GD_EgLrU2vi
+
+<hr>
+
 # The Truth about Rust/WebAssembly Performance
 
 https://youtu.be/4KtotxNAwME
