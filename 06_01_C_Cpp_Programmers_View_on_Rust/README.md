@@ -1,4 +1,4 @@
-<img width=100px align="space-around" alt="c" src="https://user-images.githubusercontent.com/67513038/218466687-3ac83bee-4621-4e75-9141-39724ec2b37b.png" />
+<center><p><img width=100px align="space-around" alt="c" src="https://user-images.githubusercontent.com/67513038/218466687-3ac83bee-4621-4e75-9141-39724ec2b37b.png" /></p></center>
 
 #  A little Rust with your C
 
