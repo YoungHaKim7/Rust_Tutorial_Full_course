@@ -18,6 +18,13 @@ https://marabos.nl/atomics/
 
 <br>
 
+# Backend 멀티쓰레드 이해하고 통찰력 키우기 | InfLearn인프런
+
+https://www.inflearn.com/course/backend-%EB%A9%80%ED%8B%B0%EC%93%B0%EB%A0%88%EB%93%9C-%EC%9D%B4%ED%95%B4-%ED%86%B5%EC%B0%B0%EB%A0%A5-%ED%82%A4%EC%9A%B0%EA%B8%B0 
+
+<hr>
+
+
 # Concurrency_(computer_science)
 
 https://en.wikipedia.org/wiki/Concurrency_(computer_science)
