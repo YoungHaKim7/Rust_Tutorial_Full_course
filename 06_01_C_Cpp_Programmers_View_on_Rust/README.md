@@ -1,3 +1,32 @@
+<center><img width= 100px src="https://user-images.githubusercontent.com/67513038/218466687-3ac83bee-4621-4e75-9141-39724ec2b37b.png" /></center>
+
+#  A little Rust with your C
+
+- Using Rust code inside a C or C++ project mostly consists of tw
+
+https://docs.rust-embedded.org/book/interoperability/rust-with-c.html
+
+<hr>
+
+# 유료$paid독하게 되새기는 C 프로그래밍  
+
+https://inf.run/W34T
+
+https://www.inflearn.com/course/%EB%8F%85%ED%95%98%EA%B2%8C-%EB%90%98%EC%83%88%EA%B8%B0%EB%8A%94-c%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/
+
+
+<hr>
+
+<br>
+
+<hr>
+
+<br>
+
+<center><img width=100px src="https://user-images.githubusercontent.com/67513038/218466731-1c232ee4-7fe7-4c73-a201-c129e16959c2.png" /></center>
+
+
+
 # Rust vs C++
 
 https://github.com/jhartzell42/rust-c-book
