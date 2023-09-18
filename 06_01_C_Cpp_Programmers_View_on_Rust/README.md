@@ -89,6 +89,9 @@ https://doc.rust-lang.org/std/slice/fn.from_raw_parts.html
 
 https://lib.rs/crates/ropey
 
+- Strings in Rust FINALLY EXPLAINED! | LGR
+  - Follow along as we go through strings in Rust. We will be talking about UTF-8, the &str and String types, indexing into strings, and more!
+    - https://youtu.be/Mcuqzx3rBWc?si=FsCwVKReq3SRuvOZ
 
 - Rust vs C String 더 깊게 들어가기
   - Working with strings in Rust 
