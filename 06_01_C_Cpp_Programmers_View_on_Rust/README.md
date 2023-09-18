@@ -14,6 +14,27 @@ https://inf.run/W34T
 
 https://www.inflearn.com/course/%EB%8F%85%ED%95%98%EA%B2%8C-%EB%90%98%EC%83%88%EA%B8%B0%EB%8A%94-c%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/
 
+# C vs Rust (All Rust string types explanined | Let's Get Rusty
+https://youtu.be/CpvzeyzgQdw?si=CkYzWCJMZYfIcx-c
+
+- C언어는 1개뿐
+```
+char()
+```
+
+- Rust의 String종류
+```
+&str
+String
+&[u8;N]
+Vec[u8]
+Cow<`a, str>
+CStr
+OsStr
+OsString
+Path
+PathBuff
+```
 
 <hr>
 
