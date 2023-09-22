@@ -6,6 +6,11 @@
 
 https://docs.rust-embedded.org/book/interoperability/rust-with-c.html
 
+
+# C vs Rust
+
+https://locka99.gitbooks.io/a-guide-to-porting-c-to-rust/content/features_of_rust/types.html
+
 <hr>
 
 # 유료$paid독하게 되새기는 C 프로그래밍  
