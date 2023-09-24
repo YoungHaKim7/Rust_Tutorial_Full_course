@@ -1,3 +1,16 @@
+# C언어로 Rust 이해하기 
+```
+xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix
+Version 6 (v6).  xv6 loosely follows the structure and style of v6,
+but is implemented for a modern RISC-V multiprocessor using ANSI C.
+```
+- c언어 만든  Dennis Ritchie's and Ken Thompson's Unix Version 6 (v6) 를 통해 OS를 이해하자 
+  - https://github.com/mit-pdos/xv6-riscv
+    - How does an OS boot? //Source Dive// 001
+    - https://youtu.be/KkenLT8S9Hs?si=Ke0ZYYl50KXVcoDv
+
+<hr>
+
 # Redox is a Unix-like Operating System written in Rust, aiming to bring the innovations of Rust to a modern microkernel and full set of applications.
 
 https://www.redox-os.org/
