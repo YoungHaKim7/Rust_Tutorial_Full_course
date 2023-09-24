@@ -6,8 +6,10 @@ but is implemented for a modern RISC-V multiprocessor using ANSI C.
 ```
 - c언어 만든  Dennis Ritchie's and Ken Thompson's Unix Version 6 (v6) 를 통해 OS를 이해하자 
   - https://github.com/mit-pdos/xv6-riscv
-    - How does an OS boot? //Source Dive// 001
-    - https://youtu.be/KkenLT8S9Hs?si=Ke0ZYYl50KXVcoDv
+    - How does an OS boot? //Source Dive// 001 | Low Byte Productions
+      - https://youtu.be/KkenLT8S9Hs?si=Ke0ZYYl50KXVcoDv
+    - What is a spinlock? //Source Dive// 002 | Low Byte Productions
+      - https://youtu.be/ZE9OODanrDA?si=cjbcQi22D7ewVgM1
 
 <hr>
 
