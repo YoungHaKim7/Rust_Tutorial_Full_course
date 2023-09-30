@@ -10,6 +10,8 @@ but is implemented for a modern RISC-V multiprocessor using ANSI C.
       - https://youtu.be/KkenLT8S9Hs?si=Ke0ZYYl50KXVcoDv
     - What is a spinlock? //Source Dive// 002 | Low Byte Productions
       - https://youtu.be/ZE9OODanrDA?si=cjbcQi22D7ewVgM1
+    - Virtual Console and printf() //Source Dive// 003 | Low Byte Productions
+      - https://youtu.be/uNp4DElDQyY?si=EWGaYvbjxbYZcVEd
 
 <hr>
 
