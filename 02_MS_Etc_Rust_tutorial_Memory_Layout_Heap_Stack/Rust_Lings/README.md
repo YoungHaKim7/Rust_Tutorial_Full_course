@@ -1,4 +1,4 @@
-# Rustlings
+# Rustlings(여기에 다 정리함)
 
 https://github.com/YoungHaKim7/Rustlings_Rust_by_Example
 
