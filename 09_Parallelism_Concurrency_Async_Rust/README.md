@@ -1,3 +1,13 @@
+# Rc, Arc 그림, 표로 잘 정리됨.
+
+https://github.com/usagi/rust-memory-container-cs
+
+# 한국분이 잘 정리함
+
+Rc타입과 Weak타입 https://taegit.tistory.com/17
+
+<hr>
+
 #  Rust Atomics and Locks 구매/읽기:
 
 --- Rust Atomics and Locks 구매/읽기:
