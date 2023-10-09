@@ -39,6 +39,8 @@ https://tourofrust.com/index.html
 - Li Tur de Rust in Occidental: 1
   - https://youtu.be/E-1vve4upZ4?si=6NWD7dOQjc4vK2sg
 
+- A bunch of links to blog posts, articles, videos, etc for learning Rust(자료 정말 많다. 대박)
+  - https://github.com/ctjhoa/rust-learning
 
 <hr>
 
