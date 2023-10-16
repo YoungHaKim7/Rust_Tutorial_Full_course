@@ -29,36 +29,44 @@ https://www.fibermall.com/ko/blog/network-adapter-nics-function-construction-cla
   - aims to reduce application latency by addressing the issues of CPU affinity, thread synchronization, and OS interfaces.
 
 # Application latency
+- NIC(Network interface controller)
+https://en.wikipedia.org/wiki/Network_interface_controller
+
+```
+i) the time for the request to reach a thread after it has arrived on the NIC, 
+i) 요청이 NIC에 도착한 후 스레드에 도달하는 시간, 
+
+ii) the time for the application to process the request
+ii) 신청이 요청을 처리하는 시간
+
+iii) the time for a response to arrive on the NIC from the thread. 
+스레드에서 NIC에 응답이 도착하는 시간. 
+
+```
+
+- The components
+- i) and iii) depend on the ```OS network stack```, while
+
+- ii) depends on ```thread synchronization for processing a request and creating a response.```
 
 ```mermaid
-requirementDiagram
+stateDiagram-v2
+    [*] --> Thread
+    Thread --> NIC
+    NIC --> Thread
 
-    requirement test_req {
-    id: 1
-    text: i) the time for the request to
-          reach a thread after it has arrived on the NIC, 
-
-          ii) the time for
-          the application to process the request, and
-          
-           iii) the time for a
-          response to arrive on the NIC from the thread. 
-    text: the test text.
-    risk: high
-    verifymethod: test
+    state Thread {
+        [*] --> Request_&_Ceating_a_response
+        Request_&_Ceating_a_response --> [*]
     }
-
-    element test_entity {
-    type: 
-          The components
-          i) and 
-          iii) depend on the OS network stack, while
-           ii) depends
-          on thread synchronization for processing a request and creating
-          a response.
+    state NIC {
+        [*] --> Data
+        Data --> [*]
     }
-    test_entity - i)_&_iii)_depend_on_the_OS_network_stack -> test_req
-
+    state Request {
+        [*] --> Data
+        Data --> [*]
+    }
 ```
 
 <br>
