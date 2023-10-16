@@ -64,6 +64,12 @@ https://jdk.java.net/loom/
 - Throughput(100mbps,  1Gigabit) 최대 빠른 속도를 말하는듯 
   - Amount of data that can be sent per unit time (TPS, Transactions Per Second)
 
+# NIC란 무엇입니까?(Network interface controller)
+
+NIC는 네트워크 인터페이스 카드라고도 하며 네트워크 인터페이스 컨트롤러라고도 합니다
+
+https://www.fibermall.com/ko/blog/network-adapter-nics-function-construction-classification.htm
+
 # Application latency
 
 ```mermaid
