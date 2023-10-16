@@ -9,13 +9,6 @@
     - https://github.com/DataDog/glommio
     - 관련 논문 https://penberg.org/papers/tpc-ancs19.pdf
 
-
-# The thread-per-core approach, discussed in §III,
-- iii) the time for a response to arrive on the NIC from the thread
-  - aims to reduce application latency by addressing the issues of CPU affinity, thread synchronization, and OS interfaces.
-
-
-
 # Latency vs Throughput | System Design Essentials | Be A Better Dev
 
 - Latency (비슷한 개념들 Ping or Log or Connection or Delay)
@@ -30,6 +23,10 @@
 NIC는 네트워크 인터페이스 카드라고도 하며 네트워크 인터페이스 컨트롤러라고도 합니다
 
 https://www.fibermall.com/ko/blog/network-adapter-nics-function-construction-classification.htm
+
+# The thread-per-core approach, discussed in §III,
+- iii) the time for a response to arrive on the NIC from the thread
+  - aims to reduce application latency by addressing the issues of CPU affinity, thread synchronization, and OS interfaces.
 
 # Application latency
 
