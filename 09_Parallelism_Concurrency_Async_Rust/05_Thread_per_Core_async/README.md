@@ -60,6 +60,8 @@ requirementDiagram
           on thread synchronization for processing a request and creating
           a response.
     }
+    test_entity - i)_&_iii)_depend_on_the_OS_network_stack -> test_req
+
 ```
 
 <br>
@@ -109,6 +111,4 @@ https://jdk.java.net/loom/
 <hr>
 
 
-    test_entity - i)_&_iii)_depend_on_the_OS_network_stack -> test_req
 
-```
