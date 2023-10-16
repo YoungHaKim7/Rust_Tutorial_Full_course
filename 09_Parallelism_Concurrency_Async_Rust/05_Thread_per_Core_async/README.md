@@ -242,6 +242,8 @@ require an expensive inter-process interrupt (IPI).</td>
 
 - 관련 논문 https://penberg.org/papers/tpc-ancs19.pdf
 
+- https://learn.microsoft.com/en-us/windows/win32/api/winsock/nf-winsock-recv
+
 <br>
 
 <hr>
