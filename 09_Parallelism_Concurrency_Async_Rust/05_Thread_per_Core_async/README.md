@@ -71,15 +71,29 @@ requirementDiagram
 
     requirement test_req {
     id: 1
+    text: i) the time for the request to
+          reach a thread after it has arrived on the NIC, 
+
+          ii) the time for
+          the application to process the request, and
+          
+           iii) the time for a
+          response to arrive on the NIC from the thread. 
     text: the test text.
     risk: high
     verifymethod: test
     }
 
     element test_entity {
-    type: simulation
+    type: 
+          The components
+          i) and 
+          iii) depend on the OS network stack, while
+           ii) depends
+          on thread synchronization for processing a request and creating
+          a response.
     }
 
-    test_entity - satisfies -> test_req
+    test_entity - i)_&_iii)_depend_on_the_OS_network_stack -> test_req
 
 ```
