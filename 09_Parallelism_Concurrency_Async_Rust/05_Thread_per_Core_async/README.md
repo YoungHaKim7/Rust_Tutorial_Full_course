@@ -63,3 +63,23 @@ https://jdk.java.net/loom/
  
 - Throughput(100mbps,  1Gigabit) 최대 빠른 속도를 말하는듯 
   - Amount of data that can be sent per unit time (TPS, Transactions Per Second)
+
+# Application latency
+
+```mermaid
+requirementDiagram
+
+    requirement test_req {
+    id: 1
+    text: the test text.
+    risk: high
+    verifymethod: test
+    }
+
+    element test_entity {
+    type: simulation
+    }
+
+    test_entity - satisfies -> test_req
+
+```
