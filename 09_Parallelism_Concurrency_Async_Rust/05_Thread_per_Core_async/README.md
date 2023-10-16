@@ -53,5 +53,13 @@ https://www.youtube.com/live/d_XmNicqC2I?si=_D5bQfXaja3Vei4G
 
 https://jdk.java.net/loom/
 
-
 <hr>
+
+# Latency vs Throughput | System Design Essentials | Be A Better Dev
+
+- Latency (비슷한 개념들 Ping or Log or Connection or Delay)
+  - Amount of time for a packet to be transferred across a network.
+    - https://youtu.be/84ZLMbHefJI?si=FcIl7TkhGdnnNgzk
+ 
+- Throughput(100mbps,  1Gigabit) 최대 빠른 속도를 말하는듯 
+  - Amount of data that can be sent per unit time (TPS, Transactions Per Second)
