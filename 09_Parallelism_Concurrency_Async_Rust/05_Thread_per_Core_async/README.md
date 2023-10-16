@@ -8,3 +8,50 @@
   - Glommio (pronounced glo-mee-jow or |glomjəʊ|) is a Cooperative Thread-per-Core crate for Rust & Linux based on io_uring. Like other rust asynchronous crates, it allows one to write asynchronous code that takes advantage of rust async/await, but unlike its counterparts, it doesn't use helper threads anywhere.
     - https://github.com/DataDog/glommio
     - 관련 논문 https://penberg.org/papers/tpc-ancs19.pdf
+
+<br>
+
+<hr>
+
+# Java21에서 고민중인 내용
+
+# What Solution?
+
+- Creating several threads
+  - As many as needed, that is 1M of them.
+
+
+## Concurrency for I/O
+
+- A thread is not cheap
+  - Thread starup time: ~1ms 
+  - Thread memory consumption: 2MB of stack
+  - Context switching: ~100us(depends on the OS)
+
+- Having 1 million platform threads is not possible
+
+# What Solution?
+
+1) Give each thread between 1K and 1M tasks <br>This is what reactive frameworks are doing
+
+
+<hr>
+
+<br>
+
+
+<table>
+
+</table>
+
+
+# Java 21: Focus on Virtual Threads and Pattern Matching | IntelliJ IDEA by JetBrains
+
+https://www.youtube.com/live/d_XmNicqC2I?si=_D5bQfXaja3Vei4G
+
+# Project Loom
+
+https://jdk.java.net/loom/
+
+
+<hr>
