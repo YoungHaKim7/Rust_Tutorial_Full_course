@@ -246,6 +246,29 @@ require an expensive inter-process interrupt (IPI).</td>
 
 # Java21에서 고민중인 내용
 
+# Concurrency Issues
+```java
+Json request        = ContractService.build.ContractRequest(id); // 100ns
+String contractJson = ContractService.fetchContract(request);   // 100ms
+Contract contract   = Json.unmarshall(contractJson);            // 100ns
+```
+
+<table border="1">
+    <tr>
+    <td colspan="3" align="center">Concurrency Issues</td>
+    </tr>
+    <tr align="center">
+        <td>ns</td>
+        <td>ms</td>
+        <td>ns</td>
+    </tr>
+    <tr align="center">
+        <td><--></td>
+        <td><---------------------------------></td>
+        <td><--></td>
+    </tr>
+</table>
+
 # What Solution?
 
 - Creating several threads
