@@ -185,7 +185,6 @@ using concurrent data structures [6], [12].
 
 - thread synchronization.__스레드 동기화.
 
-
 <table border="1">
     <tr>
     <td colspan="2" align="center">thread synchronization.__스레드 동기화. </td>
