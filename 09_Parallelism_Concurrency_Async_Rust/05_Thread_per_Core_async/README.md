@@ -240,6 +240,8 @@ require an expensive inter-process interrupt (IPI).</td>
     </tr>
 </table>
 
+- 관련 논문 https://penberg.org/papers/tpc-ancs19.pdf
+
 <br>
 
 <hr>
