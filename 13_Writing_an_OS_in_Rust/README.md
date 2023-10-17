@@ -19,6 +19,8 @@ https://youtu.be/FkrpUaGThTQ?si=Tw2IJbiX18MGKeLU
   - Write Your Own 64-bit Operating System Kernel #2 - Stack, long mode and printing using C code | CodePulse
     - https://youtu.be/wz9CZBeXR6U?si=0h9w71ry8eUpClL7
 
+# Building an OS| nanobyte
+https://youtube.com/playlist?list=PLFjM7v6KGMpiH2G-kT781ByCNC_0pKpPN&si=B67foQaPiU9TB572
     
 
 <hr>
