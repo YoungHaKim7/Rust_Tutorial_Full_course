@@ -16,6 +16,10 @@ but is implemented for a modern RISC-V multiprocessor using ANSI C.
 # Write Your Own 64-bit Operating System Kernel #1 - Boot code and multiboot header | CodePulse
 - Docker설치 후 진행 도커 배울만함.
 https://youtu.be/FkrpUaGThTQ?si=Tw2IJbiX18MGKeLU
+  - Write Your Own 64-bit Operating System Kernel #2 - Stack, long mode and printing using C code | CodePulse
+    - https://youtu.be/wz9CZBeXR6U?si=0h9w71ry8eUpClL7
+
+    
 
 <hr>
 
