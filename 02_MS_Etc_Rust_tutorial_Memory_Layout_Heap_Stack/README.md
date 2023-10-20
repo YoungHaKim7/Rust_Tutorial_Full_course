@@ -3,6 +3,7 @@
 - 한글 https://rinthel.github.io/rust-lang-book-ko/
 
 - Eng. https://doc.rust-lang.org/book/
+  - RustBook 겁나게 긴 동영상 https://www.youtube.com/playlist?list=PLrmY5pVcnuE_dyWibakRuGJcuiwAkhGZB
 
 <hr>
 
