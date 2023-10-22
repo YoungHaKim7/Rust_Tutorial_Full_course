@@ -1,3 +1,10 @@
+# 비슷한 이름 있을때 따로 커스텀하게 지정해 주기
+- Fully Qualified Syntax for Disambiguation: Calling Methods with the Same Name
+  - https://doc.rust-lang.org/book/ch19-03-advanced-traits.html#fully-qualified-syntax-for-disambiguation-calling-methods-with-the-same-name
+  - https://doc.rust-lang.org/book/ufcs.html
+
+<hr>
+
 # 러스트 기초 문법 끝내고 간단한 프로젝트 해보기
 
 - https://github.com/MunGell/awesome-for-beginners
