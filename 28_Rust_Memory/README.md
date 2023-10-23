@@ -2,6 +2,13 @@
 
 https://youtu.be/rDoqT-a6UFg
 
+
+<hr>
+
+# What are zero cost abstractions in rust? 
+
+https://youtube.com/shorts/Lw-e3CDzE64?si=lrTCdMdMTI6ajqMa
+
 # 러스트로 만든 xxd 괜찮다. ㅎ
 
 https://github.com/Nicoretti/xxd-rs
