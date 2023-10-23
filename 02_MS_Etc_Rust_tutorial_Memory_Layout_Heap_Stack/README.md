@@ -53,6 +53,10 @@ https://youtu.be/BpPEoZW5IiY
 
 https://www.lurklurk.org/effective-rust/
 
+# Everything Rust Programming - Tutorials, Courses, Tips, Examples | Jeremy Chone
+
+https://youtube.com/playlist?list=PL7r-PXl6ZPcCIOFaL7nVHXZvBmHNhrh_Q&si=XXjKUidw6Y--AT_s
+
 
 
 <hr>
