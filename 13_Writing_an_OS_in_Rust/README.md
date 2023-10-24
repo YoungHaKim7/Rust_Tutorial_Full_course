@@ -23,6 +23,21 @@ https://public-docs.ferrocene.dev/main/user-manual/cli.html
 rustc -C linker=/usr/local/bin my_program.rs
 ```
 
+<hr>
+
+# OS development in Rust.
+
+- Redox is a Unix-like Operating System written in Rust, aiming to bring the innovations of Rust to a modern microkernel and full set of applications
+  - https://www.redox-os.org/
+
+- Today we’re publishing Ferrocene, the Rust compiler for safety-critical and cyber-security use, as an open source project.
+  - https://ferrous-systems.com/blog/ferrocene-open-source/
+  
+- SP32 Standard Library Embedded Rust: GPIO Interrupts
+  - https://apollolabsblog.hashnode.dev/esp32-standard-library-embedded-rust-gpio-interrupts
+
+<hr>
+
 
 # Write Your Own 64-bit Operating System Kernel #1 - Boot code and multiboot header | CodePulse
 - Docker설치 후 진행 도커 배울만함.
