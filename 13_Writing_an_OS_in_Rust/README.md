@@ -13,6 +13,17 @@ but is implemented for a modern RISC-V multiprocessor using ANSI C.
     - Virtual Console and printf() //Source Dive// 003 | Low Byte Productions
       - https://youtu.be/uNp4DElDQyY?si=EWGaYvbjxbYZcVEd
 
+# rustc (Command-Line 좋네 -C -A이렇거 다양하게 설명해줌)
+
+https://public-docs.ferrocene.dev/main/user-manual/cli.html
+
+- ```-C linker=<path>```
+
+```
+rustc -C linker=/usr/local/bin my_program.rs
+```
+
+
 # Write Your Own 64-bit Operating System Kernel #1 - Boot code and multiboot header | CodePulse
 - Docker설치 후 진행 도커 배울만함.
 https://youtu.be/FkrpUaGThTQ?si=Tw2IJbiX18MGKeLU
