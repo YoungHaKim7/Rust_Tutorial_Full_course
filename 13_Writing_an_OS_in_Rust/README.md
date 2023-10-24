@@ -27,6 +27,8 @@ rustc -C linker=/usr/local/bin my_program.rs
 
 # OS development in Rust.
 
+https://rust-osdev.com/this-month/2023-09/
+
 - Redox is a Unix-like Operating System written in Rust, aiming to bring the innovations of Rust to a modern microkernel and full set of applications
   - https://www.redox-os.org/
     - https://redox-os.org/news/development-priorities-2023-09/
