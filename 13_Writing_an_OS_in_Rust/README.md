@@ -29,12 +29,18 @@ rustc -C linker=/usr/local/bin my_program.rs
 
 - Redox is a Unix-like Operating System written in Rust, aiming to bring the innovations of Rust to a modern microkernel and full set of applications
   - https://www.redox-os.org/
+    - https://redox-os.org/news/development-priorities-2023-09/
 
 - Today we’re publishing Ferrocene, the Rust compiler for safety-critical and cyber-security use, as an open source project.
   - https://ferrous-systems.com/blog/ferrocene-open-source/
   
 - SP32 Standard Library Embedded Rust: GPIO Interrupts
   - https://apollolabsblog.hashnode.dev/esp32-standard-library-embedded-rust-gpio-interrupts
+  - https://apollolabsblog.hashnode.dev/the-embedded-rust-esp-development-ecosystem
+  - https://apollolabsblog.hashnode.dev/esp-embedded-rust-multithreading-with-freertos-bindings
+
+- How Rust can build an elegant API around raw memory
+  - https://litchipi.site/post/14762501311625827021
 
 <hr>
 
