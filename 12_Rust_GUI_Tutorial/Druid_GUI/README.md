@@ -20,3 +20,9 @@ https://youtu.be/YEa2eq4HEU8
  
 - 계산기 만들기
   - https://github.com/YoungHaKim7/druid_calculator
+
+<hr>
+
+# Druid 연습하기 좋은 코드들
+
+- 7가지 소규모 프로젝트 Druid감을 잡아보자 https://eugenkiss.github.io/7guis/tasks/
