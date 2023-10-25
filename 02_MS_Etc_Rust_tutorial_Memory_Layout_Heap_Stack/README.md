@@ -41,13 +41,13 @@ https://doc.rust-lang.org/reference/introduction.html
   Fantastic for learning how fundamental Rust concepts are implemented and how to write idiomatic Rust code.
   Great for Rust learners who prefer reading docs or want to get a deeper understanding of the language.
 
-https://doc.rust-lang.org/std/?lid=3799
+https://doc.rust-lang.org/std
 
 # Rust API Guidelines
 
 - This is a set of recommendations on how to design and present APIs for the Rust programming language. They are authored largely by the Rust library team, based on experiences building the Rust standard library and other crates in the Rust ecosystem.
 
-https://rust-lang.github.io/api-guidelines/about.html?lid=3799
+https://rust-lang.github.io/api-guidelines
 
 <hr>
 
