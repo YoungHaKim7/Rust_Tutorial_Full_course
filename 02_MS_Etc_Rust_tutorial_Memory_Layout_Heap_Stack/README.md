@@ -30,6 +30,7 @@ https://learn.microsoft.com/en-us/training/paths/rust-first-steps/
 
 https://learn.microsoft.com/ko-kr/training/modules/rust-introduction/
 
+<hr>
 
 # Rust 심화 과정
 https://doc.rust-lang.org/reference/introduction.html
@@ -41,6 +42,14 @@ https://doc.rust-lang.org/reference/introduction.html
   Great for Rust learners who prefer reading docs or want to get a deeper understanding of the language.
 
 https://doc.rust-lang.org/std/?lid=3799
+
+# Rust API Guidelines
+
+- This is a set of recommendations on how to design and present APIs for the Rust programming language. They are authored largely by the Rust library team, based on experiences building the Rust standard library and other crates in the Rust ecosystem.
+
+https://rust-lang.github.io/api-guidelines/about.html?lid=3799
+
+<hr>
 
 # Google 4일 완성 (Comprehensive-rust
 
