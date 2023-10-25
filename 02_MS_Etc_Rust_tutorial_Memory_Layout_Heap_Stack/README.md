@@ -49,6 +49,11 @@ https://doc.rust-lang.org/std
 
 https://rust-lang.github.io/api-guidelines
 
+# Rust Design Patterns - common design patterns implemented in Rust
+
+https://rust-unofficial.github.io/patterns
+
+
 <hr>
 
 # Google 4일 완성 (Comprehensive-rust
