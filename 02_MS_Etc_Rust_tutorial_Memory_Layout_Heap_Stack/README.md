@@ -34,6 +34,14 @@ https://learn.microsoft.com/ko-kr/training/modules/rust-introduction/
 # Rust 심화 과정
 https://doc.rust-lang.org/reference/introduction.html
 
+# Rust Standard Library Reference
+
+- Official documentation for the Rust standard library.
+  Fantastic for learning how fundamental Rust concepts are implemented and how to write idiomatic Rust code.
+  Great for Rust learners who prefer reading docs or want to get a deeper understanding of the language.
+
+https://doc.rust-lang.org/std/?lid=3799
+
 # Google 4일 완성 (Comprehensive-rust
 
 - Eng. version. https://google.github.io/comprehensive-rust/
