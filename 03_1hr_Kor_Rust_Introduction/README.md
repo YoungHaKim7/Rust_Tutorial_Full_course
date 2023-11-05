@@ -1,4 +1,13 @@
- # Rust 크로스 플랫폼 프로그래밍 | 인프콘 2022
+# Rust 프로그래밍 언어
+
+새로운 시스템 프로그래밍 언어 Rust를 소개합니다. Rust는 C++처럼 오버헤드 없는 추상화, GC 없는 메모리 관리를 제공합니다. Rust는 C++과 달리 컴파일 시간에 메모리 버그와 동시성 버그를 막아줍니다. 2015년 버전 1.0이 릴리즈 되었습니다.
+
+https://deview.kr/2015
+
+https://deview.kr/2015/schedule#session/113
+
+ 
+# Rust 크로스 플랫폼 프로그래밍 | 인프콘 2022
 
 https://youtu.be/V6TR2FeCK5c
 
