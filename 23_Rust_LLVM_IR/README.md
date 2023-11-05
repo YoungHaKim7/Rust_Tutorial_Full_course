@@ -38,6 +38,8 @@ flowchart TB
     rustc --> LLVM_IR
     zig--> zig_build-exe
     zig_build-exe --> LLVM_IR
+    mojo --> mojo_build
+    mojo_build --> LLVM_IR
     end
 ```
     
