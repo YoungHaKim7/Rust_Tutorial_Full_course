@@ -2,6 +2,9 @@
 
 https://youtube.com/playlist?list=PL7r-PXl6ZPcCLvwpdD2Vj1O4CyoFTiHKd&si=cZky2GD_EgLrU2vi
 
+# Building a Web App in Rust
+https://www.yieldcode.blog/post/building-a-webapp-in-rust/
+
 <hr>
 
 # The Truth about Rust/WebAssembly Performance
