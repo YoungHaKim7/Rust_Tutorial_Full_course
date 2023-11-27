@@ -20,6 +20,9 @@ https://youtu.be/V6TR2FeCK5c
 
 https://youtu.be/HToofktv-IU?si=ERlcGHIfhNLQ__WU
 
+-  C++ vs 러스트 | C++ Korea 운영진, 스타트업 소프트웨어 엔지니어 옥찬호 (2부) | 홍정모
+  - https://youtu.be/_pweN3waX9Y?si=vmFM8WrbvM_owZqv
+
 <hr>
 
 # Comprehensive Rust 🦀
