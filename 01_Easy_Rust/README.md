@@ -45,6 +45,9 @@ https://tourofrust.com/index.html
 
 <hr>
 
+#  300 seconds of Rust | 300 seconds of Rust
+- https://youtube.com/playlist?list=PLwhLlO5Vugx6KCwTpW_4fUeES2jdkDSW9&si=m3VeZMoQsNJlvTMf
+
 
 #  easy rust 보고 내가 공부하려고 만든 Github
 
