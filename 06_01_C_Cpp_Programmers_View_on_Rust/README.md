@@ -112,7 +112,9 @@ https://lib.rs/crates/ropey
 
 <center><img width=100px src="https://user-images.githubusercontent.com/67513038/218466731-1c232ee4-7fe7-4c73-a201-c129e16959c2.png" /></center>
 
+<hr>
 
+<hr>
 
 # Rust vs C++
 
@@ -123,7 +125,9 @@ https://github.com/jhartzell42/rust-c-book/blob/main/src/SUMMARY.md
 - Rust: A New Attempt at C++’s Main Goal
 
   - https://www.thecodedmessage.com/posts/rust-new-cpp/
-  
+
+# Rust vs C++ 총정리됨
+
 - Rust vs C++ 총정리됨
   https://maulingmonkey.com/guide/cpp-vs-rust/
 
