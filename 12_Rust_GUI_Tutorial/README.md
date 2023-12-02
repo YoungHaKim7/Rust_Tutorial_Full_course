@@ -2,11 +2,6 @@
 
 https://youtu.be/YEa2eq4HEU8
 
-
-# Rust vs C++ 총정리됨
-
-https://maulingmonkey.com/guide/cpp-vs-rust/
-
 <br>
 
 <hr>
