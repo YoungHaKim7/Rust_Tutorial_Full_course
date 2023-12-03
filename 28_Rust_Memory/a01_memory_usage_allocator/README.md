@@ -12,3 +12,11 @@ $ cargo r
 Currently allocated: 125B
 
 ```
+
+
+
+# cap
+
+- An allocator that can track and limit memory usage. This crate provides a generic allocator that wraps another allocator, tracking memory usage and enabling limits to be set
+  - https://lib.rs/crates/cap
+
