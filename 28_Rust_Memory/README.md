@@ -1,3 +1,7 @@
+# Measuring Memory Usage in Rust
+
+https://rust-analyzer.github.io/blog/2020/12/04/measuring-memory-usage-in-rust.html
+
 # Visualizing memory layout of Rust's data types
 
 https://youtu.be/rDoqT-a6UFg
