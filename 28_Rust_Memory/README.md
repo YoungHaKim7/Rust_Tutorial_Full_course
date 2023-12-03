@@ -2,6 +2,11 @@
 
 https://rust-analyzer.github.io/blog/2020/12/04/measuring-memory-usage-in-rust.html
 
+
+- cap
+  - An allocator that can track and limit memory usage. This crate provides a generic allocator that wraps another allocator, tracking memory usage and enabling limits to be set
+    - https://lib.rs/crates/cap
+
 - Is there a simple way to measure total memory consumption?
   - https://stackoverflow.com/questions/74558630/is-there-a-simple-way-to-measure-total-memory-consumption
 
