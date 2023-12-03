@@ -2,6 +2,11 @@
 
 https://rust-analyzer.github.io/blog/2020/12/04/measuring-memory-usage-in-rust.html
 
+- Is there a simple way to measure total memory consumption?
+  - https://stackoverflow.com/questions/74558630/is-there-a-simple-way-to-measure-total-memory-consumption
+
+<hr>
+
 # Visualizing memory layout of Rust's data types
 
 https://youtu.be/rDoqT-a6UFg
