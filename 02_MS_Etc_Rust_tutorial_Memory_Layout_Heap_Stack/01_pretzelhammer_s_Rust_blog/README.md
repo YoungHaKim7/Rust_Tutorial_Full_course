@@ -20,3 +20,10 @@ My posts are listed below in reverse chronological order.
 
 Note: Translations are community-maintained.
 
+
+# Makefile(delete execute file)
+
+```Makefile
+clean:
+		find . -type f -perm +111 -print -exec rm -rf {} \;
+```
