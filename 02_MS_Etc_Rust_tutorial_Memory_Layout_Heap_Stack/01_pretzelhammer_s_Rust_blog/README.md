@@ -1,3 +1,8 @@
+# 여기에 정리
+https://github.com/YoungHaKim7/pretzelhammer_s_Rust_blog_Education
+
+<hr>
+
 # Educational blog posts for Rust beginners
 
 https://github.com/pretzelhammer/rust-blog
