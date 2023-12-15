@@ -1,3 +1,8 @@
+# 01: Memory and Iteration
+- https://yetanotherrustblog.net/memory-and-iteration/
+
+<hr>
+
 # Measuring Memory Usage in Rust
 
 https://rust-analyzer.github.io/blog/2020/12/04/measuring-memory-usage-in-rust.html
