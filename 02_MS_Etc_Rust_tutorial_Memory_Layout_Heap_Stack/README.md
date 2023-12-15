@@ -33,6 +33,11 @@ My posts are listed below in reverse chronological order.
 
 Note: Translations are community-maintained.
 
+# 작은 프로젝트로 러스트 감 잡기
+
+- Exploring the AWS Lambda SDK in Rust
+  - https://gruebelinchen.wordpress.com/2023/12/07/exploring-the-aws-lambda-sdk-in-rust/
+
 
 # Microsoft Beginners-series-rust
 
