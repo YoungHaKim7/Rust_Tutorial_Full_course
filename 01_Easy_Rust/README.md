@@ -48,7 +48,7 @@ https://tourofrust.com/index.html
 #  300 seconds of Rust | 300 seconds of Rust
 - https://youtube.com/playlist?list=PLwhLlO5Vugx6KCwTpW_4fUeES2jdkDSW9&si=m3VeZMoQsNJlvTMf
 
-# 한국분이 깔끔하게 정리
+# 한국분이 깔끔하게 정리(Rust공부 로드맵)
 
 https://gist.github.com/junha1/d68da2537db7d31ef5e871c215dcd068
 
