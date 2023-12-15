@@ -37,6 +37,8 @@ Note: Translations are community-maintained.
 
 - Exploring the AWS Lambda SDK in Rust
   - https://gruebelinchen.wordpress.com/2023/12/07/exploring-the-aws-lambda-sdk-in-rust/
+- Getting Started with Axum - Rust's Most Popular Web Framework
+  -  https://www.shuttle.rs/blog/2023/12/06/using-axum-rust
 
 
 # Microsoft Beginners-series-rust
