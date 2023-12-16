@@ -7,6 +7,8 @@
 
 # 러스트 기초 문법 끝내고 간단한 프로젝트 해보기
 
+- https://practice.rs/elegant-code-base.html
+
 - https://github.com/MunGell/awesome-for-beginners
 
 - https://github.com/pretzelhammer/rust-blog
