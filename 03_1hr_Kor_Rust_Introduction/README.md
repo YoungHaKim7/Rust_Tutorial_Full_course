@@ -100,6 +100,8 @@ https://github.com/utilForever/2023-MatKor-Rust-Interpreter
 # Rust로 웹브라우져Browser를 만드는 프로젝트 서보(Servo)
 
 - https://namu.wiki/w/%EC%84%9C%EB%B3%B4(%EC%97%94%EC%A7%84)
+  - Compiling and running the Servo web browser engine | timClicks
+    - https://www.youtube.com/live/PyfY82-NDCM?si=ffDEYjBouv8tcPKa
 
 <hr>
 
