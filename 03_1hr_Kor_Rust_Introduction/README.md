@@ -91,6 +91,10 @@ https://github.com/utilForever/2023-MatKor-Rust-Interpreter
 - MS는 C++ 대신 36,000줄의 Rust 코드로 Windows 커널을 다시 작성합니다(윈도우 win32러스트로 코드 교체)
   - https://news.hada.io/topic?id=9078
 
+# Rust로 웹을 만드는 프로젝트 서보(Servo)
+
+- https://namu.wiki/w/%EC%84%9C%EB%B3%B4(%EC%97%94%EC%A7%84)
+
 <hr>
 
 # Rust 존경받는 언어 1위
