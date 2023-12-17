@@ -79,6 +79,12 @@ https://github.com/utilForever/2023-MatKor-Rust-Interpreter
 - 왜? 크라우드(Cloud)업체들이 Rust로 교체 할까? & Rust를 쓰는 이유. 역시 Rust가 대세 - 
   - https://economiceco.tistory.com/m/13160
 
+- AWS Rust로 교체 완료(2023. 11. 30.)
+  - AWS re:Invent 2023 - “Rustifying” serverless: Boost AWS Lambda performance with Rust (COM306) | AWS Events
+    - https://youtu.be/Mdh_2PXe9i8?si=peOPmxB1ChyyPDDl
+  - AWS Rust tutorial
+    - https://aws.amazon.com/developer/language/rust/
+
 
 # 리눅스 커널 & MS커널 Rust코드로 교체함.
 
