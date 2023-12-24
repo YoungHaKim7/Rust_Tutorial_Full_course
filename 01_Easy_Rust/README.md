@@ -61,6 +61,10 @@ RAII stands for Resource Acquisition Is Initialization, a paradigm suggesting th
   - 다음에서 발췌: Sharma, Rahul. ‘The Complete Rust Programming Reference Guide.’ Packt Publishing
     - https://www.amazon.com/Complete-Rust-Programming-Reference-Guide/dp/1838828109
 
+- ‘Through lifetimes, the compiler can track places in code where a reference is safe to use, reporting an error at compile time if it's illegal. To achieve this, <em><strong>Rust runs a borrow/reference checking algorithm by using these lifetime tags on references to ensure </em></strong>that you can never access a memory address that has been freed. It also does this so that you cannot free any pointer while it is being used by some other variable. We will go into the details of this in Chapter 5, Memory management and Safety.’
+
+  - 다음에서 발췌: Sharma, Rahul. ‘The Complete Rust Programming Reference Guide.’ Packt Publishing, 
+
 # 한국분이 깔끔하게 정리(Rust공부 로드맵)
 
 https://gist.github.com/junha1/d68da2537db7d31ef5e871c215dcd068
