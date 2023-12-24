@@ -1,6 +1,8 @@
 # WebAssembly 크롬 브라우져로 확인하는 방법
 
 https://developer.chrome.com/blog/wasm-debugging-2020?hl=ko
+- What's New in DevTools(Chorome for Dev)
+  - https://youtube.com/playlist?list=PLNYkxOF6rcIBDSojZWBv4QJNoT4GNYzQD&si=vAYybO6avUL5hKE1
 
 
 <hr>
