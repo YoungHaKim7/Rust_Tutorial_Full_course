@@ -16,7 +16,9 @@ https://youtu.be/V6TR2FeCK5c
 
 ![rust_engine](https://user-images.githubusercontent.com/67513038/214437390-2ced58a6-2dc8-41d8-aef9-7b57938bbe09.png)
 
-# [2023.10.13] Rust는 지구를 구할 수 있을까요? - 옥찬호 | ITInfraEngineer
+# [2023.10.13] Rust는 지구를 구할 수 있을까? | ITInfraEngineer
+
+- https://www.researchgate.net/figure/Normalized-global-results-for-Energy-Time-and-Memory_tbl2_320436353
 
 https://youtu.be/HToofktv-IU?si=ERlcGHIfhNLQ__WU
 
