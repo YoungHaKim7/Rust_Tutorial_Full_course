@@ -48,6 +48,14 @@ https://tourofrust.com/index.html
 #  300 seconds of Rust | 300 seconds of Rust
 - https://youtube.com/playlist?list=PLwhLlO5Vugx6KCwTpW_4fUeES2jdkDSW9&si=m3VeZMoQsNJlvTMf
 
+# ‘Rust is inspired by a multitude of languages, 
+
+- the notable ones being Cyclone (a safe dialect of C language) for its ideas on region-based memory management techniques; C++ for its RAII principle, and Haskell for its type system, error handling types, and typeclasses.
+RAII stands for Resource Acquisition Is Initialization, a paradigm suggesting that resources must be acquired during the initialization of an object and must be released when their destructors are called or when they are deallocated.’
+
+  - 다음에서 발췌: Sharma, Rahul. ‘The Complete Rust Programming Reference Guide.’ Packt Publishing, 2019-05-20T11:39:31Z. Apple Books
+    - https://www.amazon.com/Complete-Rust-Programming-Reference-Guide/dp/1838828109
+
 # 한국분이 깔끔하게 정리(Rust공부 로드맵)
 
 https://gist.github.com/junha1/d68da2537db7d31ef5e871c215dcd068
@@ -58,3 +66,4 @@ https://gist.github.com/junha1/d68da2537db7d31ef5e871c215dcd068
 https://github.com/YoungHaKim7/easyrust_training
 
 <br>
+
