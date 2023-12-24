@@ -52,6 +52,11 @@ https://tourofrust.com/index.html
 
 - the notable ones being Cyclone (a safe dialect of C language) for its ideas on region-based memory management techniques; C++ for its RAII principle, and Haskell for its type system, error handling types, and typeclasses.
 RAII stands for Resource Acquisition Is Initialization, a paradigm suggesting that resources must be acquired during the initialization of an object and must be released when their destructors are called or when they are deallocated.’
+  - <em><strong>C언어</em></strong>the notable ones being Cyclone (a safe dialect of C language) for its ideas on region-based memory management techniques; 
+  - <em><strong>C++ </em></strong> for its RAII principle, 
+    - RAII stands for Resource Acquisition Is Initialization, a paradigm suggesting that resources must be acquired during the initialization of an object and must be released when their destructors are called or when they are deallocated.
+  - <em><strong>Haskell </em></strong> for its type system, error handling types, and typeclasses.
+
 
   - 다음에서 발췌: Sharma, Rahul. ‘The Complete Rust Programming Reference Guide.’ Packt Publishing
     - https://www.amazon.com/Complete-Rust-Programming-Reference-Guide/dp/1838828109
