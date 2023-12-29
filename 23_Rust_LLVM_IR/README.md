@@ -2,7 +2,7 @@
 ![Screenshot 2023-12-30 at 1 40 22 AM](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/1c352795-bd1c-41b6-ab4e-aeb69973da7d)
 
 
-- Rust 1.74.0: All 45 changes in 19 minutes! | Nathan Stocks
+- Rust 1.74.0: All 45 changes in 19 minutes! | Nathan Stocks(6min 36sec)
   - https://youtu.be/MOzuShpnUm8?si=GArUM-7CqH6TVbeD
 
 
