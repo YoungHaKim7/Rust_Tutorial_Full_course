@@ -1,3 +1,9 @@
+# Async Book
+
+- https://rust-lang.github.io/async-book/
+
+<hr>
+
 # WebAssembly 크롬 브라우져로 확인하는 방법
 
 https://developer.chrome.com/blog/wasm-debugging-2020?hl=ko
