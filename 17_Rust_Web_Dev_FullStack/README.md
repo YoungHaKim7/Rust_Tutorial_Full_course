@@ -5,8 +5,9 @@
 </div>
 
 <div align="center">
-  
-![WasmEdge Logo](/docs/wasmedge-runtime-logo.png)
+
+
+![WasmEdge Logo](https://github.com/WasmEdge/WasmEdge/blob/master/docs/wasmedge-runtime-logo.png)
 
 # [🤩 WasmEdge is the easiest and fastest way to run LLMs on your own devices. 🤩](https://www.secondstate.io/articles/wasm-runtime-agi/)
 
