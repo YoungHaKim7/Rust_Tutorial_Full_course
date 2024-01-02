@@ -32,6 +32,119 @@ $ wasmedge target/wasm32-wasi/release/hello.wasm
 Hello WasmEdg
 ```
 
+# wasmedge
+- which wasmedge
+
+```bash
+/home/gyoung/.wasmedge/bin/wasmedge
+```
+
+- wasmedge
+```bash
+wasmedge
+USAGE
+	wasmedge [SUBCOMMANDS] [OPTIONS] [--] WASM_OR_SO [ARG ...]
+
+SUBCOMMANDS
+	compile
+		Wasmedge compiler subcommand
+	run
+		Wasmedge runtime tool subcommand
+
+OPTIONS
+	
+-h|--help
+		Show this help messages
+	
+-v|--version
+		Show version information
+	
+--reactor
+		Enable reactor mode. Reactor mode calls `_initialize` if exported.
+	
+--dir
+		Binding directories into WASI virtual filesystem. Each directory can be
+		specified as --dir `host_path`. You can also map a guest directory to a host
+		directory by --dir `guest_path:host_path`, where `guest_path` specifies the
+		path that will correspond to `host_path` for calls like `fopen` in the
+		guest.The default permission is `readwrite`, however, you can use --dir
+		`guest_path:host_path:readonly` to make the mapping directory become a read
+		only mode.
+	
+--env
+		Environ variables. Each variable can be specified as --env `NAME=VALUE`.
+	
+--enable-instruction-count
+		Enable generating code for counting Wasm instructions executed.
+	
+--enable-gas-measuring
+		Enable generating code for counting gas burned during execution.
+	
+--enable-time-measuring
+		Enable generating code for counting time during execution.
+	
+--enable-all-statistics
+		Enable generating code for all statistics options include instruction
+		counting, gas measuring, and execution time
+	
+--force-interpreter
+		Forcibly run WASM in interpreter mode.
+	
+--disable-import-export-mut-globals
+		Disable Import/Export of mutable globals proposal
+	
+--disable-non-trap-float-to-int
+		Disable Non-trapping float-to-int conversions proposal
+	
+--disable-sign-extension-operators
+		Disable Sign-extension operators proposal
+	
+--disable-multi-value
+		Disable Multi-value proposal
+	
+--disable-bulk-memory
+		Disable Bulk memory operations proposal
+	
+--disable-reference-types
+		Disable Reference types proposal
+	
+--disable-simd
+		Disable SIMD proposal
+	
+--allow-af-unix
+		Enable UNIX domain sockets
+	
+--enable-multi-memory
+		Enable Multiple memories proposal
+	
+--enable-tail-call
+		Enable Tail-call proposal
+	
+--enable-extended-const
+		Enable Extended-const proposal
+	
+--enable-threads
+		Enable Threads proposal
+	
+--enable-all
+		Enable all features
+	
+--time-limit
+		Limitation of maximum time(in milliseconds) for execution, default value is 0
+		for no limitations
+	
+--gas-limit
+		Limitation of execution gas. Upper bound can be specified as --gas-limit
+		`GAS_LIMIT`.
+	
+--memory-page-limit
+		Limitation of pages(as size of 64 KiB) in every memory instance. Upper bound
+		can be specified as --memory-page-limit `PAGE_COUNT`.
+	
+--forbidden-plugin
+		List of plugins to ignore.
+```
+
 <hr>
 
 <div align="right">
