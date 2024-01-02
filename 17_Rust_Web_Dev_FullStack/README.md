@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="https://bytecodealliance.org/images/bytecode-alliance-logo.svg" />
+</p>
+
 #  A fast and secure runtime for WebAssembly
 
 - https://wasmtime.dev/
@@ -7,6 +11,8 @@
 
 - Rust로 Wasmtime으로 어셈블리 연습하기
   - https://docs.wasmtime.dev/lang-rust.html
+
+<hr>
 
 <hr>
 
