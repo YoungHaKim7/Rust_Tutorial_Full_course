@@ -9,6 +9,7 @@
 - https://github.com/WebAssembly/wabt
 - https://wasmedge.org/docs/develop/rust/setup/
 - https://wasmedge.org/docs/category/develop-wasm-apps-in-rust/
+- eBook https://wasmedge.org/book/en/
 
 # A simple main app
 The Hello World example is a standalone Rust application that can be executed by the WasmEdge CLI. The full source code for the Rust main.rs file is as follows. It echoes the command line arguments passed to this program at runtime.
