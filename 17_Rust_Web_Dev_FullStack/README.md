@@ -7,6 +7,7 @@
   - https://github.com/WasmEdge/WasmEdge
 
 - https://github.com/WebAssembly/wabt
+- https://wasmedge.org/docs/develop/rust/setup/
 
 <div align="right">
 
