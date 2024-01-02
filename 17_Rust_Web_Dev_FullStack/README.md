@@ -9,6 +9,31 @@
 - https://github.com/WebAssembly/wabt
 - https://wasmedge.org/docs/develop/rust/setup/
 
+# A simple main app
+The Hello World example is a standalone Rust application that can be executed by the WasmEdge CLI. The full source code for the Rust main.rs file is as follows. It echoes the command line arguments passed to this program at runtime.
+
+```rs
+fn main() {
+  let s : &str = "Hello WasmEdge!";
+  println!("{}", s);
+}
+```
+
+Build the WASM bytecode:
+
+```bash
+cargo build --target wasm32-wasi --release
+```
+
+- We will use the wasmedge command to run the program.
+
+```bash
+$ wasmedge target/wasm32-wasi/release/hello.wasm
+Hello WasmEdg
+```
+
+<hr>
+
 <div align="right">
 
   [中文](README-zh.md) | [正體中文](README-zh-TW.md)
