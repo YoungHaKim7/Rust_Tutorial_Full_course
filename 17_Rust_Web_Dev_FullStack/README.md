@@ -3,6 +3,7 @@
 - https://wasmtime.dev/
 
 - https://github.com/bytecodealliance/wasmtime
+- tutorial Book https://docs.wasmtime.dev/
 
 - Rust로 Wasmtime으로 어셈블리 연습하기
   - https://docs.wasmtime.dev/lang-rust.html
