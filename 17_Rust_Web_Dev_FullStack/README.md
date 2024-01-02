@@ -31,6 +31,8 @@ https://rustwasm.github.io/docs/book/
 
     - https://news.hada.io/topic?id=11847&utm_source=pytorchkr 
       - https://discuss.pytorch.kr/t/gn-rust-wasm-edge-llama2/2846
+    - WASM + Docker를 이용한 Hello World 앱 만들기!
+      - https://www.dak.so/rust-articles/wasm-docker-helloworld 
 
 # A simple main app
 The Hello World example is a standalone Rust application that can be executed by the WasmEdge CLI. The full source code for the Rust main.rs file is as follows. It echoes the command line arguments passed to this program at runtime.
