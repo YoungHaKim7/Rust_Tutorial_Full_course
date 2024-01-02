@@ -16,6 +16,8 @@
 https://rustwasm.github.io/docs/book/
 
 - https://github.com/rustwasm/team
+  - Rust로 WASM 연습
+    - https://github.com/wasmerio/wasmer-rust-example
 
 # A simple main app
 The Hello World example is a standalone Rust application that can be executed by the WasmEdge CLI. The full source code for the Rust main.rs file is as follows. It echoes the command line arguments passed to this program at runtime.
