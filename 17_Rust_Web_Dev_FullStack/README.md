@@ -20,6 +20,17 @@ https://rustwasm.github.io/docs/book/
     - https://github.com/wasmerio/wasmer-rust-example
     - RUST to WASM 컴파일하기
       - https://velog.io/@motive05/RUST-to-wasm-%EC%BB%B4%ED%8C%8C%EC%9D%BC%ED%95%98%EA%B8%B0
+   
+    - Rust+WASM으로 이기종 Edge에서 빠르고 포터블한 Llama2 추론 실행하기 (secondstate.io)
+      - Rust+WASM 스택이 AI추론에서 Python의 강력한 대체제가 될 수 있음
+        파이썬과 비교해서 Rust+Wasm 앱은 크기가 1/100, 속도가 100배 빠르며, 바이너리 코드를 변경하지 않고도 전체 하드웨어 가속으로 모든 곳에서 안전하게 실행할 수 있음
+        Rust는 AGI의 언어임
+    LLama2 추론을 네이티브 속도로 실행하는 간단한 Rust 프로그램을 작성해보면
+        Wasm 컴파일후 바이너리는 2MB에 불과하지만, 이기종 하드웨어 가속기에 완전히 이식 가능
+        또한 Wasm 런타임(WasmEdge)은 클라우드 환경을 위한 안전한 보안 실행 환경을 제공. 컨테이너 도구와 원활하게 작동하여 다양한 기기에서 휴대용 애플리케이션을 오케스트레이션하고 실행할 수 있음
+
+    - https://news.hada.io/topic?id=11847&utm_source=pytorchkr 
+      - https://discuss.pytorch.kr/t/gn-rust-wasm-edge-llama2/2846
 
 # A simple main app
 The Hello World example is a standalone Rust application that can be executed by the WasmEdge CLI. The full source code for the Rust main.rs file is as follows. It echoes the command line arguments passed to this program at runtime.
