@@ -95,6 +95,8 @@ fn main() -> Result<()> {
 }
 ```
 
+출처: https://docs.wasmtime.dev/examples-rust-hello-world.html
+
 <hr>
 
 <hr>
