@@ -11,6 +11,10 @@
 - https://wasmedge.org/docs/category/develop-wasm-apps-in-rust/
 - eBook https://wasmedge.org/book/en/
 
+## This small book describes how to use Rust and WebAssembly together.
+
+https://rustwasm.github.io/docs/book/
+
 # A simple main app
 The Hello World example is a standalone Rust application that can be executed by the WasmEdge CLI. The full source code for the Rust main.rs file is as follows. It echoes the command line arguments passed to this program at runtime.
 
