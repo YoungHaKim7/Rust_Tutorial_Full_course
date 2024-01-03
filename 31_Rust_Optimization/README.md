@@ -70,3 +70,10 @@ by Iban Eguia Moraza (Author)
 <p>
   <img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81jignYrATL._SY466_.jpg" />
 </p>
+
+# Rust Basic
+
+<p>
+  <img src="https://yt3.ggpht.com/JrWPJOviyLhJqkTpaCrbsAxSujzVdHcahnujX5y8-Fc0rj0ARfePV2VpVky4doN2KSBuGbTmUS5xye0=s800-nd-v1" />
+</p>
+
