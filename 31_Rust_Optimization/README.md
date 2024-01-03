@@ -57,6 +57,11 @@ Visual comparison chart: http://i.imgur.com/k0t1e.png
 - switch문과 if문의 성능 비교 (ISA관점에서)
   - https://thinkpro.tistory.com/m/132
 
+<p align="center">
+  <img src="https://yt3.ggpht.com/YXq5z7b_VJXXgFtIEzRMIlce8OhyggmzFxk91SSm7JBo1yO3Z3jbOJ50he4n7pCsOXk410P-Vdpa3Vs=s640-c-fcrop64=1,00003577ffffca6e-nd-v1" />
+</p>
+
+
 # Rust eBook ($유료 )
 
 - Rust High Performance: Learn to skyrocket the performance of your Rust applications 1st Edition, Kindle Edition
