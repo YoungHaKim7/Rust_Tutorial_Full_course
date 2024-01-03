@@ -73,7 +73,12 @@ by Iban Eguia Moraza (Author)
 
 # Rust Basic
 
+- ThePrimeTime | best pointer explanation 
 <p>
   <img src="https://yt3.ggpht.com/JrWPJOviyLhJqkTpaCrbsAxSujzVdHcahnujX5y8-Fc0rj0ARfePV2VpVky4doN2KSBuGbTmUS5xye0=s800-nd-v1" />
 </p>
 
+- C++개념으로 이해하기
+<p>
+  <img src="https://private-user-images.githubusercontent.com/67513038/259999278-f5cc8e9d-34cc-4d45-941b-2b20eedd404c.JPG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQyODc4ODYsIm5iZiI6MTcwNDI4NzU4NiwicGF0aCI6Ii82NzUxMzAzOC8yNTk5OTkyNzgtZjVjYzhlOWQtMzRjYy00ZDQ1LTk0MWItMmIyMGVlZGQ0MDRjLkpQRz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTAzVDEzMTMwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThjNzg0OTQ4OWY5YjlkNWQ5ZDQxOWFhYWUwMjk1ZGZlZTc5MmZlOWU3MjllODY4MDI4MDIwOTI3NWYxZDEwOTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.rePcMxoBYupifXniHSopjvWGHjq2EdtmYGArji2O7vc" />
+</p>
