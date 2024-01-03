@@ -1,3 +1,9 @@
+# 여기에 정리중 ..
+
+https://github.com/YoungHaKim7/rust_release
+
+<hr>
+
 # cargo.toml에 대한 모든 글
 
 https://doc.rust-lang.org/cargo/index.html
