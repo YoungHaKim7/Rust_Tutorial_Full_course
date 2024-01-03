@@ -1,6 +1,7 @@
 # Rust Optimization
 
 - Rust Optimization
+  - 여기가 Original https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1
   - https://gist.github.com/kvark/f067ba974446f7c5ce5bd544fe370186
 
 - 날아갈까봐 Fork함 
