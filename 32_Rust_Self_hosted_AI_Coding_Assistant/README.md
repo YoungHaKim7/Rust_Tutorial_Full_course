@@ -1,5 +1,10 @@
 # Tabby 
 
+- https://github.com/TabbyML/tabby
+
+- https://tabby.tabbyml.com/docs/extensions/installation/vscode
+  - https://marketplace.visualstudio.com/items?itemName=TabbyML.vscode-tabby
+
 - Tabby is a self-hosted AI coding assistant, offering an open-source and on-premises alternative to GitHub Copilot. It boasts several key features:
 
   - Self-contained, with no need for a DBMS or cloud service.
