@@ -349,7 +349,10 @@ plateParams: !3989)
   - https://gist.github.com/niklasad1/b838695ef436a0a16d5cd80cf462905f
 
 # Expand macros
-`$ cargo rustc -- --pretty expanded -Z unstable-options`
+`$ cargo rustc --profile=check -- -Zunpretty=expanded`
+<br>`$ cargo expand`
+
+- https://github.com/dtolnay/cargo-expand
 
 # Emit asm
 `$ cargo rustc -- --emit asm && cat target/debug/deps/project_name-hash.s`
