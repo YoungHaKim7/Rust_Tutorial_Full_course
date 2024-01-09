@@ -301,8 +301,14 @@ promoted[1] in main: &[&str; 2] = {
 
 ```bash
 
-$ cargo rustc -- --emit llvm-ir && cat .\target\debug\deps\testru
-st01.ll
+$ cargo rustc -- --emit llvm-ir && cat .\target\debug\deps\testrust01.ll
+
+
+...
+...
+...
+
+코드가 겁나게 많다. 
 
 ...
 !12775 = distinct !DISubprogram(name: "new<ndarray::ArrayBase<ndar
