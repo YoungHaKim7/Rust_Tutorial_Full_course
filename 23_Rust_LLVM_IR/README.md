@@ -353,9 +353,11 @@ plateParams: !3989)
 
 # Emit asm
 `$ cargo rustc -- --emit asm && cat target/debug/deps/project_name-hash.s`
+`$ cargo rustc -- --emit asm=asssembly.s`
 
 # Emit llvm-ir
 `$ cargo rustc -- --emit llvm-ir && cat target/debug/deps/project_name-hash.ll`
+`$ cargo rustc -- --emit llvm-ir=testrust.ll`
 
 # Emit HIR
 `$ cargo rustc -- -Zunpretty=hir`
