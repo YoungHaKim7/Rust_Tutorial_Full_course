@@ -366,6 +366,28 @@ plateParams: !3989)
 `$ cargo rustc -- -Zunpretty=mir`
 <br>`$ cargo rustc -- --emit mir=testrust.mir`
 
+# cargo rustc -- --emit dep-info=testrust.depinfo
+
+```
+cargo rustc -- --emit dep-info=testrust.depinfo
+```
+
+# cargo rustc -- --emit help
+
+```
+cargo rustc -- --emit help
+   Compiling testrust01 v0.1.0 (D:\young_linux\11111\testrust01)
+error: unknown emission type: `help` - expected one of:
+
+`llvm-bc`,
+`asm`,
+`llvm-ir`,
+ `mir`,
+`obj`,
+`metadata`,
+`link`,
+`dep-info`
+```
 <hr>
 
 ![Screenshot 2023-12-30 at 1 41 01 AM](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/871b7ae5-106f-49cf-9c98-ea9e41da32c7)
