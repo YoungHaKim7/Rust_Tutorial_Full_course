@@ -3,6 +3,48 @@
 </p>
 - 출처 : https://blog.rust-lang.org/2016/04/19/MIR.html
 <br>
+
+- ```cargo asm --mir```
+
+```bash
+$ cargo asm --mir
+   Compiling trait_impl v0.1.0 (/Users/globalyoung/Documents/test/test/YouTubeContents_GlobalYoung/230317_Rust_Monomorphization_vs_Polymorphism/Polymorphism/trait_impl)
+    Finished release [optimized] target(s) in 0.09s
+
+Try one of those by name or a sequence number
+ 0 "fn <impl at src/main.rs:13:1: 13:23>::growl(_1: &Tiger)" [63]
+ 1 "fn <impl at src/main.rs:20:1: 20:22>::growl(_1: &Bear)" [63]
+ 2 "fn <impl at src/main.rs:6:1: 6:22>::growl(_1: &Lion)" [65]
+ 3 "fn main()" [46]
+ 4 "fn static_dispatch(_1: T)" [34]
+ 5 "promoted[0] in <impl at src/main.rs:13:1: 13:23>::growl: &[ArgumentV1<'_>; 0]" [10]
+ 6 "promoted[0] in <impl at src/main.rs:20:1: 20:22>::growl: &[ArgumentV1<'_>; 0]" [10]
+ 7 "promoted[0] in <impl at src/main.rs:6:1: 6:22>::growl: &[ArgumentV1<'_>; 0]" [10]
+ 8 "promoted[1] in <impl at src/main.rs:13:1: 13:23>::growl: &[&str; 1]" [13]
+ 9 "promoted[1] in <impl at src/main.rs:20:1: 20:22>::growl: &[&str; 1]" [13]
+10 "promoted[1] in <impl at src/main.rs:6:1: 6:22>::growl: &[&str; 1]" [13]
+```
+
+- ```cargo asm --llvm```
+
+```bash
+$cargo asm --llvm
+   Compiling trait_impl v0.1.0 (/Users/globalyoung/Documents/test/test/YouTubeContents_GlobalYoung/230317_Rust_Monomorphization_vs_Polymorphism/Polymorphism/trait_impl)
+    Finished release [optimized] target(s) in 0.09s
+
+Try one of those by name or a sequence number
+0 "<trait_impl::Bear as trait_impl::Growler>::growl" [20]
+1 "<trait_impl::Lion as trait_impl::Growler>::growl" [20]
+2 "<trait_impl::Tiger as trait_impl::Growler>::growl" [20]
+3 "Function Attrs: uwtable" [23]
+4 "core::ops::function::FnOnce::call_once{{vtable.shim}}" [9]
+5 "core::ptr::drop_in_place<std::rt::lang_start<()>::{{closure}}>" [6]
+6 "std::rt::lang_start" [12]
+7 "std::rt::lang_start::{{closure}}" [9]
+8 "std::sys_common::backtrace::__rust_begin_short_backtrace" [8]
+9 "trait_impl::main" [12]
+```
+
 <hr>
 
 ![Screenshot 2023-12-30 at 1 41 01 AM](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/871b7ae5-106f-49cf-9c98-ea9e41da32c7)
