@@ -6,23 +6,49 @@
 
 <br>
 
-- cargo hir
-  - https://gist.github.com/niklasad1/b838695ef436a0a16d5cd80cf462905f
+- cargo rustc -- -Zunpretty=hir
+```bash
+cargo rustc -- -Zunpretty=hir
 
-# Expand macros
-`$ cargo rustc -- --pretty expanded -Z unstable-options`
+info: syncing channel updates for 'nightly-x86_64-pc-windows-msvc'
+info: latest update on 2024-01-09, rust version 1.77.0-nightly (ca663b06c 2024-01-08)
+info: installing component 'rustfmt'
+   Compiling autocfg v1.1.0
+   Compiling rawpointer v0.2.1
+   Compiling num-traits v0.2.17
+   Compiling num-integer v0.1.45
+   Compiling matrixmultiply v0.3.8
+   Compiling num-complex v0.4.4
+   Compiling ndarray v0.15.6
+   Compiling testrust01 v0.1.0 (D:\young_linux\11111\testrust01)
+#[prelude_import]
+use std::prelude::rust_2021::*;
+#[macro_use]
+extern crate std;
+use ndarray::{};
+use ndarray::Array;
+use ndarray::Array1;
+use ndarray::ShapeBuilder;
 
-# Emit asm
-`$ cargo rustc -- --emit asm && cat target/debug/deps/project_name-hash.s`
-
-# Emit llvm-ir
-`$ cargo rustc -- --emit llvm-ir && cat target/debug/deps/project_name-hash.ll`
-
-# Emit HIR
-`$ cargo rustc -- -Zunpretty=hir`
-
-# Emit MIR
-`$ cargo rustc -- -Zunpretty=mir`
+fn main() {
+        let a =
+            Array::from_shape_vec((3, 3), Array1::range(0., 9., 1.).to_vec());
+        let b =
+            Array::from_shape_vec((2, 2).strides((1, 2)),
+                    <[_]>::into_vec(
+                        #[rustc_box]
+                        ::alloc::boxed::Box::new([1., 2., 3., 4.]))).unwrap();
+        {
+                ::std::io::_print(format_arguments::new_v1(&["create array 01 bool : ",
+                                    "\n"], &[format_argument::new_debug(&a.is_ok())]));
+            };
+        {
+                ::std::io::_print(format_arguments::new_v1(&["create array : ",
+                                    "\n"], &[format_argument::new_debug(&b)]));
+            };
+    }
+    Finished dev [unopt
+```
 
 - cargo asm
   - https://github.com/gnzlbg/cargo-asm
@@ -67,6 +93,25 @@ Try one of those by name or a sequence number
 8 "std::sys_common::backtrace::__rust_begin_short_backtrace" [8]
 9 "trait_impl::main" [12]
 ```
+
+- cargo hir
+  - https://gist.github.com/niklasad1/b838695ef436a0a16d5cd80cf462905f
+
+# Expand macros
+`$ cargo rustc -- --pretty expanded -Z unstable-options`
+
+# Emit asm
+`$ cargo rustc -- --emit asm && cat target/debug/deps/project_name-hash.s`
+
+# Emit llvm-ir
+`$ cargo rustc -- --emit llvm-ir && cat target/debug/deps/project_name-hash.ll`
+
+# Emit HIR
+`$ cargo rustc -- -Zunpretty=hir`
+
+# Emit MIR
+`$ cargo rustc -- -Zunpretty=mir`
+
 
 <hr>
 
