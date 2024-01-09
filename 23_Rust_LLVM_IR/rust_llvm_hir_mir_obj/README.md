@@ -6,7 +6,25 @@
     - To actually dump the output of a file, just use this:
       - https://github.com/Microsoft/microsoft-pdb/blob/master/cvdump/cvdump.exe
 
+# cargo rustc -- --emit help
+
+```bash
+cargo rustc -- --emit help
+   Compiling testrust01 v0.1.0 (D:\young_linux\11111\testrust01)
+error: unknown emission type: `help` - expected one of:
+
+`llvm-bc`,
+`asm`,
+`llvm-ir`,
+ `mir`,
+`obj`,
+`metadata`,
+`link`,
+`dep-info`
 ```
+- cargo rustc -- --emit
+
+```bash
 
 cargo rustc -- --emit asm=assembly.s
 
