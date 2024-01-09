@@ -5,6 +5,25 @@
 - 출처 : https://blog.rust-lang.org/2016/04/19/MIR.html
 
 <br>
+
+- cargo hir
+  - https://gist.github.com/niklasad1/b838695ef436a0a16d5cd80cf462905f
+
+# Expand macros
+`$ cargo rustc -- --pretty expanded -Z unstable-options`
+
+# Emit asm
+`$ cargo rustc -- --emit asm && cat target/debug/deps/project_name-hash.s`
+
+# Emit llvm-ir
+`$ cargo rustc -- --emit llvm-ir && cat target/debug/deps/project_name-hash.ll`
+
+# Emit HIR
+`$ cargo rustc -- -Zunpretty=hir`
+
+# Emit MIR
+`$ cargo rustc -- -Zunpretty=mir`
+
 - cargo asm
   - https://github.com/gnzlbg/cargo-asm
 
