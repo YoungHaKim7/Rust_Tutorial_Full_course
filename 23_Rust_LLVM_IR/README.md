@@ -388,6 +388,14 @@ error: unknown emission type: `help` - expected one of:
 `link`,
 `dep-info`
 ```
+# .pdb
+
+- Microsoft released the source code of their PDB formats, so other compiler developers like the LLVM team can implement the PDB format easier.
+  - https://github.com/Microsoft/microsoft-pdb/
+    - To actually dump the output of a file, just use this:
+       - https://github.com/Microsoft/microsoft-pdb/blob/master/cvdump/cvdump.exe
+
+
 <hr>
 
 ![Screenshot 2023-12-30 at 1 41 01 AM](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/871b7ae5-106f-49cf-9c98-ea9e41da32c7)
