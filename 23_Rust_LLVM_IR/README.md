@@ -297,8 +297,7 @@ promoted[1] in main: &[&str; 2] = {
     Finished dev [unoptimized + debuginfo] target(s) in 0.67s
 ```
 
-- ```cargo rustc -- --emit llvm-ir && cat .\target\debug\deps\testru
-st01.ll```
+- ```cargo rustc -- --emit llvm-ir && cat .\target\debug\deps\testrust01.ll```
 
 ```bash
 
