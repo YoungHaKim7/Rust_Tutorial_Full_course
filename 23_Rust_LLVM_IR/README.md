@@ -67,45 +67,277 @@ fn main() {
 - cargo asm
   - https://github.com/gnzlbg/cargo-asm
 
-- ```cargo asm --mir```
+- ```cargo rustc -- -Zunpretty=mir```
 
 ```bash
-$ cargo asm --mir
-   Compiling trait_impl v0.1.0 (/Users/globalyoung/Documents/test/test/YouTubeContents_GlobalYoung/230317_Rust_Monomorphization_vs_Polymorphism/Polymorphism/trait_impl)
-    Finished release [optimized] target(s) in 0.09s
+cargo rustc -- -Zunpretty=mir
+   Compiling testrust01 v0.1.0 (D:\young_linux\11111\testrust01)
+// WARNING: This output format is intended for human consumers only
+// and is subject to change without notice. Knock yourself out.
+fn main() -> () {
+    let mut _0: ();
+    let _1: std::result::Result<ndarray::ArrayBase<ndarray::OwnedRepr<f64>, ndarray::Di
+m<[usize; 2]>>, ndarray::ShapeError>;
+    let mut _2: (usize, usize);
+    let mut _3: std::vec::Vec<f64>;
+    let mut _4: &ndarray::ArrayBase<ndarray::OwnedRepr<f64>, ndarray::Dim<[usize; 1]>>;
+    let _5: ndarray::ArrayBase<ndarray::OwnedRepr<f64>, ndarray::Dim<[usize; 1]>>;
+    let mut _7: std::result::Result<ndarray::ArrayBase<ndarray::OwnedRepr<f64>, ndarray
+::Dim<[usize; 2]>>, ndarray::ShapeError>;
+    let mut _8: ndarray::StrideShape<ndarray::Dim<[usize; 2]>>;
+    let mut _9: (usize, usize);
+    let mut _10: (usize, usize);
+    let mut _11: std::vec::Vec<f64>;
+    let mut _12: std::boxed::Box<[f64]>;
+    let mut _13: usize;
+    let mut _14: usize;
+    let mut _15: *mut u8;
+    let mut _16: std::boxed::Box<[f64; 4]>;
+    let _17: ();
+    let mut _18: std::fmt::Arguments<'_>;
+    let mut _19: &[&str];
+    let mut _20: &[core::fmt::rt::Argument<'_>];
+    let _21: &[core::fmt::rt::Argument<'_>; 1];
+    let _22: [core::fmt::rt::Argument<'_>; 1];
+    let mut _23: core::fmt::rt::Argument<'_>;
+    let _24: &bool;
+    let _25: bool;
+    let mut _26: &std::result::Result<ndarray::ArrayBase<ndarray::OwnedRepr<f64>, ndarr
+ay::Dim<[usize; 2]>>, ndarray::ShapeError>;
+    let _27: ();
+    let mut _28: std::fmt::Arguments<'_>;
+    let mut _29: &[&str];
+    let mut _30: &[core::fmt::rt::Argument<'_>];
+    let _31: &[core::fmt::rt::Argument<'_>; 1];
+    let _32: [core::fmt::rt::Argument<'_>; 1];
+    let mut _33: core::fmt::rt::Argument<'_>;
+    let _34: &ndarray::ArrayBase<ndarray::OwnedRepr<f64>, ndarray::Dim<[usize; 2]>>;
+    let mut _37: *const [f64; 4];
+    scope 1 {
+        debug a => _1;
+        let _6: ndarray::ArrayBase<ndarray::OwnedRepr<f64>, ndarray::Dim<[usize; 2]>>;
+        let mut _38: *const ();
+        let mut _39: usize;
+        let mut _40: usize;
+        let mut _41: usize;
+        let mut _42: usize;
+        let mut _43: bool;
+        scope 2 {
+            debug b => _6;
+            let mut _35: &[&str; 2];
+            let mut _36: &[&str; 2];
+        }
+        scope 3 {
+        }
+    }
 
-Try one of those by name or a sequence number
- 0 "fn <impl at src/main.rs:13:1: 13:23>::growl(_1: &Tiger)" [63]
- 1 "fn <impl at src/main.rs:20:1: 20:22>::growl(_1: &Bear)" [63]
- 2 "fn <impl at src/main.rs:6:1: 6:22>::growl(_1: &Lion)" [65]
- 3 "fn main()" [46]
- 4 "fn static_dispatch(_1: T)" [34]
- 5 "promoted[0] in <impl at src/main.rs:13:1: 13:23>::growl: &[ArgumentV1<'_>; 0]" [10]
- 6 "promoted[0] in <impl at src/main.rs:20:1: 20:22>::growl: &[ArgumentV1<'_>; 0]" [10]
- 7 "promoted[0] in <impl at src/main.rs:6:1: 6:22>::growl: &[ArgumentV1<'_>; 0]" [10]
- 8 "promoted[1] in <impl at src/main.rs:13:1: 13:23>::growl: &[&str; 1]" [13]
- 9 "promoted[1] in <impl at src/main.rs:20:1: 20:22>::growl: &[&str; 1]" [13]
-10 "promoted[1] in <impl at src/main.rs:6:1: 6:22>::growl: &[&str; 1]" [13]
+    bb0: {
+        _2 = (const 3_usize, const 3_usize);
+        _5 = ndarray::impl_constructors::<impl ArrayBase<OwnedRepr<f64>, Dim<[usize; 1]
+>>>::range(const 0f64, const 9f64, const 1f64) -> [return: bb1, unwind continue];
+    }
+
+    bb1: {
+        _4 = &_5;
+        _3 = ndarray::impl_1d::<impl ArrayBase<OwnedRepr<f64>, Dim<[usize; 1]>>>::to_ve
+c(move _4) -> [return: bb2, unwind: bb21];
+    }
+
+    bb2: {
+        _1 = ndarray::impl_constructors::<impl ArrayBase<OwnedRepr<f64>, Dim<[usize; 2]
+>>>::from_shape_vec::<(usize, usize)>(move _2, move _3) -> [return: bb3, unwind: bb21];
+    }
+
+    bb3: {
+        drop(_5) -> [return: bb4, unwind: bb20];
+    }
+
+    bb4: {
+        _9 = (const 2_usize, const 2_usize);
+        _10 = (const 1_usize, const 2_usize);
+        _8 = <(usize, usize) as ShapeBuilder>::strides(move _9, move _10) -> [return: b
+b5, unwind: bb20];
+    }
+
+    bb5: {
+        _13 = SizeOf([f64; 4]);
+        _14 = AlignOf([f64; 4]);
+        _15 = alloc::alloc::exchange_malloc(move _13, move _14) -> [return: bb6, unwind
+: bb20];
+    }
+
+    bb6: {
+        _16 = ShallowInitBox(move _15, [f64; 4]);
+        _37 = (((_16.0: std::ptr::Unique<[f64; 4]>).0: std::ptr::NonNull<[f64; 4]>).0:
+*const [f64; 4]);
+        _38 = _37 as *const () (PtrToPtr);
+        _39 = _38 as usize (Transmute);
+        _40 = AlignOf([f64; 4]);
+        _41 = Sub(_40, const 1_usize);
+        _42 = BitAnd(_39, _41);
+        _43 = Eq(_42, const 0_usize);
+        assert(_43, "misaligned pointer dereference: address must be a multiple of {} b
+ut is {}", _40, _39) -> [success: bb23, unwind unreachable];
+    }
+
+    bb7: {
+        _7 = ndarray::impl_constructors::<impl ArrayBase<OwnedRepr<f64>, Dim<[usize; 2]
+>>>::from_shape_vec::<StrideShape<Dim<[usize; 2]>>>(move _8, move _11) -> [return: bb8,
+ unwind: bb20];
+    }
+
+    bb8: {
+        _6 = Result::<ArrayBase<OwnedRepr<f64>, Dim<[usize; 2]>>, ShapeError>::unwrap(m
+ove _7) -> [return: bb9, unwind: bb20];
+    }
+
+    bb9: {
+        _36 = const _;
+        _19 = _36 as &[&str] (PointerCoercion(Unsize));
+        _26 = &_1;
+        _25 = Result::<ArrayBase<OwnedRepr<f64>, Dim<[usize; 2]>>, ShapeError>::is_ok(m
+ove _26) -> [return: bb10, unwind: bb19];
+    }
+
+    bb10: {
+        _24 = &_25;
+        _23 = core::fmt::rt::Argument::<'_>::new_debug::<bool>(_24) -> [return: bb11, u
+nwind: bb19];
+    }
+
+    bb11: {
+        _22 = [move _23];
+        _21 = &_22;
+        _20 = _21 as &[core::fmt::rt::Argument<'_>] (PointerCoercion(Unsize));
+        _18 = Arguments::<'_>::new_v1(move _19, move _20) -> [return: bb12, unwind: bb1
+9];
+    }
+
+    bb12: {
+        _17 = _print(move _18) -> [return: bb13, unwind: bb19];
+    }
+
+    bb13: {
+        _35 = const _;
+        _29 = _35 as &[&str] (PointerCoercion(Unsize));
+        _34 = &_6;
+        _33 = core::fmt::rt::Argument::<'_>::new_debug::<ArrayBase<OwnedRepr<f64>, Dim<
+[usize; 2]>>>(_34) -> [return: bb14, unwind: bb19];
+    }
+
+    bb14: {
+        _32 = [move _33];
+        _31 = &_32;
+        _30 = _31 as &[core::fmt::rt::Argument<'_>] (PointerCoercion(Unsize));
+        _28 = Arguments::<'_>::new_v1(move _29, move _30) -> [return: bb15, unwind: bb1
+9];
+    }
+
+    bb15: {
+        _27 = _print(move _28) -> [return: bb16, unwind: bb19];
+    }
+
+    bb16: {
+        drop(_6) -> [return: bb17, unwind: bb20];
+    }
+
+    bb17: {
+        drop(_1) -> [return: bb18, unwind continue];
+    }
+
+    bb18: {
+        return;
+    }
+
+    bb19 (cleanup): {
+        drop(_6) -> [return: bb20, unwind terminate(cleanup)];
+    }
+
+    bb20 (cleanup): {
+        drop(_1) -> [return: bb22, unwind terminate(cleanup)];
+    }
+
+    bb21 (cleanup): {
+        drop(_5) -> [return: bb22, unwind terminate(cleanup)];
+    }
+
+    bb22 (cleanup): {
+        resume;
+    }
+
+    bb23: {
+        (*_37) = [const 1f64, const 2f64, const 3f64, const 4f64];
+        _12 = move _16 as std::boxed::Box<[f64]> (PointerCoercion(Unsize));
+        _11 = slice::<impl [f64]>::into_vec::<std::alloc::Global>(move _12) -> [return:
+ bb7, unwind: bb20];
+    }
+}
+
+promoted[0] in main: &[&str; 2] = {
+    let mut _0: &[&str; 2];
+    let mut _1: [&str; 2];
+
+    bb0: {
+        _1 = [const "create array : ", const "\n"];
+        _0 = &_1;
+        return;
+    }
+}
+
+promoted[1] in main: &[&str; 2] = {
+    let mut _0: &[&str; 2];
+    let mut _1: [&str; 2];
+
+    bb0: {
+        _1 = [const "create array 01 bool : ", const "\n"];
+        _0 = &_1;
+        return;
+    }
+}
+    Finished dev [unoptimized + debuginfo] target(s) in 0.67s
 ```
 
-- ```cargo asm --llvm```
+- ```cargo rustc -- --emit llvm-ir && cat .\target\debug\deps\testru
+st01.ll```
 
 ```bash
-$cargo asm --llvm
-   Compiling trait_impl v0.1.0 (/Users/globalyoung/Documents/test/test/YouTubeContents_GlobalYoung/230317_Rust_Monomorphization_vs_Polymorphism/Polymorphism/trait_impl)
-    Finished release [optimized] target(s) in 0.09s
 
-Try one of those by name or a sequence number
-0 "<trait_impl::Bear as trait_impl::Growler>::growl" [20]
-1 "<trait_impl::Lion as trait_impl::Growler>::growl" [20]
-2 "<trait_impl::Tiger as trait_impl::Growler>::growl" [20]
-3 "Function Attrs: uwtable" [23]
-4 "core::ops::function::FnOnce::call_once{{vtable.shim}}" [9]
-5 "core::ptr::drop_in_place<std::rt::lang_start<()>::{{closure}}>" [6]
-6 "std::rt::lang_start" [12]
-7 "std::rt::lang_start::{{closure}}" [9]
-8 "std::sys_common::backtrace::__rust_begin_short_backtrace" [8]
-9 "trait_impl::main" [12]
+$ cargo rustc -- --emit llvm-ir && cat .\target\debug\deps\testru
+st01.ll
+
+...
+!12775 = distinct !DISubprogram(name: "new<ndarray::ArrayBase<ndar
+ray::data_repr::OwnedRepr<f64>,ndarray::dimension::dim::Dim<array$
+<usize,2> > > >", linkageName: "_ZN4core3fmt2rt8Argument3new17h0fb
+bb2618fd00175E", scope: !3030, file: !3029, line: 83, type: !12776
+, scopeLine: 83, flags: DIFlagPrototyped, spFlags: DISPFlagLocalTo
+Unit | DISPFlagDefinition, unit: !330, templateParams: !3989, decl
+aration: !12779, retainedNodes: !12780)
+!12776 = !DISubroutineType(types: !12777)
+!12777 = !{!3030, !8337, !12778}
+!12778 = !DIDerivedType(tag: DW_TAG_pointer_type, name: "enum2$<co
+re::result::Result<tuple$<>,core::fmt::Error> > (*)(ref$<ndarray::
+ArrayBase<ndarray::data_repr::OwnedRepr<f64>,ndarray::dimension::d
+im::Dim<array$<usize,2> > > >,ref_mut$<core::fmt::Formatter>)", ba
+seType: !8553, size: 64, align: 64, dwarfAddressSpace: 0)
+!12779 = !DISubprogram(name: "new<ndarray::ArrayBase<ndarray::data
+_repr::OwnedRepr<f64>,ndarray::dimension::dim::Dim<array$<usize,2>
+ > > >", linkageName: "_ZN4core3fmt2rt8Argument3new17h0fbbb2618fd0
+0175E", scope: !3030, file: !3029, line: 83, type: !12776, scopeLi
+ne: 83, flags: DIFlagPrototyped, spFlags: DISPFlagLocalToUnit, tem
+plateParams: !3989)
+!12780 = !{!12773, !12781}
+!12781 = !DILocalVariable(name: "f", arg: 2, scope: !12774, file:
+!3029, line: 83, type: !12778)
+!12782 = !DILocation(line: 83, scope: !12774, inlinedAt: !12783)
+!12783 = distinct !DILocation(line: 101, scope: !12766, inlinedAt:
+ !12772)
+!12784 = !DILocation(line: 101, scope: !12766, inlinedAt: !12772)
+!12785 = !DILocation(line: 92, scope: !12774, inlinedAt: !12783)
+!12786 = !DILocation(line: 102, scope: !12766, inlinedAt: !12772)
+!12787 = !DILocation(line: 7, scope: !12733)
+!12788 = !DILocation(line: 3, scope: !12727)
+
 ```
 
 - cargo hir
