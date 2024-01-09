@@ -364,7 +364,7 @@ plateParams: !3989)
 
 # Emit MIR
 `$ cargo rustc -- -Zunpretty=mir`
-
+<br>`$ cargo rustc -- --emit mir=testrust.mir`
 
 <hr>
 
