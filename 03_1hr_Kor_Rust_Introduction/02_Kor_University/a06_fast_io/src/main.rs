@@ -1,5 +1,4 @@
-use std::io;
-use std::io::Write;
+use std::io::{self, Write};
 use std::str;
 
 pub struct UnsafeScanner<R> {
