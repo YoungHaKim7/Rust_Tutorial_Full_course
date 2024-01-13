@@ -1,3 +1,12 @@
+# valgrind 사용법
+
+- https://valgrind.org/
+- https://valgrind.org/docs/manual/quick-start.html
+
+- https://blog.naver.com/fromyongsik/40167969693
+
+<hr>
+
 # 01: Memory and Iteration
 - https://yetanotherrustblog.net/memory-and-iteration/
 
