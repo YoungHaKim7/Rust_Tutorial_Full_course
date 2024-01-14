@@ -26,3 +26,18 @@ $ docker run -it \
 <p>
     <img src="https://user-images.githubusercontent.com/388154/230440226-9bc01d05-9f57-478b-b04d-81184eba14ca.gif" />
 </p>
+
+<br>
+
+<hr>
+
+<br>
+
+# ollama.ai
+
+- https://ollama.ai/
+
+- https://github.com/jmorganca/ollama
+
+- Get up and running with large language models, locally.
+  - Run Llama 2, Code Llama, and other models. Customize and create your own.
