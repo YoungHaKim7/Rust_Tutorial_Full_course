@@ -1,3 +1,9 @@
+# Embeded 최신 뉴스
+
+- 24-01-09 https://blog.rust-embedded.org/embedded-hal-v1/
+
+<hr>
+
 # Rust Embeded 기초
 
 - probe-rs-cli  보내고
