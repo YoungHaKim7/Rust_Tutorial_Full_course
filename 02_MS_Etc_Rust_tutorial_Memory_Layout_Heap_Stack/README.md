@@ -5,6 +5,9 @@
 - Eng. https://doc.rust-lang.org/book/
   - RustBook 겁나게 긴 동영상 https://www.youtube.com/playlist?list=PLrmY5pVcnuE_dyWibakRuGJcuiwAkhGZB
 
+- 재밌는 프로젝트 많다. A curated list of Rust code and resources. 
+  - https://github.com/rust-unofficial/awesome-rust
+
 <hr>
 
 # Rust Book Club 러스트 공식북 2021 edition
