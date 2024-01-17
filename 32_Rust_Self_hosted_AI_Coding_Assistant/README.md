@@ -31,6 +31,22 @@ $ docker run -it \
 
 <hr>
 
+
+<br>
+
+# Rust AI Buddy
+
+- https://github.com/rust10x/rust-ai-buddy
+
+- Learn Rust OpenAI API - Building AI Buddy from Scratch!!! | Jeremy Chone
+
+  - https://youtu.be/PHbCmIckV20?si=Zl2Hd4UXVHHSlfg7
+
+
+<br>
+
+<hr>
+
 <br>
 
 # ollama.ai
