@@ -2,6 +2,13 @@
 
 https://github.com/kaist-cp/cs220
 
+# 2023년 고려대학교 MatKor 스터디 - Rust 기초 프로그래밍 + 인터프리터 만들기 
+
+- 2023년 자료 https://github.com/utilForever/2023-MatKor-Rust-Interpreter
+- https://github.com/utilForever/2022-Korea-Rust-Backend
+
+<hr>
+
 # Rust 프로그래밍 언어(2015년 많이 앞서 가는 선배님 최고 )
 
 - 새로운 시스템 프로그래밍 언어 Rust를 소개합니다. Rust는 C++처럼 오버헤드 없는 추상화, GC 없는 메모리 관리를 제공합니다. Rust는 C++과 달리 컴파일 시간에 메모리 버그와 동시성 버그를 막아줍니다. 2015년 버전 1.0이 릴리즈 되었습니다.
@@ -61,14 +68,6 @@ https://google.github.io/comprehensive-rust/ko/other-resources.html
 <li><a href="https://rust-unofficial.github.io/too-many-lists/">Learn Rust With Entirely Too Many Linked Lists</a>: 몇가지 유형의 리스트 자료구조를 구현해보면서 러스트의 메모리 관리 규칙들을 깊이있게 탐색합니다.</li>
 </ul>
 <p><a href="https://lborb.github.io/book/">Little Book of Rust Books</a>에서 더 많은 러스트 북을 확인해보세요.</p>
-
-                    
-
-
-# 2023년 고려대학교 MatKor 스터디 - Rust 기초 프로그래밍 + 인터프리터 만들기 
-
-https://github.com/utilForever/2023-MatKor-Rust-Interpreter
-
 
 <hr>
 
