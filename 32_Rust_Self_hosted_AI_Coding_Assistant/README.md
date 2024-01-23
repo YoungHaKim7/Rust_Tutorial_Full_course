@@ -57,3 +57,11 @@ $ docker run -it \
 
 - Get up and running with large language models, locally.
   - Run Llama 2, Code Llama, and other models. Customize and create your own.
+
+
+# ollama-rs
+
+- https://github.com/pepperoni21/ollama-rs
+
+- 코드 공부하기 좋다 (Jeremychone 최고)
+- https://github.com/jeremychone-channel/rust-xp-ollama
