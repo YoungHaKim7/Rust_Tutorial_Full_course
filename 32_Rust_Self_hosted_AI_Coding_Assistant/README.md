@@ -64,4 +64,4 @@ $ docker run -it \
 - https://github.com/pepperoni21/ollama-rs
 
 - 코드 공부하기 좋다 (Jeremychone 최고)
-- https://github.com/jeremychone-channel/rust-xp-ollama
+  - https://github.com/jeremychone-channel/rust-xp-ollama
