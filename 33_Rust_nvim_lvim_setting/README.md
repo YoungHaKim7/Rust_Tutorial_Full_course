@@ -10,7 +10,6 @@
 // 배경은 어두운 빨간색 /  글씨는 약간 밝은 색
 :hi Comment guifg=#8aaecf guibg=#4e1a1a
 ```
-  
 
 # My NeoVim Setting
 
@@ -19,6 +18,14 @@
 # My LunarVim Setting
 
 - https://github.com/YoungHaKim7/lvim_Rust_AI_Setting
+
+<hr>
+
+# 다른 IDE에도 Vim Setting 하기
+
+- https://github.com/YoungHaKim7/rust_vim_setting
+
+<hr>
 
 # 미완성 
 
