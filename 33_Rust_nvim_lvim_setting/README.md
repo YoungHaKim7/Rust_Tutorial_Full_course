@@ -19,3 +19,7 @@
 # My LunarVim Setting
 
 - https://github.com/YoungHaKim7/lvim_Rust_AI_Setting
+
+# 미완성 
+
+- https://github.com/YoungHaKim7/nvim_gy_NvChad_version
