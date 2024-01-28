@@ -19,11 +19,29 @@
 
 - https://github.com/YoungHaKim7/lvim_Rust_AI_Setting
 
+# friendly-snippets rust.json경로
+
+- 여기에 잘 추가해 주면 됨
+```
+.local/share/lunarvim/site/pack/lazy/opt/friendly-snippets/snippets/rust/rust.json
+```
+- rust.json 참고
+
+  - https://github.com/YoungHaKim7/rust_vim_setting/blob/main/01_Vim_NeoVim_etc_Rust_settings/snippets_Lunar_NeoVim/rust/rust.json
+
+  - https://github.com/YoungHaKim7/rust_vim_setting/tree/main/01_Vim_NeoVim_etc_Rust_settings/snippets_Lunar_NeoVim
+
+  - rust.json 오리지날 출처(Jeremy Chone짱짱)
+    - 출처 : The Rust Production Coding Blueprints repository is maintained by Jeremy Chone (https://youtube.com/jeremychone).
+      - https://github.com/rust10x/rust10x-vscode
+
+
 <hr>
 
 # 다른 IDE에도 Vim Setting 하기
 
 - https://github.com/YoungHaKim7/rust_vim_setting
+
 
 <hr>
 
