@@ -8,6 +8,9 @@
 - 재밌는 프로젝트 많다. A curated list of Rust code and resources. 
   - https://github.com/rust-unofficial/awesome-rust
 
+- Rust 중국어 학습 튜토리얼/ Book(예문이 많아서 좋다.)
+  - https://github.com/sunface/rust-course
+
 <hr>
 
 # Rust Book Club 러스트 공식북 2021 edition
