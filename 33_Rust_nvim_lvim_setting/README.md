@@ -17,7 +17,11 @@
 
 # My LunarVim Setting
 
-- https://github.com/YoungHaKim7/lvim_Rust_AI_Setting
+- linuxOS간단 세팅
+  - https://github.com/YoungHaKim7/lvim_Rust_AI_Setting
+
+- macOS
+  - https://github.com/YoungHaKim7/lvim-config_gyoung_macOSsetting_TabbyAI
 
 # friendly-snippets rust.json경로
 
