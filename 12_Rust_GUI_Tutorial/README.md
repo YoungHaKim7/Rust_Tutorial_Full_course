@@ -31,7 +31,7 @@ https://google.github.io/comprehensive-rust/exercises/day-3/solutions-morning.ht
   - xilem<a href="https://github.com/linebender/xilem"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
 ![druidstar](https://img.shields.io/github/stars/linebender/xilem.svg)
 
-    - An experimental Rust native UI framework
+    - An experimental Rust native UI framework(Druid꺼 물려 받음 여기로 프로젝트 옮김)xilem 기대된다.
 
     - Rust 용 Data-first UI 디자인 툴킷인 Druid 를 만들었던 사람의 제안 글이네요. 꽤 긴글이라 도입부만 옮겨봅니다. 결과물이 나와봐야 알 것 같아요. Raph Levien은 사실 Druid만으로 말하기에는 너무 부족한 사람인데... (GPL) Ghostscript 메인테이너, Advogato 블로그 커뮤니티, Inconsolata 글꼴, Xi 편집기 등으로 예전부터 유명합니다.
       - https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html
