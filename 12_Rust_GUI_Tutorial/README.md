@@ -58,8 +58,8 @@ https://google.github.io/comprehensive-rust/exercises/day-3/solutions-morning.ht
 
 - windows-rs[![crates.io](https://img.shields.io/crates/v/iced.svg)]![icedstar](https://img.shields.io/github/stars/microsoft/windows-rs.svg)
 
-    -  Rust for Windows
-      - kennykerr.ca/rust-getting-started/ 
+    - Rust for Windows
+      - https://kennykerr.ca/rust-getting-started/
 
     - https://github.com/microsoft/windows-rs
     - This repo is the home of the following crates (and other supporting crates):
