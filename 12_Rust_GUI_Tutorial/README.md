@@ -56,6 +56,26 @@ https://google.github.io/comprehensive-rust/exercises/day-3/solutions-morning.ht
 
     - https://github.com/iced-rs/iced
 
+- windows-rs[![crates.io](https://img.shields.io/crates/v/iced.svg)]![icedstar](https://img.shields.io/github/stars/microsoft/windows-rs.svg)
+
+    -  Rust for Windows
+      - kennykerr.ca/rust-getting-started/ 
+
+    - https://github.com/microsoft/windows-rs
+    - This repo is the home of the following crates (and other supporting crates):
+
+        - windows-sys - Raw bindings for C-style Windows APIs.
+        - windows - Safer bindings including C-style APIs as well as COM and WinRT APIs.
+        - windows-core - Type support for the windows crate.
+        - windows-implement - The implement macro for the windows crate, for implementing COM interfaces.
+        - windows-interface - The interface macro for the windows crate, for declaring COM interfaces.
+        - windows-targets - Import libs for Windows.
+        - windows-version - Windows version information.
+        - windows-metadata - Windows metadata reader.
+        - windows-bindgen - Windows metadata compiler library.
+        - riddle - Windows metadata compiler tool.
+
+
 - relm[![crates.io](https://img.shields.io/crates/v/relm.svg)](https://crates.io/crates/relm)
 ![Crates.io](https://img.shields.io/crates/l/relm)
 ![icedDownloads](https://img.shields.io/crates/d/relm.svg)<a href="https://github.com/antoyo/relm"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
