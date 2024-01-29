@@ -56,7 +56,7 @@ https://google.github.io/comprehensive-rust/exercises/day-3/solutions-morning.ht
 
     - https://github.com/iced-rs/iced
 
-- windows-rs[![crates.io](https://img.shields.io/crates/v/iced.svg)]![icedstar](https://img.shields.io/github/stars/microsoft/windows-rs.svg)
+- windows-rs![icedstar](https://img.shields.io/github/stars/microsoft/windows-rs.svg)
 
     - Rust for Windows
       - https://kennykerr.ca/rust-getting-started/
