@@ -1,3 +1,9 @@
+# 여기에 다시 정리 중
+
+- https://github.com/YoungHaKim7/rust_gui_app
+
+<hr>
+
 # Druid Tutorial: Making a Todo app in Rust GUI
 
 https://youtu.be/YEa2eq4HEU8
