@@ -1,6 +1,8 @@
 # Code review코드 리뷰로 배울게 많다
 
-- https://github.com/raphlinus/raphlinus.github.io/pull/104
+- Good parallel computer
+
+  - https://github.com/raphlinus/raphlinus.github.io/pull/104
 
 <hr>
 
