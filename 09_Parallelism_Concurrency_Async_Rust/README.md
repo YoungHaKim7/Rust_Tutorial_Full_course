@@ -1,3 +1,9 @@
+# Code review코드 리뷰로 배울게 많다
+
+- https://github.com/raphlinus/raphlinus.github.io/pull/104
+
+<hr>
+
 # Rc, Arc 그림, 표로 잘 정리됨.
 
 https://github.com/usagi/rust-memory-container-cs
