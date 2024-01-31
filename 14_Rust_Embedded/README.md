@@ -2,6 +2,13 @@
 
 - 24-01-09 https://blog.rust-embedded.org/embedded-hal-v1/
 
+# Dependencies
+
+![1](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/5b699eb2-413b-4fdd-865e-c35cb755998f)
+
+- 출처 :  Rust Halifax - Rust & Tell #1 | Rust
+  - https://youtu.be/MH-7xnv9CMI?si=Q8LsIHI4K2QvfdJk
+
 <hr>
 
 # Rust Embeded 기초
