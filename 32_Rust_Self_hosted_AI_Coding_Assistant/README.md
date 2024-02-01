@@ -73,6 +73,8 @@ docker run -d --gpus=all -v ollama:/root/.ollama -p 11434:11434 --name ollama ol
 docker exec -it ollama ollama run llama2
 ```
 
+- https://huggingface.co/miqudev/miqu-1-70b
+
 # ollama-rs
 
 - https://github.com/pepperoni21/ollama-rs
