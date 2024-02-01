@@ -1,3 +1,11 @@
+# rust_first_steps
+
+- https://learn.microsoft.com/en-us/training/paths/rust-first-steps/
+
+- https://github.com/microsoft/beginners-series-rust
+
+<hr>
+
 # Microsoft Beginners-series-rust
 
 https://github.com/microsoft/beginners-series-rust
