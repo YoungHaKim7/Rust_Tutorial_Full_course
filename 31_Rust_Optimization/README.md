@@ -1,3 +1,9 @@
+# Rust Benchmarking
+
+- https://bencher.dev/learn/benchmarking/rust/criterion/
+
+<hr>
+
 # Rust Optimization
 
 - Rust Optimization
