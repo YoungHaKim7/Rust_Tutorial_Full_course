@@ -42,9 +42,17 @@
 
 <hr>
 
+# Rust로 Neovide
+- Nvim Config For Fullstack Rust using Neovide For Maximum roductivity
+  - https://github.com/codeitlikemiley/neovide-rust-neovim
+
+<hr>
+
 # 다른 IDE에도 Vim Setting 하기
 
 - https://github.com/YoungHaKim7/rust_vim_setting
+
+
 
 
 <hr>
