@@ -12,7 +12,7 @@
 ```
 
 # My NeoVim Setting
-
+- final version(완성) https://github.com/YoungHaKim7/rust_dev_neovide_nvimsetting
 - https://github.com/YoungHaKim7/nvim_gysetting
 
 # My LunarVim Setting
