@@ -43,6 +43,8 @@
 <hr>
 
 # Rust로 Neovide
+- 내꺼 neivide-rust-neovim에서 약간 수정함(내 스타일)
+  - https://github.com/YoungHaKim7/rust_dev_neovide_nvimsetting
 - Nvim Config For Fullstack Rust using Neovide For Maximum roductivity
   - https://github.com/codeitlikemiley/neovide-rust-neovim
     - ▲ Neovide - Neovim을 위한 크로스플랫폼 GUI (neovide.dev)
