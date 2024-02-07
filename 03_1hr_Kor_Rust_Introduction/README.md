@@ -71,6 +71,8 @@ https://google.github.io/comprehensive-rust/ko/other-resources.html
 
 <hr>
 
+# Rust쓰는 기업들 업데이트 잘됨
+- https://github.com/omarabid/rust-companies
 
 # 러스트를 쓰는 외국 기업들
 
