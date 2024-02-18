@@ -9,8 +9,8 @@ classDiagram
       +Stderr
       +File
       +TcpStream
-      +Vec&lt; u8 &gt;
-      +BufWriter&lt;W&gt;
+      +Vec_u8_
+      +BufWriter_W_
     }
     class Read{
       +Stdin
@@ -19,7 +19,7 @@ classDiagram
     }
     class BufRead{
       +BufReader&lt;R&gt;
-      +Cursor&lt;&[u8]&gt;
+      +Cursor_&[u8]_
       +StdinLock
     }
 ```
@@ -52,4 +52,29 @@ classDiagram
       +Cursor&lt;&[u8]&gt;
       +StdinLock
     }
+```
+
+- Read vs Write
+
+```rs
+Read
+  Stdin
+  File
+  TcpStream
+
+  BufRead
+    BufReader<R>
+    Cursor<&[u8]>
+    StdinLock
+```
+
+```rs
+Write
+  Stdout
+  Stderr
+  File
+  TcpStream
+  Vec<u8>
+  BufWriter<W>
+
 ```
