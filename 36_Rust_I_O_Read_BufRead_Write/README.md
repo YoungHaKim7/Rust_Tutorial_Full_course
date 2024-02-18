@@ -23,3 +23,28 @@ classDiagram
       +StdinLock
     }
 ```
+
+- code
+```code
+classDiagram
+    Read --|> BufRead
+    Write 
+    class Write{
+      +Stdout
+      +Stderr
+      +File
+      +TcpStream
+      +Vec&lt;u8&gt;
+      +BufWriter&lt;W&gt;
+    }
+    class Read{
+      +Stdin
+      +File
+      +TcpStream
+    }
+    class BufRead{
+      +BufReader&lt;R&gt;
+      +Cursor&lt;&[u8]&gt;
+      +StdinLock
+    }
+```
