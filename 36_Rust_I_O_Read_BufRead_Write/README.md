@@ -24,7 +24,9 @@ classDiagram
     }
 ```
 
-- code
+- code(mermaid)
+  - https://mermaid.js.org/
+
 ```code
 classDiagram
     Read --|> BufRead
