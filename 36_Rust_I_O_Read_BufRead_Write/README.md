@@ -23,6 +23,7 @@ classDiagram
       +StdinLock
     }
 ```
+- 출처 : https://product.kyobobook.co.kr/detail/S000200629958
 
 - https://doc.rust-lang.org/stable/std/io/struct.Stdin.html 
 - https://doc.rust-lang.org/stable/std/fs/struct.File.html 
