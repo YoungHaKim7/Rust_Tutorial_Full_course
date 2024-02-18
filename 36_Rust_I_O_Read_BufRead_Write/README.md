@@ -18,7 +18,7 @@ classDiagram
       +TcpStream
     }
     class BufRead{
-      +BufReader&lt;R&gt;
+      +BufReader_R_
       +Cursor_&[u8]_
       +StdinLock
     }
