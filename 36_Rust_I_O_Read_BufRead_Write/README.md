@@ -9,7 +9,7 @@ classDiagram
       +Stderr
       +File
       +TcpStream
-      +Vec&lt;u8&gt;
+      +Vec&lt; u8 &gt;
       +BufWriter&lt;W&gt;
     }
     class Read{
@@ -23,6 +23,9 @@ classDiagram
       +StdinLock
     }
 ```
+
+- https://doc.rust-lang.org/stable/std/io/struct.Stdin.html 
+- https://doc.rust-lang.org/stable/std/fs/struct.File.html 
 
 - code(mermaid)
   - https://mermaid.js.org/
