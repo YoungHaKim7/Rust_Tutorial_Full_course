@@ -12,6 +12,10 @@ https://danielkeep.github.io/tlborm/book/index.html
 
 https://youtu.be/dHv8FhcAl5U
 
+# A Practical Introduction to Derive Macros in Rust| Schrödinger's Watermelon
+https://youtu.be/XY0yR6IPbhw?si=xB4FceorOeHemLvv
+
+<hr<
 
 # Simple Rust Function Macros
 
