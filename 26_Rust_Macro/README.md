@@ -15,11 +15,16 @@ https://youtu.be/dHv8FhcAl5U
 # A Practical Introduction to Derive Macros in Rust| Schrödinger's Watermelon
 https://youtu.be/XY0yR6IPbhw?si=xB4FceorOeHemLvv
 
-<hr<
+<hr>
 
 # Simple Rust Function Macros
 
 https://antoniosbarotsis.github.io/posts/simple_rust_macros/
 
+<hr>
+
 # Crust of Rust: Declarative Macros | Jon Gjengset
 - https://youtu.be/q6paRBbLgNw?si=PyuZgBHyrb2uhiUZ
+
+# Procedural Macros in Rust (part 1) | Jon Gjengset
+- https://youtu.be/geovSK3wMB8?si=SX0m9khHd9WfTeXv
