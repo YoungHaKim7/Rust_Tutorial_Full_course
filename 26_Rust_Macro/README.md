@@ -15,10 +15,6 @@ https://danielkeep.github.io/tlborm/book/index.html
 # A Practical Introduction to Derive Macros in Rust| Schrödinger's Watermelon
 - https://youtu.be/XY0yR6IPbhw?si=xB4FceorOeHemLvv
 
-# Procedural Macros in Rust (part 2) | Jon Gjengset
-- https://youtu.be/KVWHT1TAirU?si=QQkvZmoTT5Y4AyZt
-
-
 <hr>
 
 # Simple Rust Function Macros
@@ -31,4 +27,9 @@ https://antoniosbarotsis.github.io/posts/simple_rust_macros/
 - https://youtu.be/q6paRBbLgNw?si=PyuZgBHyrb2uhiUZ
 
 # Procedural Macros in Rust (part 1) | Jon Gjengset
-- https://youtu.be/geovSK3wMB8?si=SX0m9khHd9WfTeXv
+- Part1
+  - https://youtu.be/geovSK3wMB8?si=SX0m9khHd9WfTeXv
+    - Part2__Procedural Macros in Rust (part 2) | Jon Gjengset
+      - https://youtu.be/KVWHT1TAirU?si=QQkvZmoTT5Y4AyZt
+
+
