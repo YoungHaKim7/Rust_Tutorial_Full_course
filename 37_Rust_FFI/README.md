@@ -3,7 +3,7 @@
 
 <hr>
 
-# Cpp
+# Cpp<img width=55px src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/02580529-b8e2-4aa9-b80e-dd1f56a08491" />
 
 # Rust/C++ Interop Part 1 - Just the Basics | 07 Feb, 2024
 - https://tylerjw.dev/posts/rust-cpp-interop/
