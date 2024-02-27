@@ -34,3 +34,9 @@ https://antoniosbarotsis.github.io/posts/simple_rust_macros/
 
 # rust macros are magic | Tantan | Rust로 게임개발하는 외국유튜버
 - https://youtu.be/ModFC1bhobA?si=xcjUoP0zkZLZnczc
+
+
+<hr>
+
+# Rust's Witchcraft | No Boilerplate
+- https://youtu.be/MWRPYBoCEaY?si=BysJStMZETPhezbJ
