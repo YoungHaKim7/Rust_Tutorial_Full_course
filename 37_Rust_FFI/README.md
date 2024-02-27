@@ -18,6 +18,6 @@
 
 <hr>
 
-# C lang
+# C lang<img width=55px src"https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/1ff1c447-9b46-4775-85e2-66818ff2c318" />
 # Raw bindings to platform APIs for Rust
 - https://github.com/rust-lang/libc
