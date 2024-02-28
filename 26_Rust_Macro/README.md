@@ -40,3 +40,8 @@ https://antoniosbarotsis.github.io/posts/simple_rust_macros/
 
 # Rust's Witchcraft | No Boilerplate
 - https://youtu.be/MWRPYBoCEaY?si=BysJStMZETPhezbJ
+
+<hr>
+
+# Nine Rules for Creating Procedural Macros in Rust - by Carl Kadie - Rust Linz, December 2022 | Rust
+- https://youtu.be/DMLBBZBlKis?si=wp82Mlt7TtCrcdTr
