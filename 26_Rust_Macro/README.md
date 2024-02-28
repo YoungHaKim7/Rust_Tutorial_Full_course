@@ -6,6 +6,10 @@
 
 https://danielkeep.github.io/tlborm/book/index.html
 
+# 9 Rules for Procedural Macros in Rust | Rust공식 유튜브 채널
+- Nine Rules for Creating Procedural Macros in Rust - by Carl Kadie - Rust Linz, December 2022 | Rust
+  - https://youtu.be/DMLBBZBlKis?si=wp82Mlt7TtCrcdTr
+
 <hr>
 
 # A Practical Introduction to Declarative Macros in Rust | Schrödinger's Watermelon
@@ -43,5 +47,4 @@ https://antoniosbarotsis.github.io/posts/simple_rust_macros/
 
 <hr>
 
-# Nine Rules for Creating Procedural Macros in Rust - by Carl Kadie - Rust Linz, December 2022 | Rust
-- https://youtu.be/DMLBBZBlKis?si=wp82Mlt7TtCrcdTr
+
