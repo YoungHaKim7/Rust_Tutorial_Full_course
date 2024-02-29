@@ -2,6 +2,12 @@
   <img width=60px align="space-around" alt="c" src="https://user-images.githubusercontent.com/67513038/218466687-3ac83bee-4621-4e75-9141-39724ec2b37b.png" /> ➛ ➲ ➤  <img alt="rust1" width=65px src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" />
 </p>
 
+<hr>
+
+# A Guide to Porting C/C++ to Rust
+
+- https://locka99.gitbooks.io/a-guide-to-porting-c-to-rust/content/porting-code.html
+
 #  A little Rust with your C
 
 - Using Rust code inside a C or C++ project mostly consists of tw
