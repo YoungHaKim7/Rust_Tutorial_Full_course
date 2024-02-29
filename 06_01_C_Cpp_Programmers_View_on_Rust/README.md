@@ -1,4 +1,6 @@
-<center><p><img width=100px align="space-around" alt="c" src="https://user-images.githubusercontent.com/67513038/218466687-3ac83bee-4621-4e75-9141-39724ec2b37b.png" /></p></center>
+<p aling="center">
+  <img width=60px align="space-around" alt="c" src="https://user-images.githubusercontent.com/67513038/218466687-3ac83bee-4621-4e75-9141-39724ec2b37b.png" /> ->  <img alt="rust1" width=65px src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" />
+</p>
 
 #  A little Rust with your C
 
@@ -110,7 +112,9 @@ https://lib.rs/crates/ropey
 
 <br>
 
-<center><img width=100px src="https://user-images.githubusercontent.com/67513038/218466731-1c232ee4-7fe7-4c73-a201-c129e16959c2.png" /></center>
+<p aling="center">
+  <img width=60px src="https://user-images.githubusercontent.com/67513038/218466731-1c232ee4-7fe7-4c73-a201-c129e16959c2.png" /> ->  <img alt="rust1" width=65px src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" />
+</p>
 
 <hr>
 
@@ -118,9 +122,11 @@ https://lib.rs/crates/ropey
 
 # Rust vs C++
 
-https://github.com/jhartzell42/rust-c-book
+- https://github.com/locka99/cpp-to-rust-book
 
-https://github.com/jhartzell42/rust-c-book/blob/main/src/SUMMARY.md
+- https://github.com/jhartzell42/rust-c-book
+
+  - https://github.com/jhartzell42/rust-c-book/blob/main/src/SUMMARY.md
 
 - Rust: A New Attempt at C++’s Main Goal
 
