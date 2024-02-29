@@ -2,9 +2,13 @@
 - Learn to write Rust procedural macros[Rust Latam conference, Montevideo Uruguay, March 2019]
   - https://github.com/dtolnay/proc-macro-workshop
 
-# Macro
+# Macro eBook
 
-https://danielkeep.github.io/tlborm/book/index.html
+- https://danielkeep.github.io/tlborm/book/index.html
+
+- https://veykril.github.io/tlborm/
+
+  - https://github.com/Veykril/tlborm
 
 # 9 Rules for Procedural Macros in Rust | Rust공식 유튜브 채널
 - Nine Rules for Creating Procedural Macros in Rust - by Carl Kadie - Rust Linz, December 2022 | Rust
