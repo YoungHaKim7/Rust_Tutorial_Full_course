@@ -1,3 +1,9 @@
+# 여기에 다시 정리 중...updating~
+
+https://github.com/YoungHaKim7/rust-snippets_gyoung
+
+<hr>
+
 # 비슷한 이름 있을때 따로 커스텀하게 지정해 주기
 - Fully Qualified Syntax for Disambiguation: Calling Methods with the Same Name
   - https://doc.rust-lang.org/book/ch19-03-advanced-traits.html#fully-qualified-syntax-for-disambiguation-calling-methods-with-the-same-name
