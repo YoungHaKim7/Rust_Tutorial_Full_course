@@ -113,6 +113,15 @@ https://google.github.io/comprehensive-rust/exercises/day-3/solutions-morning.ht
       - Tutorial Video(FLTK Rust)
         - https://youtube.com/playlist?list=PLHqrrowPLkDu9U-uk60sGM-YWLOJFfLoE
 
+<hr>
+
+# 요즘 연습중.blade
+
+-  (Blade)Sharp and simple graphics library
+  - https://github.com/kvark/blade
+
+<img src="https://raw.githubusercontent.com/kvark/blade/main/docs/architecture2.png" />
+
 <br>
 
 <hr>
