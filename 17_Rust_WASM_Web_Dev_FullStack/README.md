@@ -1,3 +1,10 @@
+# Compiling Rust to WASI
+2024-03-18 01:00:00 UTC
+- https://benw.is/posts/compiling-rust-to-wasi
+
+
+<hr>
+
 <p align="center">
 	<img src="https://bytecodealliance.org/images/bytecode-alliance-logo.svg" />
 </p>
