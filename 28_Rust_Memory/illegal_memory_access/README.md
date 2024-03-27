@@ -20,7 +20,7 @@ r = 0x1234
 
 # core::slice::raw
 
-- https://doc.rust-lang.org/stable/core/slice/raw/fn.from_raw_parts.html
+- https://doc.rust-lang.org/stable/core/slice/fn.from_raw_parts.html
 
 ```
 core::slice::raw
