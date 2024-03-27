@@ -89,6 +89,55 @@ https://rust-unofficial.github.io/patterns
 
 <hr>
 
+# Concurunccy vs Parallesm & WASM
+
+- WASM
+  - https://rustwasm.github.io/docs/book/introduction.html
+
+- Concurrency & Parallelism
+  - https://github.com/LukeMathWalker/zero-to-production
+  - Concurrency
+    - https://rust-lang.github.io/async-book/
+    - https://github.com/tokio-rs/tokio
+      - MPSC(multi-producer, single-consumer channel.)
+        - https://tokio.rs/tokio/tutorial/channels 
+    - https://github.com/hyperium/hyper
+    - Async Book(Rust)
+      - https://rust-lang.github.io/async-book/
+
+  - Parallelism
+    - https://github.com/rayon-rs/rayon
+      - MPMC(A blazingly fast multi-producer, multi-consumer channel.)
+        - https://github.com/zesterer/flume
+
+
+
+<hr>
+
+# 중국 사람이 정리한 Rust eBook 번역해서 볼만함[🔝]
+
+- https://github.com/sunface/rust-course
+
+- 이거 eBook 장난아니게 버젼별 정리까지 최고
+
+- https://course.rs/about-book.html
+
+- Rust by practice
+
+- 영문 버전 중국어 보다 보기 편하다. ^^;
+
+- https://practice.rs/why-exercise.html
+
+- https://github.com/sunface/rust-by-practice
+
+- Cook Book
+  - https://rusty.rs/about.html
+
+- 러스트 최적화 중국인이 정리함
+  - https://course.rs/profiling/memory/intro.html
+
+<hr>
+
 # Google 4일 완성 (Comprehensive-rust
 
 - Eng. version. https://google.github.io/comprehensive-rust/
