@@ -187,6 +187,25 @@ user@host:~$ xxd-rs dump -f Hex Cargo.toml
     - (내가공부하려고 정리)Stack & Heap 메모리개념잡기_clang-g-fsanitize=address_test01.c__LLDB_Debug디버그
       - https://youtu.be/OwQxo4sGVWo?si=0cj8CnTp6JWlII9q
 
+<hr>
+
+# Stack buffer overflow
+- https://en.wikipedia.org/wiki/Stack_buffer_overflow
+
+# stackOverFlowError란?
+- 지정한 스택 메모리 사이즈보다 더 많은 스택 메모리를 사용하게 되어 에러가 발생하는 상황을 일컫는다.
+  - 즉 스택 포인터가 스택의 경계를 넘어갈때 발생한다.
+    - StackOverflowError 발생 종류
+      - ① 재귀(Recursive)함수
+      - ② 상호 참조
+      - ③ 본인 참조
+      - https://velog.io/@devnoong/JAVA-Stack-%EA%B3%BC-Heap%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C#outofmemoryerror--java-heap-space-%EB%9E%80
+        
+# Heap Overflow
+
+https://en.wikipedia.org/wiki/Heap_overflow
+
+<hr>
 
 - block starting symbol(BSS)
 https://en.wikipedia.org/wiki/.bss
