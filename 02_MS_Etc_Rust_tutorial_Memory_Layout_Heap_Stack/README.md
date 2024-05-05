@@ -1,3 +1,8 @@
+# link 
+- [메모리개념 표로 정리](https://github.com/YoungHaKim7/Rust_Tutorial_Full_course/blob/main/28_Rust_Memory/README.md#link)
+
+<hr>
+
 # Rust 한글 & Eng 설명서eBook
 
 - 한글 https://rinthel.github.io/rust-lang-book-ko/
