@@ -189,10 +189,10 @@ user@host:~$ xxd-rs dump -f Hex Cargo.toml
 
 <hr>
 
-# Stack buffer overflow
+# Stack buffer overflow[[🔝]](#link)
 - https://en.wikipedia.org/wiki/Stack_buffer_overflow
 
-# stackOverFlowError란?
+# stackOverFlowError란?[[🔝]](#link)
 - 지정한 스택 메모리 사이즈보다 더 많은 스택 메모리를 사용하게 되어 에러가 발생하는 상황을 일컫는다.
   - 즉 스택 포인터가 스택의 경계를 넘어갈때 발생한다.
     - StackOverflowError 발생 종류
@@ -201,9 +201,32 @@ user@host:~$ xxd-rs dump -f Hex Cargo.toml
       - ③ 본인 참조
       - https://velog.io/@devnoong/JAVA-Stack-%EA%B3%BC-Heap%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C#outofmemoryerror--java-heap-space-%EB%9E%80
         
-# Heap Overflow
+# Heap Overflow[[🔝]](#link)
 
 https://en.wikipedia.org/wiki/Heap_overflow
+
+
+# Stack vs Heap의 장점[[🔝]](#link)
+
+- Stack
+  - 매우 빠른 액세스
+  - 변수를 명시적으로 할당 해제할 필요가 없다
+  - 공간은 CPU에 의해 효율적으로 관리되고 메모리는 단편화되지 않는다.
+  - 지역 변수만 해당된다
+  - 스택 크기 제한(OS에 따라 다르다)
+  - 변수의 크기를 조정할 수 없다
+
+<hr>
+
+- Heap
+  - 변수는 전역적으로 액세스 할 수 있다.
+  - 메모리 크기 제한이 없다
+  - (상대적으로) 느린 액세스
+  - 효율적인 공간 사용을 보장하지 못하면 메모리 블록이 할당된 후 시간이 지남에 따라 메모리가 조각화 되어 해제될 수 있다.
+  - 메모리를 관리해야 한다 (변수를 할당하고 해제하는 책임이 있다)
+  - 변수는 자바 new를 사용
+
+
 
 <hr>
 
