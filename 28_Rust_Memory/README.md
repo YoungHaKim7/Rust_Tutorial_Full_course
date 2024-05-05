@@ -131,3 +131,47 @@ user@host:~$ xxd-rs dump -f Hex Cargo.toml
 000000D0: 6865 782D 6475 6D70 225D 0A6C 6963 656E  hex-dump"].licen
 000000E0: 7365 2D66 696C 6520 3D20 224C 4943 454E  se-file = "LICEN
 ...
+
+```
+
+# Memory Basic
+
+<br>
+
+- stack vs heap
+
+<table border="1">
+    <tr>
+    <td colspan="6" align="center">Stack vs Heap</td>
+    </tr>
+    <tr align="center">
+        <td>컴파일 시간 결정<br>Stack is allocated at runtime;<br>layout of each stack frame,<br>however, is decided at compile time,<br>except for variable-size<br>arrays.</td>
+        <td>↓↓↓↓↓↓</td>
+        <td>Stack</td>
+        <td>High memory</td>
+        <td>지역변수,  매개 변수</td>
+        <td>Local Varialble, <br>Parameter</td>
+    </tr>
+    <tr align="center">
+        <td colspan="6"> ↓↓↓↓↓↓  or  ↑↑↑↑↑↑↑  Free Memory</td>
+    </tr>
+    <tr align="center">
+        <td rowspan="4">Runtime 결정<br> A heap is a general term used for any memory<br> that is allocated dynamically and randomly;<br> i.e. out of order.<br>The memory is typically allocated by the OS.<br>with the application calling API functions<br>to do this allocation. <br>There is a fair bit of<br> overhead required in managing<br>dynamically allocated memory, which is<br>usually handled by the runtime code of <br> the programming language or <br>environment used.</td>
+        <td rowspan="4">↑↑↑↑↑↑↑</td>
+        <td rowspan="4">Heap</td>
+        <td rowspan="4">Low Memory</td>
+        <td colspan="2">Heap</td>
+    </tr>
+    <tr align="center">
+        <td>BSS<br>초기화 하지 않은<br>전역,  지역 변수</td>
+        <td>Uninitialized<br>discharge and local<br>variables.</td>
+    </tr>
+    <tr align="center">
+        <td>Data<br>전역변수,정적 변수</td>
+        <td>Global Variable, Static Variable</td>
+    </tr>
+    <tr align="center">
+        <td>Code<br>실행할 프로그램의 코드</td>
+        <td>The Code of the program to be executed.</td>
+    </tr>
+</table>

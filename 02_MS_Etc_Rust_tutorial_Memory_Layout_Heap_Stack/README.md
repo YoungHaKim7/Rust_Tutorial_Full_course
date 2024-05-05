@@ -205,3 +205,5 @@ https://youtube.com/playlist?list=PL7r-PXl6ZPcCIOFaL7nVHXZvBmHNhrh_Q&si=XXjKUidw
 # Rust (  Rc가 Gc 이건 좀 충격적이네 ㅋ )
 
 https://stackoverflow.com/questions/27662120/how-are-rusts-arc-and-rc-types-different-from-having-garbage-collection
+
+
