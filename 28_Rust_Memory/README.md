@@ -1,3 +1,9 @@
+# link
+
+- [Stack&Heap메모리 개념잡기](#memory-basic)
+
+<hr>
+
 # valgrind 사용법
 
 - https://valgrind.org/
@@ -134,7 +140,7 @@ user@host:~$ xxd-rs dump -f Hex Cargo.toml
 
 ```
 
-# Memory Basic
+# Memory Basic[[🔝]](#link)
 
 <br>
 
