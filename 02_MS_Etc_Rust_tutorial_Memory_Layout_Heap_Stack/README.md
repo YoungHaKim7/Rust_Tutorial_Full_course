@@ -1,5 +1,6 @@
 # link 
 - [메모리개념 표로 정리](https://github.com/YoungHaKim7/Rust_Tutorial_Full_course/blob/main/28_Rust_Memory/README.md#link)
+  - [그림으로 이해하는 stack vs heap](#역시-stack--heap-이해는-어셈블리가-진리)
 
 <hr>
 
@@ -52,7 +53,7 @@ Note: Translations are community-maintained.
   -  https://www.shuttle.rs/blog/2023/12/06/using-axum-rust
 
 
-# Microsoft Beginners-series-rust
+# Microsoft Beginners-series-rust[[🔝]](#link)
 
 https://github.com/microsoft/beginners-series-rust
 
@@ -60,7 +61,7 @@ https://github.com/microsoft/beginners-series-rust
 
 <hr>
 
-# Microsoft Eng. Version Rust Tutorials
+# Microsoft Eng. Version Rust Tutorials[[🔝]](#link)
 
 https://learn.microsoft.com/en-us/training/paths/rust-first-steps/
 
@@ -70,7 +71,7 @@ https://learn.microsoft.com/ko-kr/training/modules/rust-introduction/
 
 <hr>
 
-# Rust 심화 과정
+# Rust 심화 과정[[🔝]](#link)
 https://doc.rust-lang.org/reference/introduction.html
 
 # Rust Standard Library Reference
@@ -81,7 +82,7 @@ https://doc.rust-lang.org/reference/introduction.html
 
 https://doc.rust-lang.org/std
 
-# Rust API Guidelines
+# Rust API Guidelines[[🔝]](#link)
 
 - This is a set of recommendations on how to design and present APIs for the Rust programming language. They are authored largely by the Rust library team, based on experiences building the Rust standard library and other crates in the Rust ecosystem.
 
@@ -94,7 +95,7 @@ https://rust-unofficial.github.io/patterns
 
 <hr>
 
-# Concurunccy vs Parallesm & WASM
+# Concurunccy vs Parallesm & WASM[[🔝]](#link)
 
 - WASM
   - https://rustwasm.github.io/docs/book/introduction.html
@@ -143,7 +144,7 @@ https://rust-unofficial.github.io/patterns
 
 <hr>
 
-# Google 4일 완성 (Comprehensive-rust
+# Google 4일 완성 (Comprehensive-rust[[🔝]](#link)
 
 - Eng. version. https://google.github.io/comprehensive-rust/
 
@@ -152,17 +153,17 @@ https://rust-unofficial.github.io/patterns
   - 5일 완성 다른 버젼(Teaching Rust in 5 days)
     - https://mo8it.com/blog/teaching-rust/
 
-# Learn Rust Programming - Complete Course 🦀 | freeCodeCapm.org
+# Learn Rust Programming - Complete Course 🦀 | freeCodeCapm.org[[🔝]](#link)
 
 https://youtu.be/BpPEoZW5IiY
 
 <hr>
 
-# Effective Rust
+# Effective Rust[[🔝]](#link)
 
 https://www.lurklurk.org/effective-rust/
 
-# Everything Rust Programming - Tutorials, Courses, Tips, Examples | Jeremy Chone
+# Everything Rust Programming - Tutorials, Courses, Tips, Examples | Jeremy Chone[[🔝]](#link)
 
 https://youtube.com/playlist?list=PL7r-PXl6ZPcCIOFaL7nVHXZvBmHNhrh_Q&si=XXjKUidw6Y--AT_s
 
@@ -170,7 +171,7 @@ https://youtube.com/playlist?list=PL7r-PXl6ZPcCIOFaL7nVHXZvBmHNhrh_Q&si=XXjKUidw
 
 <hr>
 
-# stack vs heap  & xxd 이해하기
+# stack vs heap  & xxd 이해하기[[🔝]](#link)
 
 - stack&heap그림으로 https://www.linux.com/training-tutorials/stack-vs-heap-whats-difference-and-why-should-i-care/
   - MIT(설명한 러스트 역시 자세하네 굿💕👍
@@ -183,7 +184,7 @@ https://youtube.com/playlist?list=PL7r-PXl6ZPcCIOFaL7nVHXZvBmHNhrh_Q&si=XXjKUidw
 - xxd https://linux.die.net/man/1/xxd
   - https://twpower.github.io/122-xxd-command-usage
 
-# 역시 stack & heap 이해는 어셈블리가 진리.
+# 역시 stack & heap 이해는 어셈블리가 진리.[[🔝]](#link)
 
 - x86-64 Assembly Language Programming with Ubuntu
   - http://www.egr.unlv.edu/~ed/assembly64.pdf
