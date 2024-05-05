@@ -175,3 +175,39 @@ user@host:~$ xxd-rs dump -f Hex Cargo.toml
         <td>The Code of the program to be executed.</td>
     </tr>
 </table>
+
+- File Size와 관계
+  - Text, data and bus: Code and Data Size Explained
+    - (내가공부하려고 정리)Stack & Heap 메모리개념잡기_clang-g-fsanitize=address_test01.c__LLDB_Debug디버그
+      - https://youtu.be/OwQxo4sGVWo?si=0cj8CnTp6JWlII9q
+
+
+- block starting symbol(BSS)
+https://en.wikipedia.org/wiki/.bss
+
+
+- Memory Management Strategies-Let's Get Rusty
+https://www.youtube.com/watch?v=GUZ_2gGWuPo
+
+- Is the stack memory allocated at runtime or compile time?
+https://stackoverflow.com/questions/10822176/is-the-stack-memory-allocated-at-runtime-or-compile-time#:~:text=Stack%20is%20allocated%20at%20runtime,except%20for%20variable%2Dsize%20arrays.&text=In%20addition%20to%20the%20layout,decided%20before%20the%20program%20runs.
+
+
+- Stack vs Heap Memory Allocation
+https://www.geeksforgeeks.org/stack-vs-heap-memory-allocation/
+
+
+- What and where are the stack and heap?
+https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap#:~:text=A%20heap%20is%20a%20general,functions%20to%20do%20this%20allocation.
+
+
+- Text, data and bus: Code and Data Size Explained
+https://mcuoneclipse.com/2013/04/14/text-data-and-bss-code-and-data-size-explained/
+
+
+- Heap overflow: Vulnerability and heap internals explained
+https://resources.infosecinstitute.com/topic/heap-overflow-vulnerability-and-heap-internals-explained/
+
+
+- LLDB😍]Debugging😍 C/C++ with LLDB 명령어총정리~😍Tutorial&LLDB 홈페이지
+https://economiceco.tistory.com/12193
