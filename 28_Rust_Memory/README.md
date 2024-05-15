@@ -172,7 +172,7 @@ user@host:~$ xxd-rs dump -f Hex Cargo.toml
         <td colspan="2">Heap</td>
     </tr>
     <tr align="center">
-        <td>BSS<br>초기화 하지 않은<br>전역,  지역 변수</td>
+        <td>BSS<br>초기화 하지 않은<br>전역,  지역 변수(폐기된)</td>
         <td>Uninitialized<br>discharge and local<br>variables.</td>
     </tr>
     <tr align="center">
