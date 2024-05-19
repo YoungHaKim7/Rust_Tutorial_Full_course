@@ -17,6 +17,17 @@
 - Rust 중국어 학습 튜토리얼/ Book(예문이 많아서 좋다.)
   - https://github.com/sunface/rust-course
 
+- Zero to Production저자가 정리한거 굿
+  - GN⁺: Rust 학습을 위한 100가지 연습 문제 (rust-exercises.com)
+18P by neo 240519 | favorite |
+    - Rust의 핵심 개념을 한번에 하나씩 실습을 통해 학습하는 방식으로 구성
+문법, 타입 시스템, 표준 라이브러리 및 생태계를 배울 수 있음
+Rust에 대한 사전 지식은 필요하지 않지만, 다른 프로그래밍 언어에 대한 기본 지식은 필요함
+시스템 프로그래밍이나 메모리 관리에 대한 사전 지식도 필요하지 않음
+처음부터 시작하여 작은 단계로 Rust 지식을 쌓아나갈 수 있음
+과정이 끝나면 약 100개의 연습 문제를 해결하여 소규모에서 중규모의 Rust 프로젝트를 다룰 수 있는 자신감을 가질 수 있음
+    - https://news.hada.io/topic?id=14872
+
 <hr>
 
 # Rust Book Club 러스트 공식북 2021 edition
