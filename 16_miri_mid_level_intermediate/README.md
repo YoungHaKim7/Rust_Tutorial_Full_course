@@ -1,3 +1,8 @@
+# Etc..
+- https://github.com/YoungHaKim7/Rust_Tutorial_Full_course/tree/main/23_Rust_LLVM_IR
+
+<hr>
+
 # Miri는 러스트를 
 - For example, the Rust Project is continuing to develop tools like Miri [8] to allow the checking of unsafe Rust code.
   - 예를 들어, Rust Project는 안전하지 않은 Rust 코드를 확인할 수 있도록 Miri[8]과 같은 도구를 계속 개발하고 있습니다.
