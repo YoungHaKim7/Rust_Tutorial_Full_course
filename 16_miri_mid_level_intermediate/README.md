@@ -48,6 +48,36 @@ rustup +nightly component add miri
 
 ```
 
+# Emit HIR & Mir
+
+`$ cargo rustc -- -Zunpretty=hir`
+Emit MIR
+
+`$ cargo rustc -- -Zunpretty=mir`
+`$ cargo rustc -- --emit mir=testrust.mir`
+`cargo rustc -- --emit dep-info=testrust.depinfo`
+
+`cargo rustc -- --emit dep-info=testrust.depinfo`
+
+`cargo rustc -- --emit help`
+
+```
+cargo rustc -- --emit help
+   Compiling testrust01 v0.1.0 (D:\young_linux\11111\testrust01)
+error: unknown emission type: `help` - expected one of:
+
+`llvm-bc`,
+`asm`,
+`llvm-ir`,
+ `mir`,
+`obj`,
+`metadata`,
+`link`,
+`dep-info`
+```
+
+<hr>
+
 # Scientific papers employing Miri
 
 - <a href="https://plv.mpi-sws.org/rustbelt/stacked-borrows/">Stacked Borrows: An Aliasing Model for Rust</a>
