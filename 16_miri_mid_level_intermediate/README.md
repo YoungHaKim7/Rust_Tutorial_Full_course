@@ -51,15 +51,16 @@ rustup +nightly component add miri
 # Emit HIR & Mir
 
 `$ cargo rustc -- -Zunpretty=hir`
-Emit MIR
 
-`$ cargo rustc -- -Zunpretty=mir`
-`$ cargo rustc -- --emit mir=testrust.mir`
-`cargo rustc -- --emit dep-info=testrust.depinfo`
+- Emit MIR
 
-`cargo rustc -- --emit dep-info=testrust.depinfo`
+- `$ cargo rustc -- -Zunpretty=mir`
+- `$ cargo rustc -- --emit mir=testrust.mir`
+- `cargo rustc -- --emit dep-info=testrust.depinfo`
 
-`cargo rustc -- --emit help`
+- `cargo rustc -- --emit dep-info=testrust.depinfo`
+
+- `cargo rustc -- --emit help`
 
 ```
 cargo rustc -- --emit help
