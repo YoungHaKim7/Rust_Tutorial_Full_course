@@ -1,3 +1,8 @@
+# 리눅스 커널 개발 등등) 을 러스트로 하는 github
+- https://github.com/Rust-for-Linux
+
+<hr>
+
 # C언어로 Rust 이해하기 
 ```
 xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix
