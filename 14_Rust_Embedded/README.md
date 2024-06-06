@@ -1,3 +1,9 @@
+# rust-raspberrypi-OS-tutorials
+- 📚 Learn to write an embedded OS in Rust 🦀 
+  - https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
+
+<hr>
+
 # Embeded 최신 뉴스
 
 - 24-01-09 https://blog.rust-embedded.org/embedded-hal-v1/
