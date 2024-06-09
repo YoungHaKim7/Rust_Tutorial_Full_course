@@ -1,0 +1,6 @@
+[package]
+name = "a01_size_of_val"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
