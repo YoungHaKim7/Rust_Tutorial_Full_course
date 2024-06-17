@@ -2,6 +2,32 @@
 - https://github.com/godzie44/BugStalker
   - 러스트로 만든 디버깅 도구 굿 굿
 
+- BugStalker 0.2.0: debugger for rust programs
+  - https://www.reddit.com/r/rust/comments/1d6d3be/bugstalker_020_debugger_for_rust_programs/
+- Hi there, after 2 month from first release I made a new big release of the debugger. This was a lot of features and fixes. Some of the features was inspired by feature requests from previous post.
+
+- Some interesting features:
+
+- watchpoints (data breakpoints)
+
+- advanced interaction with collections like hashmaps or hashsets (ex. `var my_hash_map[{foo: "foo", bar: 1}]`)
+
+- configurable key bindings for TUI
+
+theme switching
+
+You can see a full list of changes at the release page:
+
+https://github.com/godzie44/BugStalker/releases/tag/v0.2.0
+
+For a complete list of features, documentation, animated demos and other information, please, visit a project github:
+
+https://github.com/godzie44/BugStalker
+
+As always, if you have ideas, comments or a desire to help with code, I will be glad to accept them.
+
+In the next releases I plan to focus on support for async debugging and integration with code editors like VSCode.
+
 <hr>
 
 # Visual Studio로 디버깅 하기
