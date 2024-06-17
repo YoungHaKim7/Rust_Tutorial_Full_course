@@ -1,3 +1,9 @@
+# 러스트 디버깅 굿 Rust debugger for Linux x86-64 
+- https://github.com/godzie44/BugStalker
+  - 러스트로 만든 디버깅 도구 굿 굿
+
+<hr>
+
 # Visual Studio로 디버깅 하기
 
 - https://yiunsr.tistory.com/m/860
