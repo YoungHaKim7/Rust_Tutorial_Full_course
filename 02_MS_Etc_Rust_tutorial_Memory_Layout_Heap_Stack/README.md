@@ -209,7 +209,7 @@ https://youtube.com/playlist?list=PL7r-PXl6ZPcCIOFaL7nVHXZvBmHNhrh_Q&si=XXjKUidw
 
 
  
-# C++ 로 stack & heap 개념잡기(int const atomic)
+# C++ 로 stack & heap 개념잡기(int const atomic)[[🔝]](#link)
 - C++ 예제코드 & LIFO LILO으로 stack&heap 이해하기
   - https://cboard.cprogramming.com/c-programming/13203-what-stack-heap-queue.html
 
@@ -219,8 +219,11 @@ https://youtube.com/playlist?list=PL7r-PXl6ZPcCIOFaL7nVHXZvBmHNhrh_Q&si=XXjKUidw
 
 <hr>
 
-# Rust (  Rc가 Gc 이건 좀 충격적이네 ㅋ )
+# Rust (  Rc가 Gc 이건 좀 충격적이네 ㅋ )[[🔝]](#link)
 
 https://stackoverflow.com/questions/27662120/how-are-rusts-arc-and-rc-types-different-from-having-garbage-collection
 
+
+# 모나드(Monad)는 사실 쉽습니다. - 함수형 프로그래밍 끝판왕 깨기 | 얄팍한 코딩사전[[🔝]](#link)
+- https://youtu.be/_k7102uGOco?si=_amFANf_9XlFOWjT
 
