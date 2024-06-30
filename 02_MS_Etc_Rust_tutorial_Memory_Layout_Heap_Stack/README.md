@@ -2,6 +2,8 @@
 - [메모리개념 표로 정리](https://github.com/YoungHaKim7/Rust_Tutorial_Full_course/blob/main/28_Rust_Memory/README.md#link)
   - [그림으로 이해하는 stack vs heap](#역시-stack--heap-이해는-어셈블리가-진리)
 
+- [모나드monad는-사실-쉽습니다---함수형-프로그래밍-끝판왕-깨기--얄팍한-코딩사전](#모나드monad는-사실-쉽습니다---함수형-프로그래밍-끝판왕-깨기--얄팍한-코딩사전)
+
 <hr>
 
 # Rust 한글 & Eng 설명서eBook
