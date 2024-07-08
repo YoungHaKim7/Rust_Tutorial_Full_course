@@ -6,6 +6,8 @@ https://youtu.be/c_F1o_so2MQ?si=_zAuvfUi1hr7HSLm
 
 # 하스켈 개념으로 이해하기
 
+- 하스켈 여기에 정리중..
+  - https://github.com/YoungHaKim7/Haskell_Lang
 
 # Try Haskell 온라인에서 간단한 코드 실행 가능
 
