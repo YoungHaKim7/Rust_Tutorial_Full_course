@@ -1,4 +1,4 @@
-# 리눅스 커널 개발 등등) 을 러스트로 하는 github
+# 리눅스OS 커널 개발 등등) 을 러스트로 하는 github
 - https://github.com/Rust-for-Linux
 
 # C언어 커널 코딩하기
@@ -7,7 +7,7 @@
 
 - 코드 https://github.com/torvalds/linux/blob/master/kernel/sched/core.c
 
-# C언어로 만든 리눅스 이해하기
+# C언어로 만든 리눅스OS 이해하기
 - https://github.com/torvalds/linux
 
 <hr>
