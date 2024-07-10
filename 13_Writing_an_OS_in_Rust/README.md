@@ -1,6 +1,15 @@
 # 리눅스 커널 개발 등등) 을 러스트로 하는 github
 - https://github.com/Rust-for-Linux
 
+# C언어 커널 코딩하기
+- 리눅스 커널 코딩 12hr짜리(C언어로 커널만들기) (리눅스는 무료로 해줍니다 불면 치료 | 구석기 과학자)
+  - https://youtu.be/Z9KPlhTavKQ?si=L2em0PudfrvB1RhB
+
+- 코드 https://github.com/torvalds/linux/blob/master/kernel/sched/core.c
+
+# C언어로 만든 리눅스 이해하기
+- https://github.com/torvalds/linux
+
 <hr>
 
 # C언어로 Rust 이해하기 
@@ -17,6 +26,8 @@ but is implemented for a modern RISC-V multiprocessor using ANSI C.
       - https://youtu.be/ZE9OODanrDA?si=cjbcQi22D7ewVgM1
     - Virtual Console and printf() //Source Dive// 003 | Low Byte Productions
       - https://youtu.be/uNp4DElDQyY?si=EWGaYvbjxbYZcVEd
+
+<hr>
 
 # rustc (Command-Line 좋네 -C -A이렇거 다양하게 설명해줌)
 
