@@ -1,5 +1,8 @@
 # 리눅스OS 커널 개발 등등) 을 러스트로 하는 github
 - https://github.com/Rust-for-Linux
+  - https://rust-for-linux.com/
+
+<hr>
 
 # C언어 커널 코딩하기
 - 리눅스 커널 코딩 12hr짜리(C언어로 커널만들기) (리눅스는 무료로 해줍니다 불면 치료 | 구석기 과학자)
