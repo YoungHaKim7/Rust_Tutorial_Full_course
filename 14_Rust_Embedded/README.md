@@ -50,7 +50,7 @@
 
 <hr>
 
-# 러스트 개발자 지인 분의 BillMock Firmware
+# 러스트 한국 개발자 BillMock Firmware
 
 - BillMock firmware source code written in rust
 
