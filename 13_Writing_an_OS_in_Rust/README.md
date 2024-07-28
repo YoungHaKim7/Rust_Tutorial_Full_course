@@ -1,3 +1,11 @@
+# Rust OS 개발일지1 | Layfort·2024년 1월 9일
+- https://velog.io/@hamasoon/Rust-OS-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80
+
+# Rust OS 개발일지2 | Layfort·2024년 1월 11일
+- https://velog.io/@hamasoon/Rust-OS-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%802
+
+<hr>
+
 # 리눅스OS 커널 개발 등등) 을 러스트로 하는 github
 - https://github.com/Rust-for-Linux
   - https://rust-for-linux.com/
