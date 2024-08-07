@@ -4,6 +4,14 @@
 
 - 출처 : https://blog.rust-lang.org/2016/04/19/MIR.html
 
+<hr>
+
+![Screenshot 2023-12-30 at 1 41 01 AM](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/871b7ae5-106f-49cf-9c98-ea9e41da32c7)
+![Screenshot 2023-12-30 at 1 40 22 AM](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/1c352795-bd1c-41b6-ab4e-aeb69973da7d)
+
+- Rust 1.74.0: All 45 changes in 19 minutes! | Nathan Stocks(6min 36sec)
+  - https://youtu.be/MOzuShpnUm8?si=GArUM-7CqH6TVbeD
+
 <br>
 
 - src/main.rs
@@ -397,17 +405,6 @@ error: unknown emission type: `help` - expected one of:
   - https://github.com/Microsoft/microsoft-pdb/
     - To actually dump the output of a file, just use this:
        - https://github.com/Microsoft/microsoft-pdb/blob/master/cvdump/cvdump.exe
-
-
-<hr>
-
-![Screenshot 2023-12-30 at 1 41 01 AM](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/871b7ae5-106f-49cf-9c98-ea9e41da32c7)
-![Screenshot 2023-12-30 at 1 40 22 AM](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/1c352795-bd1c-41b6-ab4e-aeb69973da7d)
-
-
-- Rust 1.74.0: All 45 changes in 19 minutes! | Nathan Stocks(6min 36sec)
-  - https://youtu.be/MOzuShpnUm8?si=GArUM-7CqH6TVbeD
-
 
 <hr>
 
