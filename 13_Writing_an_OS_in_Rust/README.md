@@ -38,6 +38,9 @@ but is implemented for a modern RISC-V multiprocessor using ANSI C.
     - Virtual Console and printf() //Source Dive// 003 | Low Byte Productions
       - https://youtu.be/uNp4DElDQyY?si=EWGaYvbjxbYZcVEd
 
+# Operating Systems Course for Beginners | freeCodeCamp.org
+- https://youtu.be/yK1uBHPdp30?si=aGUK8RRxTdXu1A-9
+
 <hr>
 
 # rustc (Command-Line 좋네 -C -A이렇거 다양하게 설명해줌)
