@@ -108,6 +108,10 @@ https://google.github.io/comprehensive-rust/ko/other-resources.html
   - Compiling and running the Servo web browser engine | timClicks
     - https://www.youtube.com/live/PyfY82-NDCM?si=ffDEYjBouv8tcPKa
 
+# C# 컴파일러 러스트로 교체중 거의 완성됨 95%(240822)
+- https://www.reddit.com/r/rust/comments/1ey1olo/rust_to_net_compiler_now_passing_9502_of_unit/
+
+
 <hr>
 
 # Rust 존경받는 언어 1위
