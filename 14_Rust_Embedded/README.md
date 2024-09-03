@@ -12,6 +12,7 @@
 - Rust Embedded 공식 채널
   - [Rust Embedded(러스트 Embedded모아보기)Enabling usage of Rust on Embedded Platforms (Embedded Linux / RTOS / Bare Metal)](#rust-embedded러스트-embedded모아보기)
   - [러스트 홈페이지 Embedded안내 화면](#rust-공식채널)
+  - [https://github.com/rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust)
 
 - Rust Embedded Tutorial
   - [From Zero to Async in Embedded Rust | The Rusty Bits](#from-zero-to-async-in-embedded-rust--the-rusty-bits)
