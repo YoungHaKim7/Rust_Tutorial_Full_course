@@ -1,14 +1,23 @@
-# rust-raspberrypi-OS-tutorials
+# From Zero to Async in Embedded Rust | The Rusty Bits[|🔝|](#link)
+- https://youtu.be/wni5h5vIPhU?si=wxAhuE3DcKrs1Lta
+
+
+<hr>
+
+# rust-raspberrypi-OS-tutorials[|🔝|](#link)
 - 📚 Learn to write an embedded OS in Rust 🦀 
   - https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
 
 <hr>
 
-# Embeded 최신 뉴스
+# Embeded 최신 뉴스 & Embedded 관련 정보가 많음(뉴스 체크news)[|🔝|](#link)
 
-- 24-01-09 https://blog.rust-embedded.org/embedded-hal-v1/
+- 24-01-09
+  - https://blog.rust-embedded.org/embedded-hal-v1/
 
-# Dependencies
+- https://www.embedded.com/
+
+# Dependencies[|🔝|](#link)
 
 ![1](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/5b699eb2-413b-4fdd-865e-c35cb755998f)
 
@@ -17,7 +26,7 @@
 
 <hr>
 
-# Rust Embeded 기초
+# Rust Embeded 기초[|🔝|](#link)
 
 - probe-rs-cli  보내고
   - https://github.com/probe-rs/probe-rs
@@ -31,7 +40,7 @@
 
 <hr>
 
-# microcontrollers 
+# microcontrollers[|🔝|](#link)
 - Tock
   - A secure embedded operating system for microcontrollers
     - about
@@ -42,7 +51,7 @@
 
 <hr>
 
-# GNAT Pro for Rust: 임베디드를 위한 Rust 개발환경 (adacore.com)
+# GNAT Pro for Rust: 임베디드를 위한 Rust 개발환경 (adacore.com)[|🔝|](#link)
 
 - https://news.hada.io/topic?id=10870&utm_source=discord&utm_medium=bot&utm_campaign=1480
 
@@ -50,7 +59,7 @@
 
 <hr>
 
-# 러스트 한국 개발자 BillMock Firmware
+# 러스트 한국 개발자 BillMock Firmware[|🔝|](#link)
 
 - BillMock firmware source code written in rust
 
@@ -62,41 +71,41 @@ https://billmock.gpark.biz/overview.html
 
 <hr>
 
-# Modern embedded framework, using Rust and async.
+# Modern embedded framework, using Rust and async.[|🔝|](#link)
 
 - https://github.com/embassy-rs/embassy
 
   - https://embassy.dev/
 
-# Embedded DB
+# Embedded DB[|🔝|](#link)
 
 - https://github.com/cberner/redb
   - https://www.redb.org/
 
 <hr>
 
-# Embeddable Rust
+# Embeddable Rust[|🔝|](#link)
 
 https://www.electronicdesign.com/technologies/embedded/software/video/21263235/electronic-design-embeddable-rust
 
-# Rust-embedded eBook
+# Rust-embedded eBook[|🔝|](#link)
 
 https://docs.rust-embedded.org/book/intro/index.html
 
-# Rust Zürisee Live Stream 2023-07-03
+# Rust Zürisee Live Stream 2023-07-03[|🔝|](#link)
 - Topics:  https://www.youtube.com/live/1sAEU32aGyA?feature=share
   - * Rust in the Kernel
   - * IDE level configuration
 
 <hr>
 
-# Rust 공식채널
+# Rust 공식채널[|🔝|](#link)
 
 https://www.rust-lang.org/what/embedded
 
 https://doc.rust-lang.org/stable/embedded-book/intro/index.html
 
-# Embedded GUI Rust 
+# Embedded GUI Rust[|🔝|](#link)
 
 - Slint: Are we GUI ye?
 
@@ -107,7 +116,7 @@ https://doc.rust-lang.org/stable/embedded-book/intro/index.html
   - https://github.com/slint-ui/slint
 
 
-# Appendix A: Glossary
+# Appendix A: Glossary[|🔝|](#link)
 
 https://doc.rust-lang.org/stable/embedded-book/appendix/glossary.html
 
@@ -157,7 +166,7 @@ https://doc.rust-lang.org/stable/embedded-book/appendix/glossary.html
   - Universal synchronous and asynchronous receiver-transmitter. See here for more information.
   - https://doc.rust-lang.org/stable/embedded-book/appendix/glossary.html
 
-# his is Ferrous Systems' Embedded Rust❤️on Espressif training material.
+# his is Ferrous Systems' Embedded Rust❤️on Espressif training material.[|🔝|](#link)
 
 https://espressif-trainings.ferrous-systems.com/
 
@@ -169,38 +178,34 @@ https://espressif-trainings.ferrous-systems.com/
 
 <br>
 
-# Writing an Embedded Operating System in Rust
+# Writing an Embedded Operating System in Rust[|🔝|](#link)
 
 https://youtu.be/l1ujHfWoiOU
 
-# Rust Series
+# Rust Series[|🔝|](#link)
 
 https://youtube.com/playlist?list=PLFjq8z-aGyQ6t_LGp7wqHsHTYO-pDDx84
 
-# Arduino코딩❤️VSCode코딩하는 방법PlatformIO
+# Arduino코딩❤️VSCode코딩하는 방법PlatformIO[|🔝|](#link)
 
 https://youtu.be/PYSy_PLjytQ
 
-# Alternative rust compiler (re-implementation)
+# Alternative rust compiler (re-implementation)[|🔝|](#link)
 
 https://github.com/thepowersgang/mrustc
 
-# STM32F4 Embedded Rust at the PAC: GPIO Control
+# STM32F4 Embedded Rust at the PAC: GPIO Control[|🔝|](#link)
 
 https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-pac-gpio-control
 
-# Rust on RISC-V, a case study - Jorge Prendes and James Wainwright
+# Rust on RISC-V, a case study - Jorge Prendes and James Wainwright[|🔝|](#link)
 
 https://youtu.be/t5q0M5VDlQM
 
-# Best practices for integrating Rust and Qt in embedded systems
+# Best practices for integrating Rust and Qt in embedded systems[|🔝|](#link)
 
 https://www.embedded.com/best-practices-for-integrating-rust-and-qt-in-embedded-systems/
 
-# Embedded 관련 정보가 많음(뉴스 체크news)
-
-https://www.embedded.com/
-
-# Best Practices for Integrating Rust and Qt in Embedded Systems
+# Best Practices for Integrating Rust and Qt in Embedded Systems[|🔝|](#link)
 
 https://foundation.rust-lang.org/news/best-practices-for-integrating-rust-and-qt-in-embedded-systems/
