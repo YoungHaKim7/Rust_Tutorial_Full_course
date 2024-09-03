@@ -1,6 +1,32 @@
+# link
+
+
+- RaspberryPi
+- 
+
+- Aduino
+- 
+
+- Are we GUI ye?(Embedded 모아보기)
+  - [](#embedded-gui-rust)
+
+<hr>
+
+- Rust Embedded 공식 채널
+  - []()
+
+- Rust Embedded Tutorial
+  - [From Zero to Async in Embedded Rust | The Rusty Bits](#from-zero-to-async-in-embedded-rust--the-rusty-bits)
+  
+
+<hr>
+
+- 한국분의 실제 Rust Embedded 판매하는분
+
+<hr>
+
 # From Zero to Async in Embedded Rust | The Rusty Bits[|🔝|](#link)
 - https://youtu.be/wni5h5vIPhU?si=wxAhuE3DcKrs1Lta
-
 
 <hr>
 
@@ -105,6 +131,10 @@ https://www.rust-lang.org/what/embedded
 
 https://doc.rust-lang.org/stable/embedded-book/intro/index.html
 
+#  Rust Embedded(러스트 Embedded모아보기)[|🔝|](#link)
+- Enabling usage of Rust on Embedded Platforms (Embedded Linux / RTOS / Bare Metal)
+  - https://github.com/rust-embedded
+
 # Embedded GUI Rust[|🔝|](#link)
 
 - Slint: Are we GUI ye?
@@ -182,9 +212,6 @@ https://espressif-trainings.ferrous-systems.com/
 
 https://youtu.be/l1ujHfWoiOU
 
-# Rust Series[|🔝|](#link)
-
-https://youtube.com/playlist?list=PLFjq8z-aGyQ6t_LGp7wqHsHTYO-pDDx84
 
 # Arduino코딩❤️VSCode코딩하는 방법PlatformIO[|🔝|](#link)
 
