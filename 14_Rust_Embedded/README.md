@@ -1,12 +1,9 @@
 # link
 
-
 - RaspberryPi
-- [rust-raspberrypi-OS-tutorials](#rust-raspberrypi-os-tutorials)
-
+  - [rust-raspberrypi-OS-tutorials](#rust-raspberrypi-os-tutorials)
 - Aduino
-  - 
-
+  - TODO
 - Are we GUI ye?(Embedded 모아보기)
   - [](#embedded-gui-rust)
 
