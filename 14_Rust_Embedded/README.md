@@ -24,7 +24,7 @@
 
 <hr>
 
-- 한국분의 실제 Rust Embedded 판매하는분
+- [한국분의 실제 Rust Embedded 판매하는분](#러스트-한국-개발자-billmock-firmware)
 
 <hr>
 
