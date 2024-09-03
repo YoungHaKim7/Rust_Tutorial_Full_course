@@ -2,10 +2,10 @@
 
 
 - RaspberryPi
-- 
+- [rust-raspberrypi-OS-tutorials](#rust-raspberrypi-os-tutorials)
 
 - Aduino
-- 
+  - 
 
 - Are we GUI ye?(Embedded 모아보기)
   - [](#embedded-gui-rust)
@@ -13,15 +13,22 @@
 <hr>
 
 - Rust Embedded 공식 채널
-  - []()
+  - [Rust Embedded(러스트 Embedded모아보기)Enabling usage of Rust on Embedded Platforms (Embedded Linux / RTOS / Bare Metal)](#rust-embedded러스트-embedded모아보기)
+  - [러스트 홈페이지 Embedded안내 화면](#rust-공식채널)
 
 - Rust Embedded Tutorial
   - [From Zero to Async in Embedded Rust | The Rusty Bits](#from-zero-to-async-in-embedded-rust--the-rusty-bits)
+
+- [Rust Embedded기초 그림으로](#rust-embedded-기초)
   
 
 <hr>
 
 - 한국분의 실제 Rust Embedded 판매하는분
+
+<hr>
+
+- [Embedded](#embedded-최신-뉴스--embedded-관련-정보가-많음뉴스-체크news)
 
 <hr>
 
@@ -36,7 +43,7 @@
 
 <hr>
 
-# Embeded 최신 뉴스 & Embedded 관련 정보가 많음(뉴스 체크news)[|🔝|](#link)
+# Embedded 최신 뉴스 & Embedded 관련 정보가 많음(뉴스 체크news)[|🔝|](#link)
 
 - 24-01-09
   - https://blog.rust-embedded.org/embedded-hal-v1/
@@ -52,7 +59,7 @@
 
 <hr>
 
-# Rust Embeded 기초[|🔝|](#link)
+# Rust Embedded 기초[|🔝|](#link)
 
 - probe-rs-cli  보내고
   - https://github.com/probe-rs/probe-rs
@@ -131,7 +138,7 @@ https://www.rust-lang.org/what/embedded
 
 https://doc.rust-lang.org/stable/embedded-book/intro/index.html
 
-#  Rust Embedded(러스트 Embedded모아보기)[|🔝|](#link)
+# Rust Embedded(러스트 Embedded모아보기)[|🔝|](#link)
 - Enabling usage of Rust on Embedded Platforms (Embedded Linux / RTOS / Bare Metal)
   - https://github.com/rust-embedded
 
