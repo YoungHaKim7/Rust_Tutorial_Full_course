@@ -144,8 +144,10 @@ user@host:~$ xxd-rs dump -f Hex Cargo.toml
 ```
 
 # Memory Basic[[🔝]](#link)
+- 148p참고
+  - http://www.egr.unlv.edu/~ed/assembly64.pdf
 
-<br>
+<br/>
 
 - stack vs heap
 
