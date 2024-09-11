@@ -167,10 +167,10 @@ user@host:~$ xxd-rs dump -f Hex Cargo.toml
         <td colspan="6"> ↓↓↓↓↓↓  or  ↑↑↑↑↑↑↑  Free Memory</td>
     </tr>
     <tr align="center">
-        <td rowspan="4">Runtime 결정<br> A heap is a general term used for any memory<br> that is allocated dynamically and randomly;<br> i.e. out of order.<br>The memory is typically allocated by the OS.<br>with the application calling API functions<br>to do this allocation. <br>There is a fair bit of<br> overhead required in managing<br>dynamically allocated memory, which is<br>usually handled by the runtime code of <br> the programming language or <br>environment used.</td>
-        <td rowspan="4">↑↑↑↑↑↑↑</td>
-        <td rowspan="4">Heap</td>
-        <td rowspan="4">Low Memory</td>
+        <td rowspan="5">Runtime 결정<br> A heap is a general term used for any memory<br> that is allocated dynamically and randomly;<br> i.e. out of order.<br>The memory is typically allocated by the OS.<br>with the application calling API functions<br>to do this allocation. <br>There is a fair bit of<br> overhead required in managing<br>dynamically allocated memory, which is<br>usually handled by the runtime code of <br> the programming language or <br>environment used.</td>
+        <td rowspan="5">↑↑↑↑↑↑↑</td>
+        <td rowspan="5">Heap</td>
+        <td rowspan="5">Low Memory</td>
         <td colspan="2">Heap</td>
     </tr>
     <tr align="center">
@@ -184,6 +184,10 @@ user@host:~$ xxd-rs dump -f Hex Cargo.toml
     <tr align="center">
         <td>Code<br>실행할 프로그램의 코드</td>
         <td>The Code of the program to be executed.</td>
+    </tr>
+    <tr align="center">
+        <td>Reserved</td>
+        <td></td>
     </tr>
 </table>
 
