@@ -241,3 +241,11 @@ https://www.embedded.com/best-practices-for-integrating-rust-and-qt-in-embedded-
 # Best Practices for Integrating Rust and Qt in Embedded Systems[|🔝|](#link)
 
 https://foundation.rust-lang.org/news/best-practices-for-integrating-rust-and-qt-in-embedded-systems/
+
+# Rust is for Robotics[|🔝|](#link)
+- List of (awesome) Rust libraries for Robotics. If you know something awesome (or your project), please let me know from here.
+  - https://robotics.rs/
+
+- Rust is for Robotics
+  - web site of robotics.rs. See index.md.
+    - https://github.com/robotics-rs/robotics.rs
