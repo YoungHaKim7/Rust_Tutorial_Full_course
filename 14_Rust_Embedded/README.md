@@ -30,6 +30,10 @@
 
 <hr>
 
+- [Rust is for Robotics](#rust-is-for-robotics)
+
+<hr>
+
 # From Zero to Async in Embedded Rust | The Rusty Bits[|🔝|](#link)
 - https://youtu.be/wni5h5vIPhU?si=wxAhuE3DcKrs1Lta
 
@@ -242,6 +246,8 @@ https://www.embedded.com/best-practices-for-integrating-rust-and-qt-in-embedded-
 
 https://foundation.rust-lang.org/news/best-practices-for-integrating-rust-and-qt-in-embedded-systems/
 
+<hr>
+
 # Rust is for Robotics[|🔝|](#link)
 - List of (awesome) Rust libraries for Robotics. If you know something awesome (or your project), please let me know from here.
   - https://robotics.rs/
@@ -249,3 +255,30 @@ https://foundation.rust-lang.org/news/best-practices-for-integrating-rust-and-qt
 - Rust is for Robotics
   - web site of robotics.rs. See index.md.
     - https://github.com/robotics-rs/robotics.rs
+
+```rs
+pub struct Robot {
+    position: (i32, i32),
+    direction: (i32, i32),
+}
+
+impl Robot {
+    pub fn new() -> Robot {
+        Robot {
+            position: (0, 0),
+            direction: (0, 1),
+        }
+    }
+
+    pub fn forward(&mut self) {
+        self.position.0 += self.direction.0;
+        self.position.1 += self.direction.1;
+    }
+
+    // similar methods for backward, left and right
+}
+```
+- https://reintech.io/blog/rust-for-robotics-introduction
+
+
+<hr>
