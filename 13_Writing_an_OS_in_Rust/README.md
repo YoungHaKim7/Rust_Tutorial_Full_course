@@ -1,3 +1,10 @@
+# **[GN⁺: Asterinas - Rust로 작성된 Linux 호환 ABI 제공 OS 커널](<https://news.hada.io/topic?id=17283&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
+- Asterinas는 _안전성_, _속도_, _범용성_ 을 갖춘 OS 커널로, _Linux 호환_ ABI를 제공  
+- Linux를 대체할 수 있으며, _메모리 안전성_ 과 _개발자 친화성_ 을 향상시킴  
+  - Rust를 유일한 프로그래밍 언어로 사용하고, _unsafe Rust_ 의 사용을 최소화하여 명확히 정의된 신뢰 컴퓨팅 기반(TCB)으로 제한함으로써...
+
+<hr />
+
 # Rust OS 개발일지1 | Layfort·2024년 1월 9일
 - https://velog.io/@hamasoon/Rust-OS-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80
 
