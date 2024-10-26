@@ -22,7 +22,7 @@ https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung
 
 # Effective Rust
 
-https://www.lurklurk.org/effective-rust/cover.html
+https://www.lurklurk.org/effective-rust/
 
 # Rust for Rustaceans 책에 나오는 학습 리소스 정리
 
