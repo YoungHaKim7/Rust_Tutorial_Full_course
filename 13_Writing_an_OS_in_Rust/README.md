@@ -1,3 +1,12 @@
+# Rust 로 OS만들고 있는 대표적인 프로젝트 2개 (Redux & Mastro)
+# Mastro ( Unix-like kernel written in Rust) blog.lenot.re 
+- https://github.com/maestro-os/maestro
+# Redux
+- https://github.com/redox-os
+- https://www.redox-os.org/
+
+<hr />
+
 # **[GN⁺: Asterinas - Rust로 작성된 Linux 호환 ABI 제공 OS 커널](<https://news.hada.io/topic?id=17283&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
 - Asterinas는 _안전성_, _속도_, _범용성_ 을 갖춘 OS 커널로, _Linux 호환_ ABI를 제공  
 - Linux를 대체할 수 있으며, _메모리 안전성_ 과 _개발자 친화성_ 을 향상시킴  
