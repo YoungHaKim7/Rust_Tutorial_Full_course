@@ -19,7 +19,7 @@
 
 <hr>
 
-> - 유튜브 주소(영어 강의)
+> - 유튜브 주소(English ver._영어 강의)
 > - 1강
 > - https://www.youtube.com/watch?v=-lYeJeQ11OI&list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk&index=1
 
