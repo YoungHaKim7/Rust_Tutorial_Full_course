@@ -782,6 +782,11 @@ https://doc.rust-lang.org/beta/unstable-book/the-unstable-book.html
 
 - Easy Rust 유료 버젼Learn Rust in a Month of Lunches
   - https://www.manning.com/books/learn-rust-in-a-month-of-lunches
+  - [(종이책)예스24_ 한글 easy_rust 이지 러스트](https://www.yes24.com/Product/Goods/142661976)
+  - [(eBook)예스24_ 한글 easy_rust 이지 러스트](https://www.yes24.com/Product/goods/142876319)
 
 - 딥 다이브 느낌의 완벽한 러스트Complete-Rust-Programming-Reference-Guide
   - https://www.amazon.com/Complete-Rust-Programming-Reference-Guide/dp/1838828109
+
+- 최상급자 코스
+  - [아마존 eBook_러스트 딥 다이브_assembly수준으로 들어가자_Rust Under the Hood: A deep dive into Rust internals and generated assembly](https://www.amazon.com/Rust-Under-Hood-internals-generated/dp/B0D7FQB3DH)
