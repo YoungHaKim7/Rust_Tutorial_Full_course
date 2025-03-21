@@ -1,4 +1,4 @@
-# 여기에 다시 정리 중
+# 여기에 다시 정리 중(250321기준)
 
 - https://github.com/YoungHaKim7/rust_gui_app_in_summary
 
