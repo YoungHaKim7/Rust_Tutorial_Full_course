@@ -20,6 +20,21 @@
 
 <hr />
 
+<hr>
+
+# 중국 안드로이드 버리고 전환성공한 HarmonyOS NEXT(250321)
+
+- [241023_GN⁺: 화웨이, HarmonyOS NEXT 출시로 안드로이드와 공식 결별 (theregister.com)](https://news.hada.io/topic?id=17399)
+
+- HarmonyOS NEXT (Chinese: 鸿蒙星河版; pinyin: Hóngméng Xīnghébǎn)
+is a proprietary distributed operating system and a major iteration of HarmonyOS, developed by Huawei to support only HarmonyOS native apps.
+  - https://en.m.wikipedia.org/wiki/HarmonyOS_NEXT
+
+- HarmonyOS 최근 수정 시각: 2025-03-09 03:51:12
+  - https://namu.wiki/w/HarmonyOS
+ 
+<hr />
+
 # Rust OS 개발일지1 | Layfort·2024년 1월 9일
 - https://velog.io/@hamasoon/Rust-OS-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80
 
