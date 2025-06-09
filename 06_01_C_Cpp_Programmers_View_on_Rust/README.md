@@ -4,6 +4,9 @@
 
 <hr>
 
+# C언어 개발자를 위한 러스트 설명서 
+- https://rust-for-c-programmers.com/
+
 # A Guide to Porting C/C++ to Rust
 
 - https://locka99.gitbooks.io/a-guide-to-porting-c-to-rust/content/porting-code.html
