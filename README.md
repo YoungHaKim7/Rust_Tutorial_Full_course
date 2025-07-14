@@ -16,10 +16,14 @@
 - [Awesome-rust](#awesome-rust)
 
 - [러스트 기타 등등 tutorial](#기타-등등-rust-tutorial)
-- [러스트 downloads](#downloads-기타-등등-다)
+
 
 - 동시성 & 병렬 실행
   - [Rust Atomis locks / Rust의 왕 누님 MaraBos 유명한 책](#rust-atomics--locks-집중-분석)
+
+<hr />
+
+- [shields (뱃지 아이콘(toml, Crate Dependencies 기타 등등) 만들때](#downloads-기타-등등-다)
 
 <hr />
 
@@ -216,9 +220,10 @@ https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
 
 https://shields.io/category/license
 
-# downloads 기타 등등 다[|🔝|](#link)
+# shields (뱃지 아이콘(toml, Crate Dependencies 기타 등등) 만들때 굿shields.io/) [|🔝|](#link)
 
-https://shields.io/category/downloads
+- https://shields.io/
+- https://shields.io/badges
 
 # Rust eBook(Freely available programming books, 무료 배울 수 있음)[|🔝|](#link)
 
