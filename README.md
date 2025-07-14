@@ -23,7 +23,7 @@
 
 <hr />
 
-- [shields (뱃지 아이콘(toml, Crate Dependencies 기타 등등) 만들때](#downloads-기타-등등-다)
+- [shields (뱃지 아이콘(toml, Crate Dependencies 라이센스 표기_기타 등등) 만들때](#shields-뱃지-아이콘toml-crate-dependencies-기타-등등-만들때-굿shieldsio-)
 
 <hr />
 
