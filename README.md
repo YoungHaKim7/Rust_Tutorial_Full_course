@@ -31,6 +31,11 @@
 
 - https://roadmap.sh/rust
 
+# 러스트 x 계정(예전 트위터)에서 BlueSky로 갈아탐[|🔝|](#link)
+- 250714 기준
+- 머스크 형 손절 각 !!
+  - https://bsky.app/profile/rust-lang.org
+
 # Rust 한글 Eng설명서[|🔝|](#link)
 
 - 한글 https://rinthel.github.io/rust-lang-book-ko/
