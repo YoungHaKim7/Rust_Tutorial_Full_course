@@ -1,6 +1,25 @@
 # link
 
 - [러스트를 처음 시작하는 개발자에게 하고 싶은 말..](#befor-we-get-stated-some-tips--ryan-levick)
+  - [Rust RoadMap](#rust-roadmap)
+  - [AI 시대에 개발자가 가져야할 코딩 마인드](#이제-손으로-짜는-코딩은-byebye-what-you-do-use-you-couldnt-hand-code-any-better당신이-사용하는-것-당신은-더-나은-코드를-만들-수-없습니다)
+  - [러스트 간단히 소개](#러스트-간단히-소개-rust-for-beginners--get-started-with-the-most-loved-programming-language--freecodecamp)
+
+- [Rust Doc std](#rust-doc-stdstandard-library-doc)
+- [Rust Cheats sheet](#rust-language-cheats-sheet)
+
+- [러스트 한글 & 영문(Eng.) 설명서](#rust-한글-eng설명서)
+- [러스트 초보자라면 easy rust가 짱](#tutorial-rust-___easy-rust-my-teacher스승님-최고-%EF%B8%8F)
+- [구글팀에서 만든 comprehensive rust 1주일 안에 속성으로 잠 안재우고 러스트 가르치는 코스_구글팀에서-만든-러스트-4일-완성-tutorial](#comprehensive-rust-구글팀에서-만듬)
+
+- [effective rust](#effective-rust)
+- [Awesome-rust](#awesome-rust)
+
+- [러스트 기타 등등 tutorial](#기타-등등-rust-tutorial)
+- [러스트 downloads](#downloads-기타-등등-다)
+
+- 동시성 & 병렬 실행
+  - [Rust Atomis locks / Rust의 왕 누님 MaraBos 유명한 책](#rust-atomics--locks-집중-분석)
 
 <hr />
 
