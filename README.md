@@ -1,5 +1,6 @@
 # link
 
+- [러스트를 처음 시작하는 개발자에게 하고 싶은 말..](#befor-we-get-stated-some-tips--ryan-levick)
 
 <hr />
 
