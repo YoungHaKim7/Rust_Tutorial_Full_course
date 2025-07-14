@@ -4,19 +4,15 @@
 
 <hr />
 
-# Rust RoadMap
+# Rust RoadMap[|🔝|](#link)
 
 - https://roadmap.sh/rust
 
-# Rust 한글 Eng설명서
+# Rust 한글 Eng설명서[|🔝|](#link)
 
 - 한글 https://rinthel.github.io/rust-lang-book-ko/
 
 - Eng. https://doc.rust-lang.org/book/
-
-## Comprehensive Rust 🦀(구글팀에서 만듬)
-
-https://google.github.io/comprehensive-rust/ko/other-resources.html
 
 <hr>
 
@@ -26,21 +22,21 @@ https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung
 
   - https://youtube.com/playlist?list=PLcMveqN_07maeDuKrsf5GYMDB5obTWoWg
 
-# Effective Rust
+# Effective Rust[|🔝|](#link)
 
 https://www.lurklurk.org/effective-rust/
 
-# Rust for Rustaceans 책에 나오는 학습 리소스 정리
+# Rust for Rustaceans 책에 나오는 학습 리소스 정리[|🔝|](#link)
 
 https://inudevlog.com/Rust%20for%20Rustaceans%20%EC%B1%85%EC%97%90%20%EB%82%98%EC%98%A4%EB%8A%94%20%ED%95%99%EC%8A%B5%20%EB%A6%AC%EC%86%8C%EC%8A%A4%20%EC%A0%95%EB%A6%AC/
 
 <hr>
 
-# 러스트 간단히 소개 Rust for Beginners – Get Started with the Most Loved Programming Language | FreeCodeCamp
+# 러스트 간단히 소개 Rust for Beginners – Get Started with the Most Loved Programming Language | FreeCodeCamp[|🔝|](#link)
 
 https://www.freecodecamp.org/news/rust-getting-started-with-the-most-loved-programming-language/
 
-# 이제 손으로 짜는 코딩은 ByeBye) What you do use, you couldn’t hand code any better(당신이 사용하는 것, 당신은 더 나은 코드를 만들 수 없습니다)
+# 이제 손으로 짜는 코딩은 ByeBye) What you do use, you couldn’t hand code any better(당신이 사용하는 것, 당신은 더 나은 코드를 만들 수 없습니다)[|🔝|](#link)
 
 (출처 which Dr. Bjarne Stroustrup, father of C++, explains (see pg. 4)
 
@@ -58,7 +54,7 @@ https://www.freecodecamp.org/news/rust-getting-started-with-the-most-loved-progr
   
 <hr>
 
-# Rust atomics & Locks 집중 분석
+# Rust atomics & Locks 집중 분석[|🔝|](#link)
 
 - Rust Atomics and Locks (Low-Level Concurrency in Practice by Mara Bos)
 
@@ -70,11 +66,11 @@ https://www.freecodecamp.org/news/rust-getting-started-with-the-most-loved-progr
 
 ![Screenshot 2023-02-13 at 11 35 45 PM](https://user-images.githubusercontent.com/67513038/218490501-f12b971f-363a-45c8-9ea1-4633d40e3364.png)
 
-# Isabella Muerte(@slurpsmadrips) August 1, 2019
+# Isabella Muerte(@slurpsmadrips) August 1, 2019[|🔝|](#link)
 
 - Rust Programmers, if the Rust commuity wants to hide horrors, fight to prevent a major catastrophe, and unite humanity so we don't have to feel pain or be alone, that's not language evangelism. That's language evangelionism.
 
-# Befor we get stated... Some tips | Ryan Levick
+# Befor we get stated... Some tips | Ryan Levick[|🔝|](#link)
 
 ![1212121212](https://user-images.githubusercontent.com/67513038/218509435-245e1cd7-14a4-4028-a744-8bb599a072ae.jpg)
 
@@ -119,7 +115,7 @@ https://www.freecodecamp.org/news/rust-getting-started-with-the-most-loved-progr
 
 <hr>
 
-# Tutorial Rust \_\_\_Easy Rust (My teacher스승님 최고 ❤️)
+# Tutorial Rust \_\_\_Easy Rust (My teacher스승님 최고 ❤️)[|🔝|](#link)
 
 <h1>Updating</h1>
 
@@ -147,15 +143,19 @@ https://www.freecodecamp.org/news/rust-getting-started-with-the-most-loved-progr
 
 <br>
 
-# google(comprehensive-rust) 구글팀에서 만든 러스트 4일 완성 tutorial
+# google(comprehensive-rust) 구글팀에서 만든 러스트 4일 완성 tutorial[|🔝|](#link)
 
 https://google.github.io/comprehensive-rust/
 
-# comprehensive-rust (other resources)
+# comprehensive-rust (other resources)[|🔝|](#link)
 
 https://google.github.io/comprehensive-rust/other-resources.html
 
-# 기타 등등 Rust tutorial
+## Comprehensive Rust 🦀(구글팀에서 만듬)[|🔝|](#link)
+
+https://google.github.io/comprehensive-rust/ko/other-resources.html
+
+# 기타 등등 Rust tutorial[|🔝|](#link)
 
 - tutorialpoint
 
@@ -165,19 +165,19 @@ https://google.github.io/comprehensive-rust/other-resources.html
 
     - https://www.tutorialspoint.com/rust/rust_string.htm
 
-# Rust Doc std(standard Library DOC)
+# Rust Doc std(standard Library DOC)[|🔝|](#link)
 
 https://doc.rust-lang.org/std/
 
 <br>
 
-## DOCS.RS(rust 기타 crate문서들)
+## DOCS.RS(rust 기타 crate문서들)[|🔝|](#link)
 
 https://docs.rs/
 
 <br>
 
-# Rust Language Cheats Sheet
+# Rust Language Cheats Sheet[|🔝|](#link)
 
 https://cheats.rs/
 
@@ -185,39 +185,39 @@ https://github.com/ralfbiedert/cheats.rs/
 
 <hr>
 
-# awesome rust
+# awesome rust[|🔝|](#link)
 
 https://github.com/awesome-rust-com/awesome-rust
 
 <br>
 
-# Lincence라이센스 표시
+# Lincence라이센스 표시[|🔝|](#link)
 
 https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
 
 https://shields.io/category/license
 
-# downloads 기타 등등 다
+# downloads 기타 등등 다[|🔝|](#link)
 
 https://shields.io/category/downloads
 
-# Rust eBook(Freely available programming books, 무료 배울 수 있음)
+# Rust eBook(Freely available programming books, 무료 배울 수 있음)[|🔝|](#link)
 
 https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#rust
 
-# Rust 공식 Learn 채널
+# Rust 공식 Learn 채널[|🔝|](#link)
 
 https://www.rust-lang.org/learn
 
-# Rust 공식 eBook eng.
+# Rust 공식 eBook eng.[|🔝|](#link)
 
 https://doc.rust-lang.org/book/
 
-## Experiment: Improving the Rust Book
+## Experiment: Improving the Rust Book[|🔝|](#link)
 
 - https://rust-book.cs.brown.edu/
 
-# Clippy
+# Clippy[|🔝|](#link)
 
 ## A collection of lints to catch common mistakes and improve your Rust code.
 
@@ -229,15 +229,15 @@ https://rust-lang.github.io/rust-clippy/master/index.html
 
 <br>
 
-# awesome rust
+# awesome rust[|🔝|](#link)
 
 https://github.com/awesome-rust-com/awesome-rust
 
 <br>
 
-# Rustlings
+# Rustlings[|🔝|](#link)
 
-# Presentation by Rust
+# Presentation by Rust[|🔝|](#link)
 
 Rust is a system programming language, compiled and multi-paradigm. It is a cross between imperative language (C), object (C++), functional (Ocaml) and competitor (Erlang). It draws on the theories of the languages of recent years and the most popular programming languages in order to achieve three objectives: speed, security (in particular memory) and competitor (secure data sharing between tasks).
 
@@ -269,7 +269,7 @@ We'll review all of this in more detail. Some useful links:
 
 <hr>
 
-# Rust 무료로 배울 링크
+# Rust 무료로 배울 링크[|🔝|](#link)
 
 https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#rust
 
@@ -277,7 +277,7 @@ https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-p
 
   - https://github.com/MunGell/awesome-for-beginners#rust
 
-# 모든 언어를 무료로 공부할 수 있다.
+# 모든 언어를 무료로 공부할 수 있다.[|🔝|](#link)
 
 출처 : stackoverflow.com
 알게 된 링크
@@ -294,17 +294,17 @@ https://github.com/EbookFoundation/free-programming-books
 
 https://ebookfoundation.github.io/free-programming-books/
 
-# 모든 언어 기초 배우고 기초적인 프로그램 만들기 awesome for beginners 너무 좋다.❤️👍
+# 모든 언어 기초 배우고 기초적인 프로그램 만들기 awesome for beginners 너무 좋다.❤️👍[|🔝|](#link)
 
 https://github.com/MunGell/awesome-for-beginners
 
 <br>
 
-# Rust 공식eBook에 나오는 String개념
+# Rust 공식eBook에 나오는 String개념[|🔝|](#link)
 
 https://doc.rust-lang.org/book/ch08-02-strings.html
 
-# 러스트의 String 종류 ㅋㅋ
+# 러스트의 String 종류 ㅋㅋ[|🔝|](#link)
 
 - https://youtu.be/4DLhTPsg8QQ
 
@@ -342,11 +342,11 @@ format!()
 - https://economiceco.tistory.com/13040
 
 
-# YouTubeContents_GlobalYoung
+# YouTubeContents_GlobalYoung[|🔝|](#link)
 
 https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung
 
-# 소유권 규칙
+# 소유권 규칙[|🔝|](#link)
 
 먼저, 소유권에 적용되는 규칙부터 살펴보자. 앞으로 살펴볼 예제들은 이 규칙들을 설명하기 위한 것이므로 잘 기억하도록 하자.
 
@@ -354,7 +354,7 @@ https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung
 2. 특정 시점에 값의 소유자는 단 하나뿐이다.
 3. 소유자가 범위를 벗어나면 그 값은 제거된다.
 
-# Ownership Rules
+# Ownership Rules[|🔝|](#link)
 
 First, let's take a look at the ownership rules. Keep these rules in mind as we work through the examples that illustrate them"
 
@@ -362,14 +362,14 @@ First, let's take a look at the ownership rules. Keep these rules in mind as we 
 2. There can only be one owner at a time.
 3. When the owner goes out of scope, the value will be dropped.
 
-# Borrowing rules
+# Borrowing rules[|🔝|](#link)
 
 1. At any given time,
    you can have either one mutable reference or any number of immutable references.
 
 2. References must always be valid.
 
-# Borrow Checker(Rustlang)
+# Borrow Checker(Rustlang)[|🔝|](#link)
 
 <table border="1">
     <tr>
@@ -415,7 +415,7 @@ https://doc.rust-lang.org
 
 <hr>
 
-# Ownership(Rustlang)
+# Ownership(Rustlang)[|🔝|](#link)
 
 <table border="1">
     <tr>
@@ -433,7 +433,7 @@ https://doc.rust-lang.org
         <td><a href="https://youtu.be/__7cMs4gqSU">자바(Java)_vs_러스트_비교하면서 러스트오너쉽개념이해_기본syntax연습하기part3_#java #rust #ownership</td>
 </table>
 
-# rust -memory-container
+# rust -memory-container[|🔝|](#link)
 
 https://github.com/usagi/rust-memory-container-cs
 
@@ -447,7 +447,7 @@ https://github.com/usagi/rust-memory-container-cs
 
 <br>
 
-# Ownership Concept Diagram
+# Ownership Concept Diagram[|🔝|](#link)
 
 ![rust-ownvership](https://i.redd.it/nhhxzcwqd6q61.png)
 
@@ -477,25 +477,25 @@ https://youtu.be/Bfqx_V2gp1Y
 
 <hr>
 
-# Easy Rust
+# Easy Rust[|🔝|](#link)
 
 - 프로그래밍 언어 러스트를 배웁시다! 019 Easy Rust in Korean: references and shadowing
 
 https://youtu.be/oOXM9Aafem8
 
-## Easy Rust 모아보기
+## Easy Rust 모아보기[|🔝|](#link)
 
 https://www.youtube.com/watch?v=oOXM9Aafem8&list=PLfllocyHVgsSJf1zO6k6o3SX2mbZjAqYE&index=20
 
 <br>
 
-# Understanding Ownership in Rust | Let's Get Rusty
+# Understanding Ownership in Rust | Let's Get Rusty[|🔝|](#link)
 
 https://youtu.be/VFIOSWy93H0
 
 <hr>
 
-# 같이 보면 좋은 자료
+# 같이 보면 좋은 자료[|🔝|](#link)
 
 - stack&heap메모리개념잡기
   https://youtu.be/OwQxo4sGVWo
@@ -514,7 +514,7 @@ Rust소유권 규칙Ownership Rules &Borrowing rules
 
 - https://economiceco.tistory.com/m/8614
 
-# Option (Rustlang)
+# Option (Rustlang)[|🔝|](#link)
 
 <table border="1">
     <tr>
@@ -544,7 +544,7 @@ Rust소유권 규칙Ownership Rules &Borrowing rules
 
 <br>
 
-# Easy Rust
+# Easy Rust[|🔝|](#link)
 
 - 프로그래밍 언어 러스트를 배웁시다! 046 Easy Rust in Korean: Option
 
@@ -556,7 +556,7 @@ https://youtu.be/vqavdUGKeb4
 
 <br>
 
-# Rust 공식 문서
+# Rust 공식 문서[|🔝|](#link)
 
 이 문서를 뼈대로 설명해도 됨. 예문까지 깔끔
 
@@ -566,7 +566,7 @@ https://doc.rust-lang.org/std/option/
 
 ![rustoption](https://i.redd.it/dt1wan02aa561.png)
 
-## Rust's Option❤️in One Figure(Reddit자료)
+## Rust's Option❤️in One Figure(Reddit자료)[|🔝|](#link)
 
 https://www.reddit.com/r/rust/comments/kdfb9k/rusts_option_in_one_figure/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
 
@@ -590,7 +590,7 @@ Rust's Option in One Figure Posted in r/rust by u/arsdragonfly
 
 ![design_patterns](https://user-images.githubusercontent.com/67513038/219593397-b9a305ba-1c07-416c-9815-697dc235fe52.png)
 
-# Design-Patterns (Rustlang)<a href="https://www.rust-lang.org/"><img alt="rust1" width="32px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a>
+# Design-Patterns (Rustlang)<a href="https://www.rust-lang.org/"><img alt="rust1" width="32px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a>[|🔝|](#link)
 
 https://refactoring.guru/design-patterns/rust
 
@@ -598,7 +598,7 @@ https://refactoring.guru/design-patterns/rust
 
 <hr>
 
-# 이건 러스트 디자인 패턴 다른 자료 ebook
+# 이건 러스트 디자인 패턴 다른 자료 ebook[|🔝|](#link)
 
 https://rust-unofficial.github.io/patterns/intro.html
 
@@ -625,47 +625,47 @@ https://rust-unofficial.github.io/patterns/additional_resources/design-principle
 
 "Every piece of knowledge must have a single, unambiguous, authoritative representation within a system"
 
-# KISS principle
+# KISS principle[|🔝|](#link)
 
 most systems work best if they are kept simple rather than made complicated; therefore, simplicity should be a key goal in design, and unnecessary complexity should be avoided
 
-# Law of Demeter (LoD)
+# Law of Demeter (LoD)[|🔝|](#link)
 
 a given object should assume as little as possible about the structure or properties of anything else (including its subcomponents), in accordance with the principle of "information hiding"
 
-# Design by contract (DbC)
+# Design by contract (DbC)[|🔝|](#link)
 
 software designers should define formal, precise and verifiable interface specifications for software components, which extend the ordinary definition of abstract data types with preconditions, postconditions and invariants
 
-# Encapsulation
+# Encapsulation[|🔝|](#link)
 
 bundling of data with the methods that operate on that data, or the restricting of direct access to some of an object's components. Encapsulation is used to hide the values or state of a structured data object inside a class, preventing unauthorized parties' direct access to them.
 
-# Command-Query-Separation(CQS)
+# Command-Query-Separation(CQS)[|🔝|](#link)
 
 “Functions should not produce abstract side effects...only commands (procedures) will be permitted to produce side effects.” - Bertrand Meyer: Object-Oriented Software Construction
 
-# Principle of least astonishment (POLA)
+# Principle of least astonishment (POLA)[|🔝|](#link)
 
 a component of a system should behave in a way that most users will expect it to behave. The behavior should not astonish or surprise users
 
-# Linguistic-Modular-Units
+# Linguistic-Modular-Units[|🔝|](#link)
 
 “Modules must correspond to syntactic units in the language used.” - Bertrand Meyer: Object-Oriented Software Construction
 
-# Self-Documentation
+# Self-Documentation[|🔝|](#link)
 
 “The designer of a module should strive to make all information about the module part of the module itself.” - Bertrand Meyer: Object-Oriented Software Construction
 
-# Uniform-Access
+# Uniform-Access[|🔝|](#link)
 
 “All services offered by a module should be available through a uniform notation, which does not betray whether they are implemented through storage or through computation.” - Bertrand Meyer: Object-Oriented Software Construction
 
-# Single-Choice
+# Single-Choice[|🔝|](#link)
 
 “Whenever a software system must support a set of alternatives, one and only one module in the system should know their exhaustive list.” - Bertrand Meyer: Object-Oriented Software Construction
 
-# Persistence-Closure
+# Persistence-Closure[|🔝|](#link)
 
 “Whenever a storage mechanism stores an object, it must store with it the dependents of that object. Whenever a retrieval mechanism retrieves a previously stored object, it must also retrieve any dependent of that object that has not yet been retrieved.” - Bertrand Meyer: Object-Oriented Software Construction
 
@@ -677,7 +677,7 @@ a component of a system should behave in a way that most users will expect it to
 
 <br>
 
-# Rust<a href="https://www.rust-lang.org/"><img alt="rust1" width="32px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a> vs Haskell<a href="https://www.haskell.org/"><img alt="haskell" width="32px" src="https://user-images.githubusercontent.com/67513038/204034727-e2a992fc-6392-4dc4-8846-843f0c1a31c9.png"></a>
+# Rust<a href="https://www.rust-lang.org/"><img alt="rust1" width="32px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a> vs Haskell<a href="https://www.haskell.org/"><img alt="haskell" width="32px" src="https://user-images.githubusercontent.com/67513038/204034727-e2a992fc-6392-4dc4-8846-843f0c1a31c9.png"></a>[|🔝|](#link)
 
 https://serokell.io/blog/rust-vs-haskell
 
@@ -685,21 +685,21 @@ https://serokell.io/blog/rust-vs-haskell
 
 <br>
 
-# Haskell & Rust mind map
+# Haskell & Rust mind map[|🔝|](#link)
 
 https://forum.cardano.org/t/haskell-and-rust-mind-map/20212
 
 <hr>
 
-# Rust Mind Map
+# Rust Mind Map[|🔝|](#link)
 
 https://github.com/ItFlyingStart/Rust
 
-# Rust Mind Map 2
+# Rust Mind Map 2[|🔝|](#link)
 
 https://www.aloneguid.uk/posts/2021/01/rust/
 
-# Save space by cleaning non-essential files from software projects.
+# Save space by cleaning non-essential files from software projects.[|🔝|](#link)
 
 - 러스트 프로젝트가 많아지면 target폴더 지워야하는데 `kondo`라고 치면 다 지워준다. 최고!!💕
 
@@ -711,7 +711,7 @@ kondo
 
   - https://github.com/tbillington/kondo
 
-# 윈도우 파웨셀에서 원하는 폴더 강제로 지우기(pwsh.exe) WindowsOS에서
+# 윈도우 파웨셀에서 원하는 폴더 강제로 지우기(pwsh.exe) WindowsOS에서[|🔝|](#link)
 
 - rm -Force 지우고 싶은 폴더
 
@@ -721,7 +721,7 @@ rm -Force .\read_line03
 
 ```
 
-# 윈도우 파웨셀에서 .gitignore 만들기 /target세팅 (pwsh.exe) WindowsOS에서
+# 윈도우 파웨셀에서 .gitignore 만들기 /target세팅 (pwsh.exe) WindowsOS에서[|🔝|](#link)
 
 - WindowsOS윈도우에는 touch가 없으니 echo를 활용하면 된다. 신기한건 Linux나 macOS에서도 되서 신기했다. 무조건 touch로 해야하는줄 알았는데 ㅋㅋ
 
@@ -737,7 +737,7 @@ echo "/target" >> .gitignore
 
 ```
 
-# 윈도우 파워셀에서 러스트 target폴더 지우기(pwsh.exe) WindowsOS에서
+# 윈도우 파워셀에서 러스트 target폴더 지우기(pwsh.exe) WindowsOS에서[|🔝|](#link)
 
 - 상위 폴더에서 하면 하위 폴더에 있는 target 폴더 다 지워진다. ㅎㅎ 편하네 ㅋㅋ 개꿀!!
 
@@ -745,20 +745,20 @@ echo "/target" >> .gitignore
 Get-ChildItem -Filter ./target -Recurse -Force | Remove-Item -Recurse -Force
 ```
 
-# 윈도우 파워셀에서 러스트 target폴더 찾기(pwsh.exe) WindowsOS에서
+# 윈도우 파워셀에서 러스트 target폴더 찾기(pwsh.exe) WindowsOS에서[|🔝|](#link)
 
 ```
 dir .\ -r -i "target"
 ```
 
-# Tutorial Rust(다른 외국 유튜버 깃허브Rust정보)
+# Tutorial Rust(다른 외국 유튜버 깃허브Rust정보)[|🔝|](#link)
 
 https://github.com/GuillaumeGomez/tuto-rust-fr
 
 https://github.com/0atman/noboilerplate
 
 
-# LetsGetRusty Cheat Sheet 얻기
+# LetsGetRusty Cheat Sheet 얻기[|🔝|](#link)
 
 https://www.youtube.com/c/LetsGetRusty/featured
 
@@ -779,7 +779,7 @@ https://letsgetrusty.kartra.com/page/XDk8
 
 <br>
 
-## 시작 예제 some, None ex)(외국 유튜버 설명)
+## 시작 예제 some, None ex)(외국 유튜버 설명)[|🔝|](#link)
 
 https://youtu.be/OrL0DEChwpQ
 
@@ -791,11 +791,11 @@ https://economiceco.tistory.com/m/6140
 
 https://economiceco.tistory.com/8614
 
-# Rust \_\_Unstable - Book
+# Rust \_\_Unstable - Book[|🔝|](#link)
 
 https://doc.rust-lang.org/beta/unstable-book/the-unstable-book.html
 
-# $유료$ Rust 코스 모음$
+# $유료$ Rust 코스 모음$[|🔝|](#link)
 
 - Easy Rust 유료 버젼Learn Rust in a Month of Lunches
   - https://www.manning.com/books/learn-rust-in-a-month-of-lunches
