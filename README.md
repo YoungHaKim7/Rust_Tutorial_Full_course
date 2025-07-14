@@ -1,3 +1,8 @@
+# link
+
+
+<hr />
+
 # Rust RoadMap
 
 - https://roadmap.sh/rust
@@ -99,6 +104,17 @@ https://www.freecodecamp.org/news/rust-getting-started-with-the-most-loved-progr
 - 어느 시점에서든 어느 것이 항상 구별하기 쉽지는 않다?
 
 - 불행하게도, 설명이 항상 최선은 아니다
+
+<hr />
+
+- 빠르지만 급하지 않게. 여유롭지만 결코 느리지 않게
+  - 출처: -얼어붙은 플레이어의 귀환 13화-
+
+<hr />
+
+- Programming is the art of transforming thought into code to accomplish a desired goal.
+  - 프로그래밍은 원하는 목표를 달성하기 위해 생각을 코드로 바꾸는 기술이다.
+  - 다음에서 발췌 Math for Programming | Ronald T. Kneusel.
 
 <hr>
 
