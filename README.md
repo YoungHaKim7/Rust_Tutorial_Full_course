@@ -1,6 +1,6 @@
 # link
 
-- [러스트를 처음 시작하는 개발자에게 하고 싶은 말..](#before-we-get-stated-some-tips--ryan-levick)
+- [러스트를 처음 시작하는 개발자에게 하고 싶은 말..](#before-we-get-started-some-tips--ryan-levick)
   - [Rust RoadMap](#rust-roadmap)
   - [AI 시대에 개발자가 가져야할 코딩 마인드](#이제-손으로-짜는-코딩은-byebye-what-you-do-use-you-couldnt-hand-code-any-better당신이-사용하는-것-당신은-더-나은-코드를-만들-수-없습니다)
   - [러스트 간단히 소개](#러스트-간단히-소개-rust-for-beginners--get-started-with-the-most-loved-programming-language--freecodecamp)
@@ -98,7 +98,7 @@ https://www.freecodecamp.org/news/rust-getting-started-with-the-most-loved-progr
 
 - Rust Programmers, if the Rust commuity wants to hide horrors, fight to prevent a major catastrophe, and unite humanity so we don't have to feel pain or be alone, that's not language evangelism. That's language evangelionism.
 
-# Before we get stated... Some tips | Ryan Levick[|🔝|](#link)
+# Before we get started... Some tips | Ryan Levick[|🔝|](#link)
 
 ![1212121212](https://user-images.githubusercontent.com/67513038/218509435-245e1cd7-14a4-4028-a744-8bb599a072ae.jpg)
 
