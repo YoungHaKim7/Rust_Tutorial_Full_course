@@ -145,6 +145,7 @@ https://www.freecodecamp.org/news/rust-getting-started-with-the-most-loved-progr
   - 러스트는 **완전히 새로운 사고방식**을 요구하는 언어로, **마음가짐**이 학습 속도에 큰 영향을 줌  
   - **컴파일러와 친해지는 것**이 핵심이며, 오류 메시지를 단순히 고치는 것이 아니라 **이유를 이해하는 태도**가 중요함  
   - 초반에는 `clone()`, `unwrap` 등을 적극적으로 사용해 **작게 시작하고 점진적으로 …
+  - https://corrode.dev/blog/flattening-rusts-learning-curve/
 
 <hr>
 
