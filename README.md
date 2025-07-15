@@ -142,9 +142,9 @@ https://www.freecodecamp.org/news/rust-getting-started-with-the-most-loved-progr
   - 다음에서 발췌 Math for Programming | Ronald T. Kneusel.
 
 - **[Rust의 학습 곡선 평탄화 가이드](<https://news.hada.io/topic?id=20903&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
-- 러스트는 **완전히 새로운 사고방식**을 요구하는 언어로, **마음가짐**이 학습 속도에 큰 영향을 줌  
-- **컴파일러와 친해지는 것**이 핵심이며, 오류 메시지를 단순히 고치는 것이 아니라 **이유를 이해하는 태도**가 중요함  
-- 초반에는 `clone()`, `unwrap` 등을 적극적으로 사용해 **작게 시작하고 점진적으로 …
+  - 러스트는 **완전히 새로운 사고방식**을 요구하는 언어로, **마음가짐**이 학습 속도에 큰 영향을 줌  
+  - **컴파일러와 친해지는 것**이 핵심이며, 오류 메시지를 단순히 고치는 것이 아니라 **이유를 이해하는 태도**가 중요함  
+  - 초반에는 `clone()`, `unwrap` 등을 적극적으로 사용해 **작게 시작하고 점진적으로 …
 
 <hr>
 
