@@ -16,12 +16,14 @@
 > - 유튜브 주소(한글 강의)
 > - 1강
 > - https://www.youtube.com/watch?v=W9DO6m8JSSs
+>   - [easy rust(한글판)영상 모아보기](https://youtube.com/playlist?list=PLfllocyHVgsSJf1zO6k6o3SX2mbZjAqYE&si=ijygPBgMgYdLylx0)
 
 <hr>
 
 > - 유튜브 주소(English ver._영어 강의)
 > - 1강
 > - https://www.youtube.com/watch?v=-lYeJeQ11OI&list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk&index=1
+>   - [easy rust(영문판)영상 모아보기](https://youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk&si=hL8_tOa1-JvIst0f) 
 
 -Easy Rust eBook
 
